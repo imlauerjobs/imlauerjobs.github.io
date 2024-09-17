@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timeout on Index</title>
+    <link>https://imlauerjobs.github.io/@timeout/</link>
+    <description>Recent content in Timeout on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Tue, 17 Sep 2024 12:25:11 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@timeout/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curl_timeout_issue_linux</title>
+      <link>https://imlauerjobs.github.io/curl_timeout_issue_linux/</link>
+      <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/curl_timeout_issue_linux/</guid>
+      <description>Necesito ayuda para resolver un error de tiempo de espera de &amp;ldquo;curl&amp;rdquo; en mi servidor Linux dedicado.&#xA;Problema: El comando &amp;lsquo;curl&amp;rsquo; está agotando el tiempo de espera, lo que impide conexiones exitosas. Entorno: Esto sucede en un servidor dedicado Linux. El autónomo ideal para esta tarea debería tener:&#xA;Amplia experiencia con servidores Linux. Conocimiento competente de los comandos &amp;lsquo;curl&amp;rsquo; y la resolución de problemas. Capacidad para diagnosticar y resolver problemas relacionados con el servidor con prontitud.</description>
+    </item>
+  </channel>
+</rss>
