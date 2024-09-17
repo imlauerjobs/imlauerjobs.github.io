@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Server on Index</title>
+    <link>https://imlauerindex.github.io/@server/</link>
+    <description>Recent content in Server on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Mon, 16 Sep 2024 18:43:59 -0300</lastBuildDate>
+    <atom:link href="https://imlauerindex.github.io/@server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dedicated server setup config</title>
+      <link>https://imlauerindex.github.io/dedicated_server_setup_config/</link>
+      <pubDate>Mon, 16 Sep 2024 18:43:59 -0300</pubDate>
+      <guid>https://imlauerindex.github.io/dedicated_server_setup_config/</guid>
+      <description>https://www.freelancer.com/projects/linux/Dedicated-Server-Setup-Configuration/details&#xA;primera parte del proyecto camino rocoso linux 9.4 se ha instalado en el servidor dedicado | Servidores bare metal |servidor ovh Necesito ayuda con mi servidor dedicado. Las tareas incluyen:&#xA;Investigar el problema del usuario root y crear uno si es necesario. Instalando cPanel (ya tengo licencia para esta IP). Instalación de WordPress en el servidor. Instalar un certificado SSL (que proporcionaré) para mi dominio. El servidor ejecuta un sistema operativo Linux, específicamente la distribución Rocky Road.</description>
+    </item>
+  </channel>
+</rss>
