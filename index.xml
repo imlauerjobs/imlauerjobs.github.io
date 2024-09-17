@@ -6,8 +6,15 @@
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Mon, 16 Sep 2024 19:58:34 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 11:49:54 -0300</lastBuildDate>
     <atom:link href="https://imlauerindex.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fix bash script for librecad installation</title>
+      <link>https://imlauerindex.github.io/fix_bash_script_for_librecad_installation/</link>
+      <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
+      <guid>https://imlauerindex.github.io/fix_bash_script_for_librecad_installation/</guid>
+      <description>https://www.freelancer.com/projects/linux/Fix-Bash-Script-for-LibreCAD/details&#xA;Tags: Linux, Shell Script, Ubuntu, Network Administrator, Qt&#xA;Tengo un archivo de script bash que uso para instalar librecad en Linux. Antes se ejecutaba muy bien, pero ahora necesita algo de depuración.&#xA;Puedo pagar 10 USD en Freelancer por esta solución.&#xA;¡Gracias por sus atenciones!&#xA;Solución Probablemente sea un error muy tonto.</description>
+    </item>
     <item>
       <title>Configure_Windows_Server_2019_VPN_Routing</title>
       <link>https://imlauerindex.github.io/configure_windows_server_2019_vpn_routing/</link>
