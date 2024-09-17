@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reversing on Index</title>
+    <link>https://imlauerjobs.github.io/@reversing/</link>
+    <description>Recent content in Reversing on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Tue, 17 Sep 2024 13:50:08 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@reversing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reversing Android app decompilation source</title>
+      <link>https://imlauerjobs.github.io/android_app_decompilation_source/</link>
+      <pubDate>Tue, 17 Sep 2024 13:50:08 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/android_app_decompilation_source/</guid>
+      <description>Necesito un profesional que pueda descifrar y descompilar mi aplicación de Android con el único fin de recuperar su código fuente. Solo tengo el archivo APK, por lo que no tengo acceso a ningún archivo ni documentación original. Tampoco estoy seguro del lenguaje de programación que se utilizó para su desarrollo.&#xA;Habilidades y experiencia requeridas:&#xA;Competente en descompilación de aplicaciones de Android. Experiencia previa en recuperación de código fuente. Capacidad para trabajar con archivos APK Conocimiento de Java y Kotlin (u otros lenguajes de Android) Fuertes habilidades para la resolución de problemas.</description>
+    </item>
+  </channel>
+</rss>
