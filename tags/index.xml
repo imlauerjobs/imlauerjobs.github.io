@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Index</title>
-    <link>https://imlauerindex.github.io/tags/</link>
+    <link>https://imlauerjobs.github.io/tags/</link>
     <description>Recent content in Tags on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 11:49:54 -0300</lastBuildDate>
-    <atom:link href="https://imlauerindex.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bash</title>
-      <link>https://imlauerindex.github.io/@bash/</link>
+      <link>https://imlauerjobs.github.io/@bash/</link>
       <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
-      <guid>https://imlauerindex.github.io/@bash/</guid>
+      <guid>https://imlauerjobs.github.io/@bash/</guid>
       <description></description>
     </item>
     <item>
       <title>Librecad</title>
-      <link>https://imlauerindex.github.io/@librecad/</link>
+      <link>https://imlauerjobs.github.io/@librecad/</link>
       <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
-      <guid>https://imlauerindex.github.io/@librecad/</guid>
+      <guid>https://imlauerjobs.github.io/@librecad/</guid>
       <description></description>
     </item>
     <item>
       <title>Vpn</title>
-      <link>https://imlauerindex.github.io/@vpn/</link>
+      <link>https://imlauerjobs.github.io/@vpn/</link>
       <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
-      <guid>https://imlauerindex.github.io/@vpn/</guid>
+      <guid>https://imlauerjobs.github.io/@vpn/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>https://imlauerindex.github.io/@windows/</link>
+      <link>https://imlauerjobs.github.io/@windows/</link>
       <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
-      <guid>https://imlauerindex.github.io/@windows/</guid>
+      <guid>https://imlauerjobs.github.io/@windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Seo</title>
-      <link>https://imlauerindex.github.io/@seo/</link>
+      <link>https://imlauerjobs.github.io/@seo/</link>
       <pubDate>Mon, 16 Sep 2024 19:49:07 -0300</pubDate>
-      <guid>https://imlauerindex.github.io/@seo/</guid>
+      <guid>https://imlauerjobs.github.io/@seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Wordpress</title>
-      <link>https://imlauerindex.github.io/@wordpress/</link>
+      <link>https://imlauerjobs.github.io/@wordpress/</link>
       <pubDate>Mon, 16 Sep 2024 19:49:07 -0300</pubDate>
-      <guid>https://imlauerindex.github.io/@wordpress/</guid>
+      <guid>https://imlauerjobs.github.io/@wordpress/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://imlauerindex.github.io/@linux/</link>
+      <link>https://imlauerjobs.github.io/@linux/</link>
       <pubDate>Mon, 16 Sep 2024 18:43:59 -0300</pubDate>
-      <guid>https://imlauerindex.github.io/@linux/</guid>
+      <guid>https://imlauerjobs.github.io/@linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>https://imlauerindex.github.io/@server/</link>
+      <link>https://imlauerjobs.github.io/@server/</link>
       <pubDate>Mon, 16 Sep 2024 18:43:59 -0300</pubDate>
-      <guid>https://imlauerindex.github.io/@server/</guid>
+      <guid>https://imlauerjobs.github.io/@server/</guid>
       <description></description>
     </item>
     <item>
       <title>Jekyll</title>
-      <link>https://imlauerindex.github.io/@jekyll/</link>
+      <link>https://imlauerjobs.github.io/@jekyll/</link>
       <pubDate>Mon, 16 Sep 2024 16:10:37 -0300</pubDate>
-      <guid>https://imlauerindex.github.io/@jekyll/</guid>
+      <guid>https://imlauerjobs.github.io/@jekyll/</guid>
       <description></description>
     </item>
   </channel>
