@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discord on Index</title>
+    <link>https://imlauerjobs.github.io/@discord/</link>
+    <description>Recent content in Discord on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Tue, 17 Sep 2024 18:40:59 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@discord/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bot discord</title>
+      <link>https://imlauerjobs.github.io/bot_discord/</link>
+      <pubDate>Tue, 17 Sep 2024 18:40:59 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/bot_discord/</guid>
+      <description>https://www.freelancer.com/projects/php/Bot-discord-38585549/details&#xA;Hola, necesito crear un bot para DISCORD que leerá valores de una tabla de Excel para poder descargar y comparar los valores en base a los cuales se otorgarán los permisos en el servidor.&#xA;Dicha &amp;ldquo;automatización&amp;rdquo; (actualmente, el software que proporciona datos no tiene API), por lo que habría que actualizarla manualmente añadiendo un archivo al bot, o leyendo un archivo, por ejemplo de Google Drive o Google Excel.</description>
+    </item>
+  </channel>
+</rss>
