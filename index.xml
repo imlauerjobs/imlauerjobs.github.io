@@ -2,143 +2,199 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index</title>
-    <link>https://imlauerjobs.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Tue, 17 Sep 2024 19:31:21 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 09:26:13 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>103esim</title>
+      <link>http://localhost:1313/103esim/</link>
+      <pubDate>Wed, 18 Sep 2024 09:26:13 -0300</pubDate>
+      <guid>http://localhost:1313/103esim/</guid>
+      <description>https://www.upwork.com/jobs/Create-custom-esim-with-custom-profile-name-and-custom-carrier-name_~021836018711770061225/?referrer_url_path=find_work_home&#xA;https://103esim.com/103-global-esim/&#xA;I created a custom esim called 103esim, it is showing the custom profile name as you can see in the attached screnshot, i want you to make it show custom carreir name instead of Carrier as its currnely displaying&#xA;Creé un esim personalizado llamado 103esim, muestra el nombre del perfil personalizado como puede ver en la captura de pantalla adjunta, quiero que muestre el nombre de la carrera personalizada en lugar del operador como se muestra actualmente.</description>
+    </item>
+    <item>
+      <title>Php script editing web app</title>
+      <link>http://localhost:1313/php_script_editing_web_app/</link>
+      <pubDate>Wed, 18 Sep 2024 08:53:09 -0300</pubDate>
+      <guid>http://localhost:1313/php_script_editing_web_app/</guid>
+      <description>https://www.upwork.com/jobs/PHP-Script-Editing-for-Web-Application_~021836323208307535770/?referrer_url_path=find_work_home&#xA;We are seeking a skilled PHP developer to edit an existing script for our web application. The ideal candidate should have a strong understanding of PHP and experience in web application development. The project requires making modifications to enhance functionality and ensure optimal performance. If you are detail-oriented and can work independently, we would love to hear from you. Please provide examples of previous PHP projects you&amp;rsquo;ve worked on.</description>
+    </item>
+    <item>
+      <title>Security headers digital ocean</title>
+      <link>http://localhost:1313/security_headers_digital_ocean/</link>
+      <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
+      <guid>http://localhost:1313/security_headers_digital_ocean/</guid>
+      <description>https://www.upwork.com/jobs/Security-Headers-Setup-Digital-Ocean_~021836215671623040196/?referrer_url_path=find_work_home&#xA;I need someone to configure a few security headers on my Digital Ocean server. If you&amp;rsquo;re not an expert in DevOps, this task is not for you. I will provide AnyDesk access, and you&amp;rsquo;ll need to perform this simple configuration on my DO server without putting my live website at risk. For an expert, this will be very easy. I&amp;rsquo;m not sure if I&amp;rsquo;m using Nginx or Apache 2, so that will need to be checked.</description>
+    </item>
+    <item>
+      <title>Add_SOAP_WSS_to_the_existing_SOAP_client_and_server_mock_code</title>
+      <link>http://localhost:1313/add_soap_wss_to_the_existing_soap_client_and_server_mock_code/</link>
+      <pubDate>Wed, 18 Sep 2024 08:11:40 -0300</pubDate>
+      <guid>http://localhost:1313/add_soap_wss_to_the_existing_soap_client_and_server_mock_code/</guid>
+      <description>https://www.upwork.com/jobs/Add-SOAP-WSS-the-existing-SOAP-client-and-server-mock-code_~021836005659145726510/?referrer_url_path=find_work_home&#xA;I am looking for somebody with hands-on experience in SOAP WSS to help me troubleshoot (or reimplement) a mock SOAP WSS client and server.&#xA;I already have a working python code which implements mock SOAP client and server side, without WSS: https://github.com/abbbe/soapwss/tree/main/nowss/&#xA;I am trying to add WSS to this code. The client side seems to work (at least signature validation), but I have issues implementing servers side. Here is the code which features server-side WSS validation, but it fails https://github.</description>
+    </item>
+    <item>
+      <title>Python_web_mongoDB_serversetup_dynamicfront</title>
+      <link>http://localhost:1313/python_web_mongodb_serversetup_dynamicfront/</link>
+      <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
+      <guid>http://localhost:1313/python_web_mongodb_serversetup_dynamicfront/</guid>
+      <description>https://www.upwork.com/jobs/Python-web-mango-server-setup-dynamic-front-Full-tack-development_~021836046873113850258/?referrer_url_path=find_work_home&#xA;Full stack remote employee for large project with Full stack development</description>
+    </item>
+    <item>
+      <title>Python_desktop_app_multiprocessing</title>
+      <link>http://localhost:1313/python_desktop_app_multiprocessing/</link>
+      <pubDate>Wed, 18 Sep 2024 07:50:42 -0300</pubDate>
+      <guid>http://localhost:1313/python_desktop_app_multiprocessing/</guid>
+      <description>https://www.upwork.com/jobs/Help-Build-Python-Desktop-App-With-Multiprocessing_~021836236984419768745/?referrer_url_path=find_work_home&#xA;Ayuda para corregir un error en un script personal de Python. El código del script tiene aproximadamente 1,1 K líneas hasta el momento. El script utiliza actualmente un puñado de hilos. Todo funciona excepto este error.&#xA;Primero, corrija un error que impide que el usuario pueda modificar algunos datos tabulares en una GUI de PandasTable, mediante: adaptar el script de Python para usar una base de datos PostgreSQL en lugar de Pandas para el almacenamiento de datos y usar multiprocesamiento o patetismo en lugar de subprocesos.</description>
+    </item>
+    <item>
+      <title>Telegram archive</title>
+      <link>http://localhost:1313/telegram_archive/</link>
+      <pubDate>Wed, 18 Sep 2024 07:23:28 -0300</pubDate>
+      <guid>http://localhost:1313/telegram_archive/</guid>
+      <description>https://www.upwork.com/jobs/Telegram-Archive_~021836253849075629252/?referrer_url_path=find_work_home&#xA;Necesito una aplicación, extensión, programa u otra cosa que archive todos los mensajes de varios canales de Telegram de los que soy miembro. Este canal desactiva copiar, guardar y reenviar mensajes. El programa debería poder retroceder hasta la fecha de inicio (aproximadamente el 16 de junio de 2024) y capturar capturas de pantalla de todos los mensajes hasta la fecha actual. Idealmente, el programa también transcribiría los mensajes a un formato de texto simple que mostrara el nombre de usuario asociado con el mensaje.</description>
+    </item>
+    <item>
+      <title>un servidor propio de dns con panel ISPCONFIG</title>
+      <link>http://localhost:1313/ispconfig/</link>
+      <pubDate>Tue, 17 Sep 2024 21:22:18 -0300</pubDate>
+      <guid>http://localhost:1313/ispconfig/</guid>
+      <description>https://www.freelancer.com/projects/linux/Necesito-que-configurar-servidor-propio/details&#xA;estoy necesitando una configuracion de servidor de nombres (dns) propios, todo en el panel de ispconfig instalado en un servidor dedicado propio.</description>
+    </item>
     <item>
       <title>Sshkeygen_configuration_bamboo_cloud_rhel9</title>
-      <link>https://imlauerjobs.github.io/sshkeygen_configuration_bamboo_cloud_rhel9/</link>
+      <link>http://localhost:1313/sshkeygen_configuration_bamboo_cloud_rhel9/</link>
       <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/sshkeygen_configuration_bamboo_cloud_rhel9/</guid>
+      <guid>http://localhost:1313/sshkeygen_configuration_bamboo_cloud_rhel9/</guid>
       <description>https://www.freelancer.com/projects/linux/SSH-Keygen-Configuration-for-Bamboo/details&#xA;I&amp;rsquo;m seeking a skilled professional to set up ssh-keygen on my RHEL9 Linux server for Bamboo Cloud auto-deploy. The server is accessible with user access and sudo privileges.&#xA;Key Tasks:&#xA;Configure ssh-keygen for secure auto-deploy from Bamboo Cloud. Ensure seamless communication between the server and Bamboo Cloud. Ideal Skills:&#xA;Proficient in Linux, particularly RHEL9. Extensive experience with Bamboo Cloud. Strong knowledge of SSH and SSH Key Generation. Sudo privileges management on Linux systems.</description>
     </item>
     <item>
       <title>10 page pdf into word</title>
-      <link>https://imlauerjobs.github.io/10_page_pdf_into_word/</link>
+      <link>http://localhost:1313/10_page_pdf_into_word/</link>
       <pubDate>Tue, 17 Sep 2024 19:25:44 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/10_page_pdf_into_word/</guid>
+      <guid>http://localhost:1313/10_page_pdf_into_word/</guid>
       <description>https://www.freelancer.com/projects/word/Type-Page-PDF-into-Word-38585368/details&#xA;I&amp;rsquo;m looking for someone to transcribe a 10 page PDF file into a Microsoft Word document.&#xA;Requirements:&#xA;The final document should be in standard text formatting. No need for any special styles, just clear and neat typing. The PDF file contains text only, so no charts or images are needed. Ideal skills and experience for the job include:&#xA;Proficiency in Microsoft Word Excellent typing skills Attention to detail to ensure accurate transcription.</description>
     </item>
     <item>
       <title>Control de temperatura</title>
-      <link>https://imlauerjobs.github.io/control_de_temperatura/</link>
+      <link>http://localhost:1313/control_de_temperatura/</link>
       <pubDate>Tue, 17 Sep 2024 18:50:59 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/control_de_temperatura/</guid>
+      <guid>http://localhost:1313/control_de_temperatura/</guid>
       <description>https://www.freelancer.com/projects/php/control-temperatura/details&#xA;necesito un sistema que me permita llevar registros de temperatura y humedad, que cualquier empleado pueda realizar, los campos que requiero son nombre de quien toma la lectura, temperatura en grados centígrados, humedad hora y fecha, que permita al administrador revisar los registros en un calendario o en un panel de información</description>
     </item>
     <item>
       <title>Servicenow_developer_basic_system_configuration</title>
-      <link>https://imlauerjobs.github.io/servicenow_developer_basic_system_configuration/</link>
+      <link>http://localhost:1313/servicenow_developer_basic_system_configuration/</link>
       <pubDate>Tue, 17 Sep 2024 18:47:40 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/servicenow_developer_basic_system_configuration/</guid>
+      <guid>http://localhost:1313/servicenow_developer_basic_system_configuration/</guid>
       <description>https://www.freelancer.com/projects/servicenow/ServiceNow-Developer-for-Basic-System/details&#xA;Estoy buscando un profesional de ServiceNow para ayudar con la configuración del sistema, enfocándome particularmente en la integración de ServiceNow con varias herramientas de administración de TI.&#xA;Habilidades ideales:&#xA;Certificación de Administrador de sistemas certificado (CSA) de ServiceNow o voluntad de obtener la certificación. Experiencia integrando ServiceNow con herramientas de gestión de TI. Conocimientos básicos de herramientas de gestión de TI. I&amp;rsquo;m seeking a ServiceNow professional to assist with system configuration, particularly focusing on integrating ServiceNow with various IT management tools.</description>
     </item>
     <item>
       <title>Bot discord</title>
-      <link>https://imlauerjobs.github.io/bot_discord/</link>
+      <link>http://localhost:1313/bot_discord/</link>
       <pubDate>Tue, 17 Sep 2024 18:40:59 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/bot_discord/</guid>
+      <guid>http://localhost:1313/bot_discord/</guid>
       <description>https://www.freelancer.com/projects/php/Bot-discord-38585549/details&#xA;Hola, necesito crear un bot para DISCORD que leerá valores de una tabla de Excel para poder descargar y comparar los valores en base a los cuales se otorgarán los permisos en el servidor.&#xA;Dicha &amp;ldquo;automatización&amp;rdquo; (actualmente, el software que proporciona datos no tiene API), por lo que habría que actualizarla manualmente añadiendo un archivo al bot, o leyendo un archivo, por ejemplo de Google Drive o Google Excel.</description>
     </item>
     <item>
       <title>Goldsvet en AlmaLinux VPS</title>
-      <link>https://imlauerjobs.github.io/casino_goldsvet/</link>
+      <link>http://localhost:1313/casino_goldsvet/</link>
       <pubDate>Tue, 17 Sep 2024 17:10:44 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/casino_goldsvet/</guid>
+      <guid>http://localhost:1313/casino_goldsvet/</guid>
       <description>https://www.freelancer.com/projects/linux/Install-Custom-Goldsvet-AlmaLinux-VPS/details&#xA;I need an experienced professional to install a custom version of Goldsvet on my AlmaLinux 8 cPanel VPS server.&#xA;Key Tasks:&#xA;Install Goldsvet on a Linux server Consult with me on potential modifications to the custom version Ideal Skills:&#xA;Extensive experience with Goldsvet installation Deep understanding of AlmaLinux and cPanel Excellent communication skills for consultation Strong problem-solving skills for addressing potential modifications Please provide examples of similar projects you&amp;rsquo;ve completed in your proposal.</description>
     </item>
     <item>
       <title>Pagina_registro_session</title>
-      <link>https://imlauerjobs.github.io/pagina_registro_session/</link>
+      <link>http://localhost:1313/pagina_registro_session/</link>
       <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/pagina_registro_session/</guid>
+      <guid>http://localhost:1313/pagina_registro_session/</guid>
       <description>https://www.freelancer.com/projects/html/pagina-registro-inicio-sesi/details&#xA;necesito un proyecto de inicio de sesión donde solo el administrador pueda dar de alta nuevos usuarios, los usuarios puedan iniciar sesión y entren a un sitio restringido</description>
     </item>
     <item>
       <title>Magento_expert</title>
-      <link>https://imlauerjobs.github.io/magento_expert/</link>
+      <link>http://localhost:1313/magento_expert/</link>
       <pubDate>Tue, 17 Sep 2024 16:24:25 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/magento_expert/</guid>
+      <guid>http://localhost:1313/magento_expert/</guid>
       <description>https://www.freelancer.com/projects/seo/Magento-Installation-Customization/details&#xA;I&amp;rsquo;m looking for a professional Magento 2 expert to install a purchased theme on my website and customize it according to my needs. The theme can be found here: https://umino.bersky.co/demo_digital_3.&#xA;Here&amp;rsquo;s what I need:&#xA;Removal of unnecessary links from the theme (specific links will be communicated later) On-page SEO implementation to enhance website visibility Integration of my logo (which I will provide later) Updating of meta data to align with our brand and improve SEO Ideal candidates should have:</description>
     </item>
     <item>
       <title>Reversing Android app decompilation source</title>
-      <link>https://imlauerjobs.github.io/android_app_decompilation_source/</link>
+      <link>http://localhost:1313/android_app_decompilation_source/</link>
       <pubDate>Tue, 17 Sep 2024 13:50:08 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/android_app_decompilation_source/</guid>
+      <guid>http://localhost:1313/android_app_decompilation_source/</guid>
       <description>https://www.freelancer.com/projects/android/Android-App-Decompilation-Source/details&#xA;Necesito un profesional que pueda descifrar y descompilar mi aplicación de Android con el único fin de recuperar su código fuente. Solo tengo el archivo APK, por lo que no tengo acceso a ningún archivo ni documentación original. Tampoco estoy seguro del lenguaje de programación que se utilizó para su desarrollo.&#xA;Habilidades y experiencia requeridas:&#xA;Competente en descompilación de aplicaciones de Android. Experiencia previa en recuperación de código fuente. Capacidad para trabajar con archivos APK Conocimiento de Java y Kotlin (u otros lenguajes de Android) Fuertes habilidades para la resolución de problemas.</description>
     </item>
     <item>
       <title>Udemycourseposts</title>
-      <link>https://imlauerjobs.github.io/udemycourseposts/</link>
+      <link>http://localhost:1313/udemycourseposts/</link>
       <pubDate>Tue, 17 Sep 2024 13:17:17 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/udemycourseposts/</guid>
+      <guid>http://localhost:1313/udemycourseposts/</guid>
       <description>https://www.freelancer.com/projects/php/Udemy-Course-Posts-Website/details&#xA;www.udemykurs.com.tr MUST BE SIMILAR&#xA;I&amp;rsquo;m looking for a web developer to create an informational website for me. The main focus will be a blog section that I will regularly update with posts.&#xA;Key Features:&#xA;Blog section: This will be the primary content of the website. The developer should be able to set up a user-friendly interface for posting and managing blog content. Commenting system: I want users to be able to comment on blog posts.</description>
     </item>
     <item>
       <title>Curl_timeout_issue_linux</title>
-      <link>https://imlauerjobs.github.io/curl_timeout_issue_linux/</link>
+      <link>http://localhost:1313/curl_timeout_issue_linux/</link>
       <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/curl_timeout_issue_linux/</guid>
-      <description>Necesito ayuda para resolver un error de tiempo de espera de &amp;ldquo;curl&amp;rdquo; en mi servidor Linux dedicado.&#xA;Problema: El comando &amp;lsquo;curl&amp;rsquo; está agotando el tiempo de espera, lo que impide conexiones exitosas. Entorno: Esto sucede en un servidor dedicado Linux. El autónomo ideal para esta tarea debería tener:&#xA;Amplia experiencia con servidores Linux. Conocimiento competente de los comandos &amp;lsquo;curl&amp;rsquo; y la resolución de problemas. Capacidad para diagnosticar y resolver problemas relacionados con el servidor con prontitud.</description>
+      <guid>http://localhost:1313/curl_timeout_issue_linux/</guid>
+      <description>https://www.freelancer.com/projects/linux/Fix-Curl-Timeout-Issue-Linux&#xA;Necesito ayuda para resolver un error de tiempo de espera de &amp;ldquo;curl&amp;rdquo; en mi servidor Linux dedicado.&#xA;Problema: El comando &amp;lsquo;curl&amp;rsquo; está agotando el tiempo de espera, lo que impide conexiones exitosas. Entorno: Esto sucede en un servidor dedicado Linux. El autónomo ideal para esta tarea debería tener:&#xA;Amplia experiencia con servidores Linux. Conocimiento competente de los comandos &amp;lsquo;curl&amp;rsquo; y la resolución de problemas. Capacidad para diagnosticar y resolver problemas relacionados con el servidor con prontitud.</description>
     </item>
     <item>
       <title>Fix bash script for librecad installation</title>
-      <link>https://imlauerjobs.github.io/fix_bash_script_for_librecad_installation/</link>
+      <link>http://localhost:1313/fix_bash_script_for_librecad_installation/</link>
       <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/fix_bash_script_for_librecad_installation/</guid>
+      <guid>http://localhost:1313/fix_bash_script_for_librecad_installation/</guid>
       <description>https://www.freelancer.com/projects/linux/Fix-Bash-Script-for-LibreCAD/details&#xA;Tags: Linux, Shell Script, Ubuntu, Network Administrator, Qt&#xA;Tengo un archivo de script bash que uso para instalar librecad en Linux. Antes se ejecutaba muy bien, pero ahora necesita algo de depuración.&#xA;Puedo pagar 10 USD en Freelancer por esta solución.&#xA;¡Gracias por sus atenciones!&#xA;Solución Probablemente sea un error muy tonto.</description>
     </item>
     <item>
       <title>Configure_Windows_Server_2019_VPN_Routing</title>
-      <link>https://imlauerjobs.github.io/configure_windows_server_2019_vpn_routing/</link>
+      <link>http://localhost:1313/configure_windows_server_2019_vpn_routing/</link>
       <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/configure_windows_server_2019_vpn_routing/</guid>
-      <description>Necesito una configuración de VPN y enrutamiento en mi Windows Server 2019. El objetivo principal es enrutar mi Internet a través del servidor fuera de mi red de área local.&#xA;Requisitos clave:&#xA;Configure una VPN que permita conectar de 1 a 5 dispositivos simultáneamente. Necesito asesoramiento profesional sobre si se debe configurar el túnel dividido. Habilidades ideales:&#xA;Amplio conocimiento de Windows Server 2019. Experiencia comprobada en configuración de VPN y Enrutamiento.</description>
+      <guid>http://localhost:1313/configure_windows_server_2019_vpn_routing/</guid>
+      <description>https://www.freelancer.com/projects/windows-server/Configure-Windows-Server-VPN-Routing/details&#xA;Necesito una configuración de VPN y enrutamiento en mi Windows Server 2019. El objetivo principal es enrutar mi Internet a través del servidor fuera de mi red de área local.&#xA;Requisitos clave:&#xA;Configure una VPN que permita conectar de 1 a 5 dispositivos simultáneamente. Necesito asesoramiento profesional sobre si se debe configurar el túnel dividido. Habilidades ideales:&#xA;Amplio conocimiento de Windows Server 2019. Experiencia comprobada en configuración de VPN y Enrutamiento.</description>
     </item>
     <item>
       <title>Seo Friendly Url Optimization</title>
-      <link>https://imlauerjobs.github.io/seo-friendly-url-optimization/</link>
+      <link>http://localhost:1313/seo-friendly-url-optimization/</link>
       <pubDate>Mon, 16 Sep 2024 19:49:07 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/seo-friendly-url-optimization/</guid>
-      <description>Estoy buscando un especialista en SEO con experiencia para mejorar las URL de mi sitio de anuncios clasificados. El objetivo es hacerlos compatibles con SEO para mejorar la visibilidad y el ranking de nuestro sitio.&#xA;Áreas de enfoque:&#xA;páginas de categorías Páginas de anuncios individuales. El candidato ideal debe tener un conocimiento profundo de los principios y prácticas de SEO, particularmente en relación con la estructuración de URL. Se valorará tener experiencia previa trabajando con sitios de anuncios clasificados.</description>
+      <guid>http://localhost:1313/seo-friendly-url-optimization/</guid>
+      <description>https://www.freelancer.com/projects/seo/SEO-Friendly-URL-Optimization-for&#xA;Estoy buscando un especialista en SEO con experiencia para mejorar las URL de mi sitio de anuncios clasificados. El objetivo es hacerlos compatibles con SEO para mejorar la visibilidad y el ranking de nuestro sitio.&#xA;Áreas de enfoque:&#xA;páginas de categorías Páginas de anuncios individuales. El candidato ideal debe tener un conocimiento profundo de los principios y prácticas de SEO, particularmente en relación con la estructuración de URL. Se valorará tener experiencia previa trabajando con sitios de anuncios clasificados.</description>
     </item>
     <item>
       <title>Wordpress</title>
-      <link>https://imlauerjobs.github.io/wordpress/</link>
+      <link>http://localhost:1313/wordpress/</link>
       <pubDate>Mon, 16 Sep 2024 19:34:16 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/wordpress/</guid>
+      <guid>http://localhost:1313/wordpress/</guid>
       <description>https://www.freelancer.com/projects/php/Hacer-unos-cambios-una-web/details&#xA;Trabajo: Presupuesto es 20 dólares por hacer todo esto se necesita para hoy Necesitamos en nuestra web rock-space.com hacer los siguientes arreglos y modificaciones: -Arreglar el filtro por categoría. -Añadir: Aviso legal, política de cancelación, devolución y reembolso ,garantías y envió. -Adecuar la vista en dispositivos móviles. -Añadir recargo de equivalencia. -Actualizar plugins&#xA;Soluciones: Está claramente hablando de woocomerce.&#xA;Agregar filtro por categoría (en woocomerce): https://www.youtube.com/watch?v=l5trzICXJqU&#xA;https://www.youtube.com/watch?v=REczFo8HWzI&#xA;https://www.youtube.com/watch?v=g1_qlJvNdsg&#xA;https://www.youtube.com/watch?v=n-KxZdvdyxo https://www.</description>
     </item>
     <item>
       <title>Dedicated server setup config</title>
-      <link>https://imlauerjobs.github.io/dedicated_server_setup_config/</link>
+      <link>http://localhost:1313/dedicated_server_setup_config/</link>
       <pubDate>Mon, 16 Sep 2024 18:43:59 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/dedicated_server_setup_config/</guid>
+      <guid>http://localhost:1313/dedicated_server_setup_config/</guid>
       <description>https://www.freelancer.com/projects/linux/Dedicated-Server-Setup-Configuration/details&#xA;primera parte del proyecto camino rocoso linux 9.4 se ha instalado en el servidor dedicado | Servidores bare metal |servidor ovh Necesito ayuda con mi servidor dedicado. Las tareas incluyen:&#xA;Investigar el problema del usuario root y crear uno si es necesario. Instalando cPanel (ya tengo licencia para esta IP). Instalación de WordPress en el servidor. Instalar un certificado SSL (que proporcionaré) para mi dominio. El servidor ejecuta un sistema operativo Linux, específicamente la distribución Rocky Road.</description>
     </item>
     <item>
       <title>Change_theme</title>
-      <link>https://imlauerjobs.github.io/change_theme/</link>
+      <link>http://localhost:1313/change_theme/</link>
       <pubDate>Mon, 16 Sep 2024 17:16:32 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/change_theme/</guid>
-      <description>Hello everyone! I&amp;rsquo;m looking for an experienced professional Wordpress Expert who can seamlessly change a theme without disrupting SEO.&#xA;I need someone who can start ASAP.&#xA;Thanks ¡Hola a todos! Estoy buscando un experto en Wordpress profesional con experiencia que pueda cambiar un tema sin problemas sin interrumpir el SEO.&#xA;Necesito a alguien que pueda empezar lo antes posible.&#xA;Gracias&#xA;Solución Cada theme tiene su vuelta, su especialidad.&#xA;Creá un backup</description>
+      <guid>http://localhost:1313/change_theme/</guid>
+      <description>https://www.freelancer.com/projects/wordpress/Wordpress-Expert-Change-Theme-38581187&#xA;Hello everyone! I&amp;rsquo;m looking for an experienced professional Wordpress Expert who can seamlessly change a theme without disrupting SEO.&#xA;I need someone who can start ASAP.&#xA;Thanks ¡Hola a todos! Estoy buscando un experto en Wordpress profesional con experiencia que pueda cambiar un tema sin problemas sin interrumpir el SEO.&#xA;Necesito a alguien que pueda empezar lo antes posible.&#xA;Gracias&#xA;Solución Cada theme tiene su vuelta, su especialidad.&#xA;Creá un backup</description>
     </item>
     <item>
       <title>Modern_ecommerse_site_development_jekyll</title>
-      <link>https://imlauerjobs.github.io/modern_ecommerse_site_development_jekyll/</link>
+      <link>http://localhost:1313/modern_ecommerse_site_development_jekyll/</link>
       <pubDate>Mon, 16 Sep 2024 16:10:37 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/modern_ecommerse_site_development_jekyll/</guid>
+      <guid>http://localhost:1313/modern_ecommerse_site_development_jekyll/</guid>
       <description>https://www.freelancer.com/projects/html/Modern-commerce-Site-Development-with/details&#xA;Trabajo: Contrato a largo plazo&#xA;Nuestro socio integrador federal líder está buscando un desarrollador Jekyll de nivel medio para respaldar su contrato gubernamental activo. Como desarrollador Jekyll de nivel medio, será responsable de desarrollar, mantener y mejorar sitios web estáticos utilizando Jekyll. Trabajará en estrecha colaboración con nuestros equipos de diseño y contenido para crear páginas web visualmente atractivas y altamente funcionales. Su función implicará convertir diseños en HTML/CSS responsivo, optimizar el rendimiento del sitio y garantizar una experiencia de usuario perfecta.</description>
     </item>
     <item>
       <title>Fix 502 wordpress site</title>
-      <link>https://imlauerjobs.github.io/fix_502_wordpress_site/</link>
+      <link>http://localhost:1313/fix_502_wordpress_site/</link>
       <pubDate>Mon, 16 Sep 2024 15:28:36 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/fix_502_wordpress_site/</guid>
+      <guid>http://localhost:1313/fix_502_wordpress_site/</guid>
       <description>https://www.freelancer.com/projects/linux/Dedicated-Server-Setup-Configuration/details&#xA;Mi sitio de WordPress alojado en Google Cloud actualmente no funciona con un error 502. Intenté varios pasos para solucionar el problema sin éxito.&#xA;Antes del error, no se realizaron cambios recientes en el sitio web. No he modificado ninguna configuración en mi alojamiento de Google Cloud. Reinicié Apache y desactivé todos los complementos y el tema en un esfuerzo por identificar el problema. Agradecería la ayuda de un profesional independiente con experiencia en la resolución de errores del servidor, particularmente en un entorno de WordPress/Google Cloud.</description>
     </item>
   </channel>

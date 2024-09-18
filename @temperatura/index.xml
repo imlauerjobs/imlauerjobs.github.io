@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Temperatura on Index</title>
-    <link>https://imlauerjobs.github.io/@temperatura/</link>
+    <link>http://localhost:1313/@temperatura/</link>
     <description>Recent content in Temperatura on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 18:50:59 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@temperatura/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@temperatura/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Control de temperatura</title>
-      <link>https://imlauerjobs.github.io/control_de_temperatura/</link>
+      <link>http://localhost:1313/control_de_temperatura/</link>
       <pubDate>Tue, 17 Sep 2024 18:50:59 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/control_de_temperatura/</guid>
+      <guid>http://localhost:1313/control_de_temperatura/</guid>
       <description>https://www.freelancer.com/projects/php/control-temperatura/details&#xA;necesito un sistema que me permita llevar registros de temperatura y humedad, que cualquier empleado pueda realizar, los campos que requiero son nombre de quien toma la lectura, temperatura en grados centígrados, humedad hora y fecha, que permita al administrador revisar los registros en un calendario o en un panel de información</description>
     </item>
   </channel>

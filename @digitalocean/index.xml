@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitalocean on Index</title>
+    <link>http://localhost:1313/@digitalocean/</link>
+    <description>Recent content in Digitalocean on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Wed, 18 Sep 2024 08:46:52 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/@digitalocean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security headers digital ocean</title>
+      <link>http://localhost:1313/security_headers_digital_ocean/</link>
+      <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
+      <guid>http://localhost:1313/security_headers_digital_ocean/</guid>
+      <description>https://www.upwork.com/jobs/Security-Headers-Setup-Digital-Ocean_~021836215671623040196/?referrer_url_path=find_work_home&#xA;I need someone to configure a few security headers on my Digital Ocean server. If you&amp;rsquo;re not an expert in DevOps, this task is not for you. I will provide AnyDesk access, and you&amp;rsquo;ll need to perform this simple configuration on my DO server without putting my live website at risk. For an expert, this will be very easy. I&amp;rsquo;m not sure if I&amp;rsquo;m using Nginx or Apache 2, so that will need to be checked.</description>
+    </item>
+  </channel>
+</rss>

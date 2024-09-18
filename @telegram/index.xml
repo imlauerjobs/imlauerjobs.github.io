@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram on Index</title>
+    <link>http://localhost:1313/@telegram/</link>
+    <description>Recent content in Telegram on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Wed, 18 Sep 2024 07:23:28 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/@telegram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Telegram archive</title>
+      <link>http://localhost:1313/telegram_archive/</link>
+      <pubDate>Wed, 18 Sep 2024 07:23:28 -0300</pubDate>
+      <guid>http://localhost:1313/telegram_archive/</guid>
+      <description>https://www.upwork.com/jobs/Telegram-Archive_~021836253849075629252/?referrer_url_path=find_work_home&#xA;Necesito una aplicación, extensión, programa u otra cosa que archive todos los mensajes de varios canales de Telegram de los que soy miembro. Este canal desactiva copiar, guardar y reenviar mensajes. El programa debería poder retroceder hasta la fecha de inicio (aproximadamente el 16 de junio de 2024) y capturar capturas de pantalla de todos los mensajes hasta la fecha actual. Idealmente, el programa también transcribiría los mensajes a un formato de texto simple que mostrara el nombre de usuario asociado con el mensaje.</description>
+    </item>
+  </channel>
+</rss>

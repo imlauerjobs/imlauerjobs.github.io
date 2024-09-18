@@ -2,157 +2,220 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://imlauerjobs.github.io/@bamboo/</loc>
+    <loc>http://localhost:1313/103esim/</loc>
+    <lastmod>2024-09-18T09:26:13-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@esim/</loc>
+    <lastmod>2024-09-18T09:26:13-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-18T09:26:13-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-18T09:26:13-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@php/</loc>
+    <lastmod>2024-09-18T08:53:09-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/php_script_editing_web_app/</loc>
+    <lastmod>2024-09-18T08:53:09-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@webapp/</loc>
+    <lastmod>2024-09-18T08:53:09-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@digitalocean/</loc>
+    <lastmod>2024-09-18T08:46:52-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@headers/</loc>
+    <lastmod>2024-09-18T08:46:52-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@security/</loc>
+    <lastmod>2024-09-18T08:46:52-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/security_headers_digital_ocean/</loc>
+    <lastmod>2024-09-18T08:46:52-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/add_soap_wss_to_the_existing_soap_client_and_server_mock_code/</loc>
+    <lastmod>2024-09-18T08:11:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@soap/</loc>
+    <lastmod>2024-09-18T08:11:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@wss/</loc>
+    <lastmod>2024-09-18T08:11:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@mongodb/</loc>
+    <lastmod>2024-09-18T08:09:07-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@python/</loc>
+    <lastmod>2024-09-18T08:09:07-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/python_web_mongodb_serversetup_dynamicfront/</loc>
+    <lastmod>2024-09-18T08:09:07-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@serversetupdynamicfront/</loc>
+    <lastmod>2024-09-18T08:09:07-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@multiprocessing/</loc>
+    <lastmod>2024-09-18T07:50:42-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/python_desktop_app_multiprocessing/</loc>
+    <lastmod>2024-09-18T07:50:42-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@telegram/</loc>
+    <lastmod>2024-09-18T07:23:28-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/telegram_archive/</loc>
+    <lastmod>2024-09-18T07:23:28-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@ispconfig/</loc>
+    <lastmod>2024-09-17T21:22:18-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ispconfig/</loc>
+    <lastmod>2024-09-17T21:22:18-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/@bamboo/</loc>
     <lastmod>2024-09-17T19:31:21-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@cloud/</loc>
+    <loc>http://localhost:1313/@cloud/</loc>
     <lastmod>2024-09-17T19:31:21-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/</loc>
+    <loc>http://localhost:1313/@keygen/</loc>
     <lastmod>2024-09-17T19:31:21-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@keygen/</loc>
+    <loc>http://localhost:1313/@rhel9/</loc>
     <lastmod>2024-09-17T19:31:21-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@rhel9/</loc>
+    <loc>http://localhost:1313/sshkeygen_configuration_bamboo_cloud_rhel9/</loc>
     <lastmod>2024-09-17T19:31:21-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/sshkeygen_configuration_bamboo_cloud_rhel9/</loc>
-    <lastmod>2024-09-17T19:31:21-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/tags/</loc>
-    <lastmod>2024-09-17T19:31:21-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/10_page_pdf_into_word/</loc>
+    <loc>http://localhost:1313/10_page_pdf_into_word/</loc>
     <lastmod>2024-09-17T19:25:44-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@data/</loc>
+    <loc>http://localhost:1313/@data/</loc>
     <lastmod>2024-09-17T19:25:44-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@entry/</loc>
+    <loc>http://localhost:1313/@entry/</loc>
     <lastmod>2024-09-17T19:25:44-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/control_de_temperatura/</loc>
+    <loc>http://localhost:1313/control_de_temperatura/</loc>
     <lastmod>2024-09-17T18:50:59-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@php/</loc>
+    <loc>http://localhost:1313/@temperatura/</loc>
     <lastmod>2024-09-17T18:50:59-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@temperatura/</loc>
-    <lastmod>2024-09-17T18:50:59-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/@developer/</loc>
+    <loc>http://localhost:1313/@developer/</loc>
     <lastmod>2024-09-17T18:47:40-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@servicenow/</loc>
+    <loc>http://localhost:1313/@servicenow/</loc>
     <lastmod>2024-09-17T18:47:40-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/servicenow_developer_basic_system_configuration/</loc>
+    <loc>http://localhost:1313/servicenow_developer_basic_system_configuration/</loc>
     <lastmod>2024-09-17T18:47:40-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/bot_discord/</loc>
+    <loc>http://localhost:1313/bot_discord/</loc>
     <lastmod>2024-09-17T18:40:59-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@discord/</loc>
+    <loc>http://localhost:1313/@discord/</loc>
     <lastmod>2024-09-17T18:40:59-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@goldsvet/</loc>
+    <loc>http://localhost:1313/@goldsvet/</loc>
     <lastmod>2024-09-17T17:10:44-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/casino_goldsvet/</loc>
+    <loc>http://localhost:1313/casino_goldsvet/</loc>
     <lastmod>2024-09-17T17:10:44-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@inicio/</loc>
+    <loc>http://localhost:1313/@inicio/</loc>
     <lastmod>2024-09-17T16:41:28-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@pagina/</loc>
+    <loc>http://localhost:1313/@pagina/</loc>
     <lastmod>2024-09-17T16:41:28-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/pagina_registro_session/</loc>
+    <loc>http://localhost:1313/pagina_registro_session/</loc>
     <lastmod>2024-09-17T16:41:28-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@session/</loc>
+    <loc>http://localhost:1313/@session/</loc>
     <lastmod>2024-09-17T16:41:28-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@magento/</loc>
+    <loc>http://localhost:1313/@magento/</loc>
     <lastmod>2024-09-17T16:24:25-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/magento_expert/</loc>
+    <loc>http://localhost:1313/magento_expert/</loc>
     <lastmod>2024-09-17T16:24:25-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@android/</loc>
+    <loc>http://localhost:1313/@android/</loc>
     <lastmod>2024-09-17T13:50:08-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@reversing/</loc>
+    <loc>http://localhost:1313/@reversing/</loc>
     <lastmod>2024-09-17T13:50:08-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/android_app_decompilation_source/</loc>
+    <loc>http://localhost:1313/android_app_decompilation_source/</loc>
     <lastmod>2024-09-17T13:50:08-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@blog/</loc>
+    <loc>http://localhost:1313/@blog/</loc>
     <lastmod>2024-09-17T13:17:17-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/udemycourseposts/</loc>
+    <loc>http://localhost:1313/udemycourseposts/</loc>
     <lastmod>2024-09-17T13:17:17-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@wordpress/</loc>
+    <loc>http://localhost:1313/@wordpress/</loc>
     <lastmod>2024-09-17T13:17:17-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@curl/</loc>
+    <loc>http://localhost:1313/@curl/</loc>
     <lastmod>2024-09-17T12:25:11-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/curl_timeout_issue_linux/</loc>
+    <loc>http://localhost:1313/curl_timeout_issue_linux/</loc>
     <lastmod>2024-09-17T12:25:11-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@linux/</loc>
+    <loc>http://localhost:1313/@linux/</loc>
     <lastmod>2024-09-17T12:25:11-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@timeout/</loc>
+    <loc>http://localhost:1313/@timeout/</loc>
     <lastmod>2024-09-17T12:25:11-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@bash/</loc>
+    <loc>http://localhost:1313/@bash/</loc>
     <lastmod>2024-09-17T11:49:54-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/fix_bash_script_for_librecad_installation/</loc>
+    <loc>http://localhost:1313/fix_bash_script_for_librecad_installation/</loc>
     <lastmod>2024-09-17T11:49:54-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@librecad/</loc>
+    <loc>http://localhost:1313/@librecad/</loc>
     <lastmod>2024-09-17T11:49:54-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/configure_windows_server_2019_vpn_routing/</loc>
+    <loc>http://localhost:1313/configure_windows_server_2019_vpn_routing/</loc>
     <lastmod>2024-09-16T19:58:34-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@vpn/</loc>
+    <loc>http://localhost:1313/@vpn/</loc>
     <lastmod>2024-09-16T19:58:34-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@windows/</loc>
+    <loc>http://localhost:1313/@windows/</loc>
     <lastmod>2024-09-16T19:58:34-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@seo/</loc>
+    <loc>http://localhost:1313/@seo/</loc>
     <lastmod>2024-09-16T19:49:07-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/seo-friendly-url-optimization/</loc>
+    <loc>http://localhost:1313/seo-friendly-url-optimization/</loc>
     <lastmod>2024-09-16T19:49:07-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/wordpress/</loc>
+    <loc>http://localhost:1313/wordpress/</loc>
     <lastmod>2024-09-16T19:34:16-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/dedicated_server_setup_config/</loc>
+    <loc>http://localhost:1313/dedicated_server_setup_config/</loc>
     <lastmod>2024-09-16T18:43:59-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@server/</loc>
+    <loc>http://localhost:1313/@server/</loc>
     <lastmod>2024-09-16T18:43:59-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/change_theme/</loc>
+    <loc>http://localhost:1313/change_theme/</loc>
     <lastmod>2024-09-16T17:16:32-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@jekyll/</loc>
+    <loc>http://localhost:1313/@jekyll/</loc>
     <lastmod>2024-09-16T16:10:37-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/modern_ecommerse_site_development_jekyll/</loc>
+    <loc>http://localhost:1313/modern_ecommerse_site_development_jekyll/</loc>
     <lastmod>2024-09-16T16:10:37-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/fix_502_wordpress_site/</loc>
+    <loc>http://localhost:1313/fix_502_wordpress_site/</loc>
     <lastmod>2024-09-16T15:28:36-03:00</lastmod>
   </url>
 </urlset>

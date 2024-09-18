@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vpn on Index</title>
-    <link>https://imlauerjobs.github.io/@vpn/</link>
+    <link>http://localhost:1313/@vpn/</link>
     <description>Recent content in Vpn on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Mon, 16 Sep 2024 19:58:34 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@vpn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@vpn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configure_Windows_Server_2019_VPN_Routing</title>
-      <link>https://imlauerjobs.github.io/configure_windows_server_2019_vpn_routing/</link>
+      <link>http://localhost:1313/configure_windows_server_2019_vpn_routing/</link>
       <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/configure_windows_server_2019_vpn_routing/</guid>
-      <description>Necesito una configuración de VPN y enrutamiento en mi Windows Server 2019. El objetivo principal es enrutar mi Internet a través del servidor fuera de mi red de área local.&#xA;Requisitos clave:&#xA;Configure una VPN que permita conectar de 1 a 5 dispositivos simultáneamente. Necesito asesoramiento profesional sobre si se debe configurar el túnel dividido. Habilidades ideales:&#xA;Amplio conocimiento de Windows Server 2019. Experiencia comprobada en configuración de VPN y Enrutamiento.</description>
+      <guid>http://localhost:1313/configure_windows_server_2019_vpn_routing/</guid>
+      <description>https://www.freelancer.com/projects/windows-server/Configure-Windows-Server-VPN-Routing/details&#xA;Necesito una configuración de VPN y enrutamiento en mi Windows Server 2019. El objetivo principal es enrutar mi Internet a través del servidor fuera de mi red de área local.&#xA;Requisitos clave:&#xA;Configure una VPN que permita conectar de 1 a 5 dispositivos simultáneamente. Necesito asesoramiento profesional sobre si se debe configurar el túnel dividido. Habilidades ideales:&#xA;Amplio conocimiento de Windows Server 2019. Experiencia comprobada en configuración de VPN y Enrutamiento.</description>
     </item>
   </channel>
 </rss>

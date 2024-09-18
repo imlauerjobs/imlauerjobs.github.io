@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goldsvet on Index</title>
-    <link>https://imlauerjobs.github.io/@goldsvet/</link>
+    <link>http://localhost:1313/@goldsvet/</link>
     <description>Recent content in Goldsvet on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 17:10:44 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@goldsvet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@goldsvet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Goldsvet en AlmaLinux VPS</title>
-      <link>https://imlauerjobs.github.io/casino_goldsvet/</link>
+      <link>http://localhost:1313/casino_goldsvet/</link>
       <pubDate>Tue, 17 Sep 2024 17:10:44 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/casino_goldsvet/</guid>
+      <guid>http://localhost:1313/casino_goldsvet/</guid>
       <description>https://www.freelancer.com/projects/linux/Install-Custom-Goldsvet-AlmaLinux-VPS/details&#xA;I need an experienced professional to install a custom version of Goldsvet on my AlmaLinux 8 cPanel VPS server.&#xA;Key Tasks:&#xA;Install Goldsvet on a Linux server Consult with me on potential modifications to the custom version Ideal Skills:&#xA;Extensive experience with Goldsvet installation Deep understanding of AlmaLinux and cPanel Excellent communication skills for consultation Strong problem-solving skills for addressing potential modifications Please provide examples of similar projects you&amp;rsquo;ve completed in your proposal.</description>
     </item>
   </channel>

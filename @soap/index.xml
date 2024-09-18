@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soap on Index</title>
+    <link>http://localhost:1313/@soap/</link>
+    <description>Recent content in Soap on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Wed, 18 Sep 2024 08:11:40 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/@soap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add_SOAP_WSS_to_the_existing_SOAP_client_and_server_mock_code</title>
+      <link>http://localhost:1313/add_soap_wss_to_the_existing_soap_client_and_server_mock_code/</link>
+      <pubDate>Wed, 18 Sep 2024 08:11:40 -0300</pubDate>
+      <guid>http://localhost:1313/add_soap_wss_to_the_existing_soap_client_and_server_mock_code/</guid>
+      <description>https://www.upwork.com/jobs/Add-SOAP-WSS-the-existing-SOAP-client-and-server-mock-code_~021836005659145726510/?referrer_url_path=find_work_home&#xA;I am looking for somebody with hands-on experience in SOAP WSS to help me troubleshoot (or reimplement) a mock SOAP WSS client and server.&#xA;I already have a working python code which implements mock SOAP client and server side, without WSS: https://github.com/abbbe/soapwss/tree/main/nowss/&#xA;I am trying to add WSS to this code. The client side seems to work (at least signature validation), but I have issues implementing servers side. Here is the code which features server-side WSS validation, but it fails https://github.</description>
+    </item>
+  </channel>
+</rss>
