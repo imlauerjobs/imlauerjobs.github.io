@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sql on Index</title>
+    <link>https://imlauerjobs.github.io/@sql/</link>
+    <description>Recent content in Sql on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Wed, 18 Sep 2024 14:24:47 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Restore SQL from ibd frm files</title>
+      <link>https://imlauerjobs.github.io/restore_ibd_frm/</link>
+      <pubDate>Wed, 18 Sep 2024 14:24:47 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/restore_ibd_frm/</guid>
+      <description>https://www.upwork.com/jobs/Convert-MySQL-ibd-and-frm-Files-sql-Format_~021836352400960101614/?referrer_url_path=find_work_home</description>
+    </item>
+  </channel>
+</rss>
