@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aws on Index</title>
-    <link>https://imlauerjobs.github.io/@aws/</link>
-    <description>Recent content in Aws on Index</description>
+    <title>Apache on Index</title>
+    <link>https://imlauerjobs.github.io/@apache/</link>
+    <description>Recent content in Apache on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Wed, 18 Sep 2024 15:51:59 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@aws/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/@apache/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Devops hosting aws</title>
       <link>https://imlauerjobs.github.io/devops_hosting_aws/</link>
       <pubDate>Wed, 18 Sep 2024 15:51:59 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/devops_hosting_aws/</guid>
       <description>https://www.upwork.com/jobs/Looking-for-devops-for-apache-linux-server_~021836276972417380754/?referrer_url_path=find_work_home&#xA;Creo que algo anda mal con la configuración del servidor. POR FAVOR AYÚDENOS A RESOLVER ESTE PROBLEMA, EL PRESUPUESTO NO ES UN PROBLEMA. es un sitio web angular. conectemos lo antes posible. El alojamiento es AWS</description>
-    </item>
-    <item>
-      <title>Aws_https_setup_upload_image_bucket_csharp_make_website</title>
-      <link>https://imlauerjobs.github.io/aws_https_setup_upload_image_bucket_csharp_make_website/</link>
-      <pubDate>Wed, 18 Sep 2024 15:20:42 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/aws_https_setup_upload_image_bucket_csharp_make_website/</guid>
-      <description>https://www.upwork.com/jobs/Aws-https-setup-and-upload-image-bucket-using-and-make-website_~021836238195245925794/?referrer_url_path=find_work_home&#xA;aws https setup and upload image to bucket??? using C# and make website.</description>
     </item>
   </channel>
 </rss>

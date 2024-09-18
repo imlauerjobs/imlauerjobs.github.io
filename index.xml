@@ -6,8 +6,36 @@
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Wed, 18 Sep 2024 15:20:42 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 18:03:13 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freelancer</title>
+      <link>https://imlauerjobs.github.io/freelancer/</link>
+      <pubDate>Wed, 18 Sep 2024 18:03:13 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/freelancer/</guid>
+      <description>Buscar proyectos de algún tema en específico:&#xA;https://www.freelancer.com/search/projects?q=linux&#xA;https://www.freelancer.com/jobs/devops?w=f&amp;amp;redirect-times=1&amp;amp;ngsw-bypass=&#xA;https://www.freelancer.com/jobs/unix?w=f&amp;amp;redirect-times=1&amp;amp;ngsw-bypass=&#xA;https://www.freelancer.com/jobs/linux/1/?w=f&amp;amp;redirect-times=1&amp;amp;ngsw-bypass=&#xA;https://www.freelancer.com/jobs/data_entry&#xA;https://www.upwork.com/jobs</description>
+    </item>
+    <item>
+      <title>Pki_engineer_make_trust_file</title>
+      <link>https://imlauerjobs.github.io/pki_engineer_make_trust_file/</link>
+      <pubDate>Wed, 18 Sep 2024 17:48:56 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/pki_engineer_make_trust_file/</guid>
+      <description>Make ca mongodb trust file for htps connection using fullchain.pem and key.pem file&#xA;Cree un archivo de confianza de ca mongodb para la conexión https usando el archivo fullchain.pem y key.pem&#xA;https://community.letsencrypt.org/t/adding-you-to-my-servers-trust/15451&#xA;https://serverfault.com/questions/805971/how-to-correctly-configure-mongodb-to-use-letsencrypt-ssl-on-ubuntu&#xA;https://www.mongodb.com/community/forums/t/cer-file-to-pem-file-with-private-key/146334&#xA;https://stackoverflow.com/questions/50822387/letsencrypt-ssl-certificate-validation-failed-with-mongodb</description>
+    </item>
+    <item>
+      <title>Remote development environment setup local machines</title>
+      <link>https://imlauerjobs.github.io/remote_development_environment_setup_local_machines/</link>
+      <pubDate>Wed, 18 Sep 2024 16:14:47 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/remote_development_environment_setup_local_machines/</guid>
+      <description>https://www.upwork.com/jobs/Remote-Development-Environment-Setup-local-machines_~021836361884303131744/?referrer_url_path=find_work_home&#xA;Necesito configurar un entorno de desarrollo remoto en una máquina local para trabajar en un proyecto desde 2 computadoras diferentes con diferentes sistemas operativos usando PyCharm. El objetivo es crear un entorno completamente funcional donde pueda editar código, ejecutar pruebas y administrar el proyecto de forma remota en ambas máquinas. Actualmente, quiero que ambas computadoras accedan al proyecto y trabajen en él sin necesidad de instalar o configurar el proyecto por separado en cada máquina.</description>
+    </item>
+    <item>
+      <title>Devops hosting aws</title>
+      <link>https://imlauerjobs.github.io/devops_hosting_aws/</link>
+      <pubDate>Wed, 18 Sep 2024 15:51:59 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/devops_hosting_aws/</guid>
+      <description>https://www.upwork.com/jobs/Looking-for-devops-for-apache-linux-server_~021836276972417380754/?referrer_url_path=find_work_home&#xA;Creo que algo anda mal con la configuración del servidor. POR FAVOR AYÚDENOS A RESOLVER ESTE PROBLEMA, EL PRESUPUESTO NO ES UN PROBLEMA. es un sitio web angular. conectemos lo antes posible. El alojamiento es AWS</description>
+    </item>
     <item>
       <title>Aws_https_setup_upload_image_bucket_csharp_make_website</title>
       <link>https://imlauerjobs.github.io/aws_https_setup_upload_image_bucket_csharp_make_website/</link>

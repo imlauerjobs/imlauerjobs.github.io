@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pki on Index</title>
+    <link>https://imlauerjobs.github.io/@pki/</link>
+    <description>Recent content in Pki on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Wed, 18 Sep 2024 17:48:56 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@pki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pki_engineer_make_trust_file</title>
+      <link>https://imlauerjobs.github.io/pki_engineer_make_trust_file/</link>
+      <pubDate>Wed, 18 Sep 2024 17:48:56 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/pki_engineer_make_trust_file/</guid>
+      <description>Make ca mongodb trust file for htps connection using fullchain.pem and key.pem file&#xA;Cree un archivo de confianza de ca mongodb para la conexión https usando el archivo fullchain.pem y key.pem&#xA;https://community.letsencrypt.org/t/adding-you-to-my-servers-trust/15451&#xA;https://serverfault.com/questions/805971/how-to-correctly-configure-mongodb-to-use-letsencrypt-ssl-on-ubuntu&#xA;https://www.mongodb.com/community/forums/t/cer-file-to-pem-file-with-private-key/146334&#xA;https://stackoverflow.com/questions/50822387/letsencrypt-ssl-certificate-validation-failed-with-mongodb</description>
+    </item>
+  </channel>
+</rss>
