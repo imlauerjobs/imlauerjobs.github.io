@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Librecad on Index</title>
-    <link>http://localhost:1313/@librecad/</link>
+    <link>https://imlauerjobs.github.io/@librecad/</link>
     <description>Recent content in Librecad on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 11:49:54 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/@librecad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/@librecad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fix bash script for librecad installation</title>
-      <link>http://localhost:1313/fix_bash_script_for_librecad_installation/</link>
+      <link>https://imlauerjobs.github.io/fix_bash_script_for_librecad_installation/</link>
       <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
-      <guid>http://localhost:1313/fix_bash_script_for_librecad_installation/</guid>
+      <guid>https://imlauerjobs.github.io/fix_bash_script_for_librecad_installation/</guid>
       <description>https://www.freelancer.com/projects/linux/Fix-Bash-Script-for-LibreCAD/details&#xA;Tags: Linux, Shell Script, Ubuntu, Network Administrator, Qt&#xA;Tengo un archivo de script bash que uso para instalar librecad en Linux. Antes se ejecutaba muy bien, pero ahora necesita algo de depuración.&#xA;Puedo pagar 10 USD en Freelancer por esta solución.&#xA;¡Gracias por sus atenciones!&#xA;Solución Probablemente sea un error muy tonto.</description>
     </item>
   </channel>

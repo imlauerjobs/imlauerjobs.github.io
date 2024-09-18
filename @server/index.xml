@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Server on Index</title>
-    <link>http://localhost:1313/@server/</link>
+    <link>https://imlauerjobs.github.io/@server/</link>
     <description>Recent content in Server on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Mon, 16 Sep 2024 18:43:59 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/@server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 10:45:45 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firewall_server_issue_website</title>
+      <link>https://imlauerjobs.github.io/firewall_server_issue_website/</link>
+      <pubDate>Wed, 18 Sep 2024 10:45:45 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/firewall_server_issue_website/</guid>
+      <description>https://www.upwork.com/jobs/Firewall-and-Server-Issue-Fix-for-Website_~021836298071733629330/?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2F&#xA;Buscamos un experto para resolver problemas críticos de firewall y servidor que afectan el rendimiento y la seguridad de nuestro sitio web. El candidato ideal tendrá amplia experiencia en la gestión de firewalls, el diagnóstico de problemas del servidor y la implementación de soluciones efectivas. La función implica evaluar la configuración actual, identificar vulnerabilidades y garantizar una funcionalidad óptima. Su experiencia será crucial para restaurar la estabilidad y seguridad de nuestro sitio web.</description>
+    </item>
     <item>
       <title>Dedicated server setup config</title>
-      <link>http://localhost:1313/dedicated_server_setup_config/</link>
+      <link>https://imlauerjobs.github.io/dedicated_server_setup_config/</link>
       <pubDate>Mon, 16 Sep 2024 18:43:59 -0300</pubDate>
-      <guid>http://localhost:1313/dedicated_server_setup_config/</guid>
+      <guid>https://imlauerjobs.github.io/dedicated_server_setup_config/</guid>
       <description>https://www.freelancer.com/projects/linux/Dedicated-Server-Setup-Configuration/details&#xA;primera parte del proyecto camino rocoso linux 9.4 se ha instalado en el servidor dedicado | Servidores bare metal |servidor ovh Necesito ayuda con mi servidor dedicado. Las tareas incluyen:&#xA;Investigar el problema del usuario root y crear uno si es necesario. Instalando cPanel (ya tengo licencia para esta IP). Instalación de WordPress en el servidor. Instalar un certificado SSL (que proporcionaré) para mi dominio. El servidor ejecuta un sistema operativo Linux, específicamente la distribución Rocky Road.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Index</title>
-    <link>http://localhost:1313/@linux/</link>
+    <link>https://imlauerjobs.github.io/@linux/</link>
     <description>Recent content in Linux on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 12:25:11 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/@linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/@linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curl_timeout_issue_linux</title>
-      <link>http://localhost:1313/curl_timeout_issue_linux/</link>
+      <link>https://imlauerjobs.github.io/curl_timeout_issue_linux/</link>
       <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
-      <guid>http://localhost:1313/curl_timeout_issue_linux/</guid>
+      <guid>https://imlauerjobs.github.io/curl_timeout_issue_linux/</guid>
       <description>https://www.freelancer.com/projects/linux/Fix-Curl-Timeout-Issue-Linux&#xA;Necesito ayuda para resolver un error de tiempo de espera de &amp;ldquo;curl&amp;rdquo; en mi servidor Linux dedicado.&#xA;Problema: El comando &amp;lsquo;curl&amp;rsquo; está agotando el tiempo de espera, lo que impide conexiones exitosas. Entorno: Esto sucede en un servidor dedicado Linux. El autónomo ideal para esta tarea debería tener:&#xA;Amplia experiencia con servidores Linux. Conocimiento competente de los comandos &amp;lsquo;curl&amp;rsquo; y la resolución de problemas. Capacidad para diagnosticar y resolver problemas relacionados con el servidor con prontitud.</description>
     </item>
     <item>
       <title>Dedicated server setup config</title>
-      <link>http://localhost:1313/dedicated_server_setup_config/</link>
+      <link>https://imlauerjobs.github.io/dedicated_server_setup_config/</link>
       <pubDate>Mon, 16 Sep 2024 18:43:59 -0300</pubDate>
-      <guid>http://localhost:1313/dedicated_server_setup_config/</guid>
+      <guid>https://imlauerjobs.github.io/dedicated_server_setup_config/</guid>
       <description>https://www.freelancer.com/projects/linux/Dedicated-Server-Setup-Configuration/details&#xA;primera parte del proyecto camino rocoso linux 9.4 se ha instalado en el servidor dedicado | Servidores bare metal |servidor ovh Necesito ayuda con mi servidor dedicado. Las tareas incluyen:&#xA;Investigar el problema del usuario root y crear uno si es necesario. Instalando cPanel (ya tengo licencia para esta IP). Instalación de WordPress en el servidor. Instalar un certificado SSL (que proporcionaré) para mi dominio. El servidor ejecuta un sistema operativo Linux, específicamente la distribución Rocky Road.</description>
     </item>
   </channel>

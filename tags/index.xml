@@ -2,311 +2,353 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Index</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://imlauerjobs.github.io/tags/</link>
     <description>Recent content in Tags on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Wed, 18 Sep 2024 09:26:13 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 10:55:41 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Esim</title>
-      <link>http://localhost:1313/@esim/</link>
-      <pubDate>Wed, 18 Sep 2024 09:26:13 -0300</pubDate>
-      <guid>http://localhost:1313/@esim/</guid>
+      <title>Antiwordpress</title>
+      <link>https://imlauerjobs.github.io/@antiwordpress/</link>
+      <pubDate>Wed, 18 Sep 2024 10:55:41 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@antiwordpress/</guid>
       <description></description>
     </item>
     <item>
-      <title>Php</title>
-      <link>http://localhost:1313/@php/</link>
-      <pubDate>Wed, 18 Sep 2024 08:53:09 -0300</pubDate>
-      <guid>http://localhost:1313/@php/</guid>
+      <title>Ipfs</title>
+      <link>https://imlauerjobs.github.io/@ipfs/</link>
+      <pubDate>Wed, 18 Sep 2024 10:55:41 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@ipfs/</guid>
       <description></description>
     </item>
     <item>
-      <title>Webapp</title>
-      <link>http://localhost:1313/@webapp/</link>
-      <pubDate>Wed, 18 Sep 2024 08:53:09 -0300</pubDate>
-      <guid>http://localhost:1313/@webapp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digitalocean</title>
-      <link>http://localhost:1313/@digitalocean/</link>
-      <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
-      <guid>http://localhost:1313/@digitalocean/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Headers</title>
-      <link>http://localhost:1313/@headers/</link>
-      <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
-      <guid>http://localhost:1313/@headers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>http://localhost:1313/@security/</link>
-      <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
-      <guid>http://localhost:1313/@security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Soap</title>
-      <link>http://localhost:1313/@soap/</link>
-      <pubDate>Wed, 18 Sep 2024 08:11:40 -0300</pubDate>
-      <guid>http://localhost:1313/@soap/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wss</title>
-      <link>http://localhost:1313/@wss/</link>
-      <pubDate>Wed, 18 Sep 2024 08:11:40 -0300</pubDate>
-      <guid>http://localhost:1313/@wss/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mongodb</title>
-      <link>http://localhost:1313/@mongodb/</link>
-      <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
-      <guid>http://localhost:1313/@mongodb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/@python/</link>
-      <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
-      <guid>http://localhost:1313/@python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Serversetup&#39;,dynamicfront</title>
-      <link>http://localhost:1313/@serversetupdynamicfront/</link>
-      <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
-      <guid>http://localhost:1313/@serversetupdynamicfront/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Multiprocessing</title>
-      <link>http://localhost:1313/@multiprocessing/</link>
-      <pubDate>Wed, 18 Sep 2024 07:50:42 -0300</pubDate>
-      <guid>http://localhost:1313/@multiprocessing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Telegram</title>
-      <link>http://localhost:1313/@telegram/</link>
-      <pubDate>Wed, 18 Sep 2024 07:23:28 -0300</pubDate>
-      <guid>http://localhost:1313/@telegram/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ispconfig</title>
-      <link>http://localhost:1313/@ispconfig/</link>
-      <pubDate>Tue, 17 Sep 2024 21:22:18 -0300</pubDate>
-      <guid>http://localhost:1313/@ispconfig/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bamboo</title>
-      <link>http://localhost:1313/@bamboo/</link>
-      <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>http://localhost:1313/@bamboo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloud</title>
-      <link>http://localhost:1313/@cloud/</link>
-      <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>http://localhost:1313/@cloud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keygen</title>
-      <link>http://localhost:1313/@keygen/</link>
-      <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>http://localhost:1313/@keygen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rhel9</title>
-      <link>http://localhost:1313/@rhel9/</link>
-      <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>http://localhost:1313/@rhel9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data</title>
-      <link>http://localhost:1313/@data/</link>
-      <pubDate>Tue, 17 Sep 2024 19:25:44 -0300</pubDate>
-      <guid>http://localhost:1313/@data/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Entry</title>
-      <link>http://localhost:1313/@entry/</link>
-      <pubDate>Tue, 17 Sep 2024 19:25:44 -0300</pubDate>
-      <guid>http://localhost:1313/@entry/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Temperatura</title>
-      <link>http://localhost:1313/@temperatura/</link>
-      <pubDate>Tue, 17 Sep 2024 18:50:59 -0300</pubDate>
-      <guid>http://localhost:1313/@temperatura/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Developer</title>
-      <link>http://localhost:1313/@developer/</link>
-      <pubDate>Tue, 17 Sep 2024 18:47:40 -0300</pubDate>
-      <guid>http://localhost:1313/@developer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Servicenow</title>
-      <link>http://localhost:1313/@servicenow/</link>
-      <pubDate>Tue, 17 Sep 2024 18:47:40 -0300</pubDate>
-      <guid>http://localhost:1313/@servicenow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Discord</title>
-      <link>http://localhost:1313/@discord/</link>
-      <pubDate>Tue, 17 Sep 2024 18:40:59 -0300</pubDate>
-      <guid>http://localhost:1313/@discord/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Goldsvet</title>
-      <link>http://localhost:1313/@goldsvet/</link>
-      <pubDate>Tue, 17 Sep 2024 17:10:44 -0300</pubDate>
-      <guid>http://localhost:1313/@goldsvet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Inicio</title>
-      <link>http://localhost:1313/@inicio/</link>
-      <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
-      <guid>http://localhost:1313/@inicio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pagina</title>
-      <link>http://localhost:1313/@pagina/</link>
-      <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
-      <guid>http://localhost:1313/@pagina/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Session</title>
-      <link>http://localhost:1313/@session/</link>
-      <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
-      <guid>http://localhost:1313/@session/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Magento</title>
-      <link>http://localhost:1313/@magento/</link>
-      <pubDate>Tue, 17 Sep 2024 16:24:25 -0300</pubDate>
-      <guid>http://localhost:1313/@magento/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Android</title>
-      <link>http://localhost:1313/@android/</link>
-      <pubDate>Tue, 17 Sep 2024 13:50:08 -0300</pubDate>
-      <guid>http://localhost:1313/@android/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reversing</title>
-      <link>http://localhost:1313/@reversing/</link>
-      <pubDate>Tue, 17 Sep 2024 13:50:08 -0300</pubDate>
-      <guid>http://localhost:1313/@reversing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/@blog/</link>
-      <pubDate>Tue, 17 Sep 2024 13:17:17 -0300</pubDate>
-      <guid>http://localhost:1313/@blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wordpress</title>
-      <link>http://localhost:1313/@wordpress/</link>
-      <pubDate>Tue, 17 Sep 2024 13:17:17 -0300</pubDate>
-      <guid>http://localhost:1313/@wordpress/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Curl</title>
-      <link>http://localhost:1313/@curl/</link>
-      <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
-      <guid>http://localhost:1313/@curl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/@linux/</link>
-      <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
-      <guid>http://localhost:1313/@linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Timeout</title>
-      <link>http://localhost:1313/@timeout/</link>
-      <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
-      <guid>http://localhost:1313/@timeout/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bash</title>
-      <link>http://localhost:1313/@bash/</link>
-      <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
-      <guid>http://localhost:1313/@bash/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Librecad</title>
-      <link>http://localhost:1313/@librecad/</link>
-      <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
-      <guid>http://localhost:1313/@librecad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vpn</title>
-      <link>http://localhost:1313/@vpn/</link>
-      <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
-      <guid>http://localhost:1313/@vpn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Windows</title>
-      <link>http://localhost:1313/@windows/</link>
-      <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
-      <guid>http://localhost:1313/@windows/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Seo</title>
-      <link>http://localhost:1313/@seo/</link>
-      <pubDate>Mon, 16 Sep 2024 19:49:07 -0300</pubDate>
-      <guid>http://localhost:1313/@seo/</guid>
+      <title>Firewall</title>
+      <link>https://imlauerjobs.github.io/@firewall/</link>
+      <pubDate>Wed, 18 Sep 2024 10:45:45 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@firewall/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>http://localhost:1313/@server/</link>
-      <pubDate>Mon, 16 Sep 2024 18:43:59 -0300</pubDate>
-      <guid>http://localhost:1313/@server/</guid>
+      <link>https://imlauerjobs.github.io/@server/</link>
+      <pubDate>Wed, 18 Sep 2024 10:45:45 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whatsapp</title>
+      <link>https://imlauerjobs.github.io/@whatsapp/</link>
+      <pubDate>Wed, 18 Sep 2024 10:36:46 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@whatsapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electronjs</title>
+      <link>https://imlauerjobs.github.io/@electronjs/</link>
+      <pubDate>Wed, 18 Sep 2024 09:57:05 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@electronjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Structuralengineering</title>
+      <link>https://imlauerjobs.github.io/@structuralengineering/</link>
+      <pubDate>Wed, 18 Sep 2024 09:57:05 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@structuralengineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Esim</title>
+      <link>https://imlauerjobs.github.io/@esim/</link>
+      <pubDate>Wed, 18 Sep 2024 09:26:13 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@esim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Php</title>
+      <link>https://imlauerjobs.github.io/@php/</link>
+      <pubDate>Wed, 18 Sep 2024 08:53:09 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webapp</title>
+      <link>https://imlauerjobs.github.io/@webapp/</link>
+      <pubDate>Wed, 18 Sep 2024 08:53:09 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@webapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digitalocean</title>
+      <link>https://imlauerjobs.github.io/@digitalocean/</link>
+      <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@digitalocean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Headers</title>
+      <link>https://imlauerjobs.github.io/@headers/</link>
+      <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@headers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://imlauerjobs.github.io/@security/</link>
+      <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soap</title>
+      <link>https://imlauerjobs.github.io/@soap/</link>
+      <pubDate>Wed, 18 Sep 2024 08:11:40 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@soap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wss</title>
+      <link>https://imlauerjobs.github.io/@wss/</link>
+      <pubDate>Wed, 18 Sep 2024 08:11:40 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@wss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mongodb</title>
+      <link>https://imlauerjobs.github.io/@mongodb/</link>
+      <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@mongodb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://imlauerjobs.github.io/@python/</link>
+      <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Serversetup&#39;,dynamicfront</title>
+      <link>https://imlauerjobs.github.io/@serversetupdynamicfront/</link>
+      <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@serversetupdynamicfront/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiprocessing</title>
+      <link>https://imlauerjobs.github.io/@multiprocessing/</link>
+      <pubDate>Wed, 18 Sep 2024 07:50:42 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@multiprocessing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telegram</title>
+      <link>https://imlauerjobs.github.io/@telegram/</link>
+      <pubDate>Wed, 18 Sep 2024 07:23:28 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@telegram/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ispconfig</title>
+      <link>https://imlauerjobs.github.io/@ispconfig/</link>
+      <pubDate>Tue, 17 Sep 2024 21:22:18 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@ispconfig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bamboo</title>
+      <link>https://imlauerjobs.github.io/@bamboo/</link>
+      <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@bamboo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>https://imlauerjobs.github.io/@cloud/</link>
+      <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keygen</title>
+      <link>https://imlauerjobs.github.io/@keygen/</link>
+      <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@keygen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rhel9</title>
+      <link>https://imlauerjobs.github.io/@rhel9/</link>
+      <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@rhel9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>https://imlauerjobs.github.io/@data/</link>
+      <pubDate>Tue, 17 Sep 2024 19:25:44 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entry</title>
+      <link>https://imlauerjobs.github.io/@entry/</link>
+      <pubDate>Tue, 17 Sep 2024 19:25:44 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@entry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Temperatura</title>
+      <link>https://imlauerjobs.github.io/@temperatura/</link>
+      <pubDate>Tue, 17 Sep 2024 18:50:59 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@temperatura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer</title>
+      <link>https://imlauerjobs.github.io/@developer/</link>
+      <pubDate>Tue, 17 Sep 2024 18:47:40 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@developer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Servicenow</title>
+      <link>https://imlauerjobs.github.io/@servicenow/</link>
+      <pubDate>Tue, 17 Sep 2024 18:47:40 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@servicenow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discord</title>
+      <link>https://imlauerjobs.github.io/@discord/</link>
+      <pubDate>Tue, 17 Sep 2024 18:40:59 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@discord/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goldsvet</title>
+      <link>https://imlauerjobs.github.io/@goldsvet/</link>
+      <pubDate>Tue, 17 Sep 2024 17:10:44 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@goldsvet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inicio</title>
+      <link>https://imlauerjobs.github.io/@inicio/</link>
+      <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@inicio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pagina</title>
+      <link>https://imlauerjobs.github.io/@pagina/</link>
+      <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@pagina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session</title>
+      <link>https://imlauerjobs.github.io/@session/</link>
+      <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@session/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magento</title>
+      <link>https://imlauerjobs.github.io/@magento/</link>
+      <pubDate>Tue, 17 Sep 2024 16:24:25 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@magento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>https://imlauerjobs.github.io/@android/</link>
+      <pubDate>Tue, 17 Sep 2024 13:50:08 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reversing</title>
+      <link>https://imlauerjobs.github.io/@reversing/</link>
+      <pubDate>Tue, 17 Sep 2024 13:50:08 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@reversing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://imlauerjobs.github.io/@blog/</link>
+      <pubDate>Tue, 17 Sep 2024 13:17:17 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>https://imlauerjobs.github.io/@wordpress/</link>
+      <pubDate>Tue, 17 Sep 2024 13:17:17 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curl</title>
+      <link>https://imlauerjobs.github.io/@curl/</link>
+      <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@curl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://imlauerjobs.github.io/@linux/</link>
+      <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Timeout</title>
+      <link>https://imlauerjobs.github.io/@timeout/</link>
+      <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@timeout/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash</title>
+      <link>https://imlauerjobs.github.io/@bash/</link>
+      <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@bash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Librecad</title>
+      <link>https://imlauerjobs.github.io/@librecad/</link>
+      <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@librecad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vpn</title>
+      <link>https://imlauerjobs.github.io/@vpn/</link>
+      <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@vpn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>https://imlauerjobs.github.io/@windows/</link>
+      <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seo</title>
+      <link>https://imlauerjobs.github.io/@seo/</link>
+      <pubDate>Mon, 16 Sep 2024 19:49:07 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Jekyll</title>
-      <link>http://localhost:1313/@jekyll/</link>
+      <link>https://imlauerjobs.github.io/@jekyll/</link>
       <pubDate>Mon, 16 Sep 2024 16:10:37 -0300</pubDate>
-      <guid>http://localhost:1313/@jekyll/</guid>
+      <guid>https://imlauerjobs.github.io/@jekyll/</guid>
       <description></description>
     </item>
   </channel>

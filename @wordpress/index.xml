@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wordpress on Index</title>
-    <link>http://localhost:1313/@wordpress/</link>
+    <link>https://imlauerjobs.github.io/@wordpress/</link>
     <description>Recent content in Wordpress on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 13:17:17 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/@wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/@wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Udemycourseposts</title>
-      <link>http://localhost:1313/udemycourseposts/</link>
+      <link>https://imlauerjobs.github.io/udemycourseposts/</link>
       <pubDate>Tue, 17 Sep 2024 13:17:17 -0300</pubDate>
-      <guid>http://localhost:1313/udemycourseposts/</guid>
+      <guid>https://imlauerjobs.github.io/udemycourseposts/</guid>
       <description>https://www.freelancer.com/projects/php/Udemy-Course-Posts-Website/details&#xA;www.udemykurs.com.tr MUST BE SIMILAR&#xA;I&amp;rsquo;m looking for a web developer to create an informational website for me. The main focus will be a blog section that I will regularly update with posts.&#xA;Key Features:&#xA;Blog section: This will be the primary content of the website. The developer should be able to set up a user-friendly interface for posting and managing blog content. Commenting system: I want users to be able to comment on blog posts.</description>
     </item>
     <item>
       <title>Seo Friendly Url Optimization</title>
-      <link>http://localhost:1313/seo-friendly-url-optimization/</link>
+      <link>https://imlauerjobs.github.io/seo-friendly-url-optimization/</link>
       <pubDate>Mon, 16 Sep 2024 19:49:07 -0300</pubDate>
-      <guid>http://localhost:1313/seo-friendly-url-optimization/</guid>
+      <guid>https://imlauerjobs.github.io/seo-friendly-url-optimization/</guid>
       <description>https://www.freelancer.com/projects/seo/SEO-Friendly-URL-Optimization-for&#xA;Estoy buscando un especialista en SEO con experiencia para mejorar las URL de mi sitio de anuncios clasificados. El objetivo es hacerlos compatibles con SEO para mejorar la visibilidad y el ranking de nuestro sitio.&#xA;Áreas de enfoque:&#xA;páginas de categorías Páginas de anuncios individuales. El candidato ideal debe tener un conocimiento profundo de los principios y prácticas de SEO, particularmente en relación con la estructuración de URL. Se valorará tener experiencia previa trabajando con sitios de anuncios clasificados.</description>
     </item>
     <item>
       <title>Wordpress</title>
-      <link>http://localhost:1313/wordpress/</link>
+      <link>https://imlauerjobs.github.io/wordpress/</link>
       <pubDate>Mon, 16 Sep 2024 19:34:16 -0300</pubDate>
-      <guid>http://localhost:1313/wordpress/</guid>
+      <guid>https://imlauerjobs.github.io/wordpress/</guid>
       <description>https://www.freelancer.com/projects/php/Hacer-unos-cambios-una-web/details&#xA;Trabajo: Presupuesto es 20 dólares por hacer todo esto se necesita para hoy Necesitamos en nuestra web rock-space.com hacer los siguientes arreglos y modificaciones: -Arreglar el filtro por categoría. -Añadir: Aviso legal, política de cancelación, devolución y reembolso ,garantías y envió. -Adecuar la vista en dispositivos móviles. -Añadir recargo de equivalencia. -Actualizar plugins&#xA;Soluciones: Está claramente hablando de woocomerce.&#xA;Agregar filtro por categoría (en woocomerce): https://www.youtube.com/watch?v=l5trzICXJqU&#xA;https://www.youtube.com/watch?v=REczFo8HWzI&#xA;https://www.youtube.com/watch?v=g1_qlJvNdsg&#xA;https://www.youtube.com/watch?v=n-KxZdvdyxo https://www.</description>
     </item>
     <item>
       <title>Change_theme</title>
-      <link>http://localhost:1313/change_theme/</link>
+      <link>https://imlauerjobs.github.io/change_theme/</link>
       <pubDate>Mon, 16 Sep 2024 17:16:32 -0300</pubDate>
-      <guid>http://localhost:1313/change_theme/</guid>
+      <guid>https://imlauerjobs.github.io/change_theme/</guid>
       <description>https://www.freelancer.com/projects/wordpress/Wordpress-Expert-Change-Theme-38581187&#xA;Hello everyone! I&amp;rsquo;m looking for an experienced professional Wordpress Expert who can seamlessly change a theme without disrupting SEO.&#xA;I need someone who can start ASAP.&#xA;Thanks ¡Hola a todos! Estoy buscando un experto en Wordpress profesional con experiencia que pueda cambiar un tema sin problemas sin interrumpir el SEO.&#xA;Necesito a alguien que pueda empezar lo antes posible.&#xA;Gracias&#xA;Solución Cada theme tiene su vuelta, su especialidad.&#xA;Creá un backup</description>
     </item>
     <item>
       <title>Fix 502 wordpress site</title>
-      <link>http://localhost:1313/fix_502_wordpress_site/</link>
+      <link>https://imlauerjobs.github.io/fix_502_wordpress_site/</link>
       <pubDate>Mon, 16 Sep 2024 15:28:36 -0300</pubDate>
-      <guid>http://localhost:1313/fix_502_wordpress_site/</guid>
+      <guid>https://imlauerjobs.github.io/fix_502_wordpress_site/</guid>
       <description>https://www.freelancer.com/projects/linux/Dedicated-Server-Setup-Configuration/details&#xA;Mi sitio de WordPress alojado en Google Cloud actualmente no funciona con un error 502. Intenté varios pasos para solucionar el problema sin éxito.&#xA;Antes del error, no se realizaron cambios recientes en el sitio web. No he modificado ninguna configuración en mi alojamiento de Google Cloud. Reinicié Apache y desactivé todos los complementos y el tema en un esfuerzo por identificar el problema. Agradecería la ayuda de un profesional independiente con experiencia en la resolución de errores del servidor, particularmente en un entorno de WordPress/Google Cloud.</description>
     </item>
   </channel>
