@@ -6,8 +6,15 @@
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Wed, 18 Sep 2024 18:03:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 18:22:43 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux_server_optimization</title>
+      <link>https://imlauerjobs.github.io/linux_server_optimization/</link>
+      <pubDate>Wed, 18 Sep 2024 18:22:43 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/linux_server_optimization/</guid>
+      <description>https://www.upwork.com/jobs/Linux-Server-Optimization-for-AlmaLinux-cPanel-WHM_~021836396845365604841/?referrer_url_path=find_work_home&#xA;Especialista en optimización del sistema operativo Linux para el servidor AlmaLinux 9.4.0 (cPanel/WHM) Ubicación: Remota Experiencia: más de 3 años en administración de sistemas Linux y optimización de servidores. Tipo de proyecto: Proyecto único con potencial para soporte continuo.&#xA;Buscamos un experto en optimización de servidores Linux para una tarea única en un servidor AlmaLinux 9.4.0 administrado a través de cPanel/WHM. El servidor ha estado experimentando un tiempo de inactividad debido al consumo excesivo de recursos y necesitamos que alguien resuelva este problema.</description>
+    </item>
     <item>
       <title>Freelancer</title>
       <link>https://imlauerjobs.github.io/freelancer/</link>
@@ -21,6 +28,13 @@
       <pubDate>Wed, 18 Sep 2024 17:48:56 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/pki_engineer_make_trust_file/</guid>
       <description>Make ca mongodb trust file for htps connection using fullchain.pem and key.pem file&#xA;Cree un archivo de confianza de ca mongodb para la conexión https usando el archivo fullchain.pem y key.pem&#xA;https://community.letsencrypt.org/t/adding-you-to-my-servers-trust/15451&#xA;https://serverfault.com/questions/805971/how-to-correctly-configure-mongodb-to-use-letsencrypt-ssl-on-ubuntu&#xA;https://www.mongodb.com/community/forums/t/cer-file-to-pem-file-with-private-key/146334&#xA;https://stackoverflow.com/questions/50822387/letsencrypt-ssl-certificate-validation-failed-with-mongodb</description>
+    </item>
+    <item>
+      <title>WiFi Captive Portal Setup with Raspberry Pi and Netgear Orbi Router</title>
+      <link>https://imlauerjobs.github.io/wifi_captive_portal_setup_with_raspberry_pi_and_netgear_orbi_router/</link>
+      <pubDate>Wed, 18 Sep 2024 16:43:32 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/wifi_captive_portal_setup_with_raspberry_pi_and_netgear_orbi_router/</guid>
+      <description>https://www.upwork.com/jobs/WiFi-Captive-Portal-Setup-with-Raspberry-and-Netgear-Orbi-Router_~021836358910303710851/?referrer_url_path=find_work_home&#xA;Se busca un profesional independiente capacitado para ayudar a configurar un portal cautivo WiFi básico utilizando una Raspberry Pi como servidor DNS/puerta de enlace del portal cautivo y un enrutador Netgear Orbi. Puede aprovechar NoDogsplash o lo que sea necesario para configurarlo. No es necesario realizar ningún trabajo de diseño, ya que lo haremos por nuestra cuenta una vez que el portal esté configurado. Criterios para el trabajo:&#xA;Configurar un portal cautivo wifi en una Raspberry Pi 4, que se conecta a mi Netgear Orbi Wifi Mesh.</description>
     </item>
     <item>
       <title>Remote development environment setup local machines</title>

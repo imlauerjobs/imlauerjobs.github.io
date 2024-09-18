@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://imlauerjobs.github.io/</loc>
+    <lastmod>2024-09-18T18:22:43-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/@linux/</loc>
+    <lastmod>2024-09-18T18:22:43-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/linux_server_optimization/</loc>
+    <lastmod>2024-09-18T18:22:43-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/@optimization/</loc>
+    <lastmod>2024-09-18T18:22:43-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/@server/</loc>
+    <lastmod>2024-09-18T18:22:43-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/tags/</loc>
+    <lastmod>2024-09-18T18:22:43-03:00</lastmod>
+  </url><url>
     <loc>https://imlauerjobs.github.io/@freelancer/</loc>
     <lastmod>2024-09-18T18:03:13-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/freelancer/</loc>
-    <lastmod>2024-09-18T18:03:13-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/</loc>
-    <lastmod>2024-09-18T18:03:13-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/tags/</loc>
     <lastmod>2024-09-18T18:03:13-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/@engineer/</loc>
@@ -25,6 +37,9 @@
   </url><url>
     <loc>https://imlauerjobs.github.io/@trust/</loc>
     <lastmod>2024-09-18T17:48:56-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/wifi_captive_portal_setup_with_raspberry_pi_and_netgear_orbi_router/</loc>
+    <lastmod>2024-09-18T16:43:32-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/@localmachines/</loc>
     <lastmod>2024-09-18T16:14:47-03:00</lastmod>
@@ -78,9 +93,6 @@
     <lastmod>2024-09-18T10:45:45-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/firewall_server_issue_website/</loc>
-    <lastmod>2024-09-18T10:45:45-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/@server/</loc>
     <lastmod>2024-09-18T10:45:45-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/managing_multiple_whatsapp_accounts_business_auto/</loc>
@@ -255,9 +267,6 @@
     <lastmod>2024-09-17T12:25:11-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/curl_timeout_issue_linux/</loc>
-    <lastmod>2024-09-17T12:25:11-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/@linux/</loc>
     <lastmod>2024-09-17T12:25:11-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/@timeout/</loc>
