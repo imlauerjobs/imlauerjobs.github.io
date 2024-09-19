@@ -6,8 +6,64 @@
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Wed, 18 Sep 2024 18:22:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 09:49:12 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux_server_specialist</title>
+      <link>https://imlauerjobs.github.io/linux_server_specialist/</link>
+      <pubDate>Thu, 19 Sep 2024 09:49:12 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/linux_server_specialist/</guid>
+      <description>https://www.upwork.com/jobs/Looking-for-Linux-Server-Specialist_~021836609211905441668/?referrer_url_path=find_work_home&#xA;Looking for Linux Server Specialist&#xA;Your task is to install, setup database an application named Kalkun. It uses PHP and MYSQL.&#xA;Documentation: https://kalkun.sourceforge.io/ Installation Instructions: https://github.com/kalkun-sms/Kalkun&#xA;PPA of application: https://launchpad.net/~kalkun/+archive/ubuntu/kalkun-releases&#xA;You will need to set it up to work with mysql.&#xA;You will be provided a fresh Ubuntu 24.04 LTS where you will have root access.</description>
+    </item>
+    <item>
+      <title>Facing_issue_with_S3_and_CDN_config</title>
+      <link>https://imlauerjobs.github.io/facing_issue_with_s3_and_cdn_config/</link>
+      <pubDate>Thu, 19 Sep 2024 09:35:18 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/facing_issue_with_s3_and_cdn_config/</guid>
+      <description>https://www.upwork.com/jobs/Facing-issue-with-and-CDN-config_~021836646185238621535/?referrer_url_path=find_work_home&#xA;Need someone who can help me resolve the issues that we are facing in our AWS s3 and CDN and also check everything security related.</description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://imlauerjobs.github.io/linux/</link>
+      <pubDate>Thu, 19 Sep 2024 08:58:20 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/linux/</guid>
+      <description>https://www.upwork.com/nx/proposals/1836524665256833025&#xA;Searches hereby for knowledge within Linux Administration. You will make some overview of how to use commands, and also do some test installations. It will be a few hours now and then (sporadic need), on a long term contract.&#xA;Indicate your interest, and we&amp;rsquo;ll take it from there.&#xA;OFERTA DE CONTRATO: Se le enviará un contrato después de enviarme los comentarios deseados sobre estos términos. Será un contrato de &amp;ldquo;horas de trabajo por semana&amp;rdquo;, pero este contrato funcionará más o menos como una oferta para cada tarea.</description>
+    </item>
+    <item>
+      <title>Deploy_to_github</title>
+      <link>https://imlauerjobs.github.io/deploy_to_github/</link>
+      <pubDate>Thu, 19 Sep 2024 07:50:59 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/deploy_to_github/</guid>
+      <description>https://www.upwork.com/jobs/Deploy-Github-Repository_~021836696424477715807/?referrer_url_path=find_work_home&#xA;Buscamos a alguien para implementar este repositorio de GitHub en nuestro servidor:&#xA;https://github.com/VoytekBereza/medical-clinical-governance&#xA;Hitos:&#xA;Descargue y pruebe localmente para ver si funciona. Subir a nuestro servidor. Configurar la base de datos. Entra en funcionamiento para finalizar la prueba. </description>
+    </item>
+    <item>
+      <title>Mysql database optimization wordpress</title>
+      <link>https://imlauerjobs.github.io/mysql_database_optimization_wordpress/</link>
+      <pubDate>Thu, 19 Sep 2024 07:35:57 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/mysql_database_optimization_wordpress/</guid>
+      <description>https://www.upwork.com/jobs/MySQL-Database-Optimization-for-WordPress-Site_~021836683806128994591/?referrer_url_path=find_work_home&#xA;Estoy buscando un profesional independiente con experiencia que me ayude a diagnosticar y resolver problemas de rendimiento con mi base de datos MySQL en un sitio web de WordPress. Actualmente, la base de datos está provocando un uso elevado de la CPU en el servidor de alojamiento y necesito un experto para identificar las causas fundamentales e implementar soluciones efectivas. Su experiencia en la optimización de bases de datos MySQL y el rendimiento de WordPress será crucial para restaurar la eficiencia del sitio.</description>
+    </item>
+    <item>
+      <title>Setup_ci_cd_github_wordpress</title>
+      <link>https://imlauerjobs.github.io/setup_ci_cd_github_wordpress/</link>
+      <pubDate>Wed, 18 Sep 2024 22:10:21 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/setup_ci_cd_github_wordpress/</guid>
+      <description>https://www.youtube.com/watch?v=xsfq8q-xdOo</description>
+    </item>
+    <item>
+      <title>SFTP IONOS</title>
+      <link>https://imlauerjobs.github.io/sftp_ionos/</link>
+      <pubDate>Wed, 18 Sep 2024 20:54:25 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/sftp_ionos/</guid>
+      <description>Buscamos un consultor experimentado que nos oriente sobre la configuración y gestión de SFTP en nuestro servidor IONOS. El candidato ideal tendrá un sólido conocimiento de los protocolos de transferencia segura de archivos y las configuraciones específicas requeridas para los servidores IONOS. Nos ayudará a optimizar nuestra configuración SFTP para mayor seguridad y eficiencia. Su experiencia ayudará a garantizar una implementación fluida y una gestión continua.&#xA;EL PROBLEMA: es necesario proporcionar acceso a la carpeta SFTP para un subdominio específico.</description>
+    </item>
+    <item>
+      <title>Gitlab_runners</title>
+      <link>https://imlauerjobs.github.io/gitlab_runners/</link>
+      <pubDate>Wed, 18 Sep 2024 19:37:39 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/gitlab_runners/</guid>
+      <description>https://www.upwork.com/jobs/GitLab-runner_~021836440804802902671/?referrer_url_path=find_work_home&#xA;https://www.red-tic.unam.mx/recursos/2021/despliegue-entrega-continua-gitlab.pdf&#xA;Help Upgrading GitLab runner from previous version to 16.10.0&#xA;https://m.youtube.com/watch?v=-CyVpfDQAG0&#xA;https://m.youtube.com/watch?v=G8ZONHOTAQk&#xA;GitHub runner Es una aplicación opensource que es usada para correr trabajos en un pipeline de CI/CD, es similar a Jenkins.&#xA;Jenkins: https://www.youtube.com/watch?v=NovHZZwlCfk</description>
+    </item>
     <item>
       <title>Linux_server_optimization</title>
       <link>https://imlauerjobs.github.io/linux_server_optimization/</link>

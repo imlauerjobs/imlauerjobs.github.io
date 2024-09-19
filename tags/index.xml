@@ -6,13 +6,83 @@
     <description>Recent content in Tags on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Wed, 18 Sep 2024 18:22:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 09:35:18 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cdn</title>
+      <link>https://imlauerjobs.github.io/@cdn/</link>
+      <pubDate>Thu, 19 Sep 2024 09:35:18 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@cdn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>S3</title>
+      <link>https://imlauerjobs.github.io/@s3/</link>
+      <pubDate>Thu, 19 Sep 2024 09:35:18 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@s3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Admin</title>
+      <link>https://imlauerjobs.github.io/@admin/</link>
+      <pubDate>Thu, 19 Sep 2024 08:58:20 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@admin/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Linux</title>
       <link>https://imlauerjobs.github.io/@linux/</link>
-      <pubDate>Wed, 18 Sep 2024 18:22:43 -0300</pubDate>
+      <pubDate>Thu, 19 Sep 2024 08:58:20 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/@linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deploy</title>
+      <link>https://imlauerjobs.github.io/@deploy/</link>
+      <pubDate>Thu, 19 Sep 2024 07:50:59 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@deploy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>https://imlauerjobs.github.io/@github/</link>
+      <pubDate>Thu, 19 Sep 2024 07:50:59 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>https://imlauerjobs.github.io/@wordpress/</link>
+      <pubDate>Thu, 19 Sep 2024 07:35:57 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ci/Cd</title>
+      <link>https://imlauerjobs.github.io/@ci/cd/</link>
+      <pubDate>Wed, 18 Sep 2024 22:10:21 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@ci/cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sftp</title>
+      <link>https://imlauerjobs.github.io/@sftp/</link>
+      <pubDate>Wed, 18 Sep 2024 20:54:25 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@sftp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gitlab</title>
+      <link>https://imlauerjobs.github.io/@gitlab/</link>
+      <pubDate>Wed, 18 Sep 2024 19:37:39 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@gitlab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Runner</title>
+      <link>https://imlauerjobs.github.io/@runner/</link>
+      <pubDate>Wed, 18 Sep 2024 19:37:39 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/@runner/</guid>
       <description></description>
     </item>
     <item>
@@ -384,13 +454,6 @@
       <link>https://imlauerjobs.github.io/@blog/</link>
       <pubDate>Tue, 17 Sep 2024 13:17:17 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/@blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wordpress</title>
-      <link>https://imlauerjobs.github.io/@wordpress/</link>
-      <pubDate>Tue, 17 Sep 2024 13:17:17 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/@wordpress/</guid>
       <description></description>
     </item>
     <item>

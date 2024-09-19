@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Runner on Index</title>
+    <link>https://imlauerjobs.github.io/@runner/</link>
+    <description>Recent content in Runner on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Wed, 18 Sep 2024 19:37:39 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@runner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gitlab_runners</title>
+      <link>https://imlauerjobs.github.io/gitlab_runners/</link>
+      <pubDate>Wed, 18 Sep 2024 19:37:39 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/gitlab_runners/</guid>
+      <description>https://www.upwork.com/jobs/GitLab-runner_~021836440804802902671/?referrer_url_path=find_work_home&#xA;https://www.red-tic.unam.mx/recursos/2021/despliegue-entrega-continua-gitlab.pdf&#xA;Help Upgrading GitLab runner from previous version to 16.10.0&#xA;https://m.youtube.com/watch?v=-CyVpfDQAG0&#xA;https://m.youtube.com/watch?v=G8ZONHOTAQk&#xA;GitHub runner Es una aplicación opensource que es usada para correr trabajos en un pipeline de CI/CD, es similar a Jenkins.&#xA;Jenkins: https://www.youtube.com/watch?v=NovHZZwlCfk</description>
+    </item>
+  </channel>
+</rss>
