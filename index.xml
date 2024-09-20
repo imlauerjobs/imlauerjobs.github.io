@@ -6,8 +6,15 @@
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Thu, 19 Sep 2024 09:49:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 20:30:16 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install_mitmproxy_cert_into_firefox_Docker</title>
+      <link>https://imlauerjobs.github.io/install_mitmproxy_cert_into_firefox_docker/</link>
+      <pubDate>Thu, 19 Sep 2024 20:30:16 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/install_mitmproxy_cert_into_firefox_docker/</guid>
+      <description>I have a Dockerfile (latest Ubuntu). This should run on x86, not arm. This dockerfile (can share it) already installs firefox and geckodriver. But I need to run mitmproxy in it as well. The problem is installing its certificate into firefox one way or another (i don&amp;rsquo;t mind having it installed system-wide). The goal is to have headless firefox, controlled by selenium, run through mitmdump - which would intercept some https requests.</description>
+    </item>
     <item>
       <title>Linux_server_specialist</title>
       <link>https://imlauerjobs.github.io/linux_server_specialist/</link>
