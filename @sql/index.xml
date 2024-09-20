@@ -6,8 +6,15 @@
     <description>Recent content in Sql on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Wed, 18 Sep 2024 14:24:47 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 20:27:47 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/@sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data analyst sql</title>
+      <link>https://imlauerjobs.github.io/data_analyst_sql/</link>
+      <pubDate>Fri, 20 Sep 2024 20:27:47 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/data_analyst_sql/</guid>
+      <description>https://www.upwork.com/jobs/span-class-highlight-Data-span-span-class-highlight-Analyst-span-SQL-Quick-Analysis_~021837129463521106207/?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2F&#xA;https://learnsql.com/blog/advanced-sql-queries-for-data-analysis/&#xA;We are seeking a skilled Data Analyst for a short-term, 3-hour project focused on performing data analysis using SQL. This is a fast-paced assignment, ideal for a candidate with experience in data extraction, manipulation, and analysis through SQL queries. You will be provided with a dataset, and your main objective will be to generate insights by running SQL queries and providing a summary report of your findings.&#xA;Key Responsibilities:</description>
+    </item>
     <item>
       <title>Restore SQL from ibd frm files</title>
       <link>https://imlauerjobs.github.io/restore_ibd_frm/</link>
