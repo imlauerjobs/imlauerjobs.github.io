@@ -78,6 +78,56 @@ Si no recibe ninguna respuesta nuestra (después de uno o dos días), vuelva a e
 Cuando ADJUNTAS .bat/.cmd/otros archivos de script, Gmail a menudo elimina el archivo adjunto o incluso detiene todo el correo electrónico (sin avisarte).
 Debido a esto, a menudo le recomendamos PEGAR el código EN EL CORREO ELECTRÓNICO.
 (Utilice la FUENTE “Courier New” y obtendrá una distancia de 1:1 entre los caracteres; hará que se vea exactamente como dentro de un documento Notepad.txt).</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">chmod u+x VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle <span class="c1"># (u+x) will grant only the owner of that file execution permissions </span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">sudo ./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle --help
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">After that you need to run the <span class="nb">command</span> _vmware_ and install it.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">For vmware to install correctly you need to have linux-headers installed <span class="k">for</span> the kernel you are running, also you need gcc and make to compile modules: vmmon vmnet.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">## This command is for installing linux-headers sudo apt install -y linux-headers-$(uname -r) in distros based on archlinux you need to use pacman -S linux-headers</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">sudo ./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle --extract /tmp/vmware-bundle/ <span class="c1"># works fine</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">### Adding LICENSE</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">sudo /usr/lib/vmware/bin/vmware-vmx-debug --new-sn ZZ352-2UZDQ-48EUZ-9WW7Z-WCKYD
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">sudo /usr/lib/vmware/bin/vmware-enter-serial <span class="c1"># This commands fails it returns: segmentation fault always no matter what.</span>
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">vmware (cuando abro vmware falla porque hay que compilar los módulos para eso tenés que tener linux-headers instalado, gcc y make)
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">Hice algunas pruebas:
+</span></span><span class="line"><span class="cl">En Debian y MX Linux me las arreglé para instalarlo pero el último comando no funcionó /usr/lib/vmware/bin/vmware-enter-serial me da segmentation fault, no lo probé en Ubuntu.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">Depende muchísimo de la distro que estés usando:
+</span></span><span class="line"><span class="cl">Artix es como ArchLinux es una rolling release y no pude instalar VMWARE porque no usa systemd lo probé con runit. Hay que cargar el módulo manualmente con el comando `modprobe vmmon`.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">También intenté instalarlo en KaliLinux pero no funcionó porque es una rolling release se actualiza cada 2 segundos y no tengo los linux-headers.
+</span></span><span class="line"><span class="cl">Kali no funciona porque es una distro rolling release y no tengo los headers.
+</span></span></code></pre></div><p><a href="https://www.kali.org/docs/virtualization/install-vmware-host/#too-newer-kernel">https://www.kali.org/docs/virtualization/install-vmware-host/#too-newer-kernel</a></p>
+<p>El último comando siempre me tiró un segmentation fault.</p>
+<p>These are the commands I ran and they worked, except for the last one.
+chmod u+x VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle # (u+x) will grant only the owner of that file execution permissions</p>
+<p>sudo ./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle</p>
+<p>./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle &ndash;help</p>
+<p>After that you need to run the command vmware and install it.</p>
+<p>For vmware to install correctly you need to have linux-headers packages installed for the kernel you are running, also you need gcc and make to compile modules: vmmon vmnet.</p>
+<p>This command is for installing linux-headers sudo apt install -y linux-headers-$(uname -r) in distros based on archlinux you need to use pacman -S linux-headers</p>
+<p>sudo ./VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle &ndash;extract /tmp/vmware-bundle/ # works fine</p>
+<h3 id="adding-license">Adding LICENSE</h3>
+<p>sudo /usr/lib/vmware/bin/vmware-vmx-debug &ndash;new-sn ZZ352-2UZDQ-48EUZ-9WW7Z-WCKYD</p>
+<p>sudo /usr/lib/vmware/bin/vmware-enter-serial # This commands fails it returns: segmentation fault always no matter what.</p>
+<p>I did some tests:
+On Debian and MX Linux I managed to install it but the last command didn&rsquo;t work: /usr/lib/vmware/bin/vmware-enter-serial gives me segmentation fault, I didn&rsquo;t try it with Ubuntu.</p>
+<p>It depends a lot on the distro you are using:
+Artix is like ArchLinux but without systemd. I couldn&rsquo;t install VMWARE because it doesn&rsquo;t use systemd. I tried it with runit. You have to load the module manually with the command <code>modprobe vmmon</code>.</p>
+<p>I also tried to install it on KaliLinux but it didn&rsquo;t work because it is a rolling release that updates faster and I don&rsquo;t have the linux-headers to compile the modules.</p>
+<p>So for Debian everything works fine except for the last command.
+Thanks!</p>
 </div></div><footer>
     <hr>
     <div class="footer-text">
