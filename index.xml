@@ -6,8 +6,15 @@
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Mon, 23 Sep 2024 10:36:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 20:35:21 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auto Deployment - Using Gitlab ( Ubuntu based Target server)</title>
+      <link>https://imlauerjobs.github.io/auto_deployment_gitlab/</link>
+      <pubDate>Mon, 23 Sep 2024 20:35:21 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/auto_deployment_gitlab/</guid>
+      <description>Need CI/CD pipeline to deploy the code on merge request approval on target server. The Target sever is running Ubuntu. On every deployment the code need to be updated on the server , npm update , PM2 restart the node or start after purging the existing logs.&#xA;configure the GIT to send email on pipeline success.&#xA;NOTE: Git branch are specific to a server ( DEV or QA ) Etc.</description>
+    </item>
     <item>
       <title>Ai</title>
       <link>https://imlauerjobs.github.io/ai/</link>
