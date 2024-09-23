@@ -6,8 +6,15 @@
     <description>Recent content in Linux on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Thu, 19 Sep 2024 08:58:20 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 18:56:39 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/@linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server transfer</title>
+      <link>https://imlauerjobs.github.io/server_transfer/</link>
+      <pubDate>Sat, 21 Sep 2024 18:56:39 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/server_transfer/</guid>
+      <description>Looking for someone who can transfer the codes used from a previous website to a new server. Codes are in github and can be downloaded. There may however be some slight issues with the database, as the only one available is an old backup. This means we may have to upload the database along with some older versions of the codee (which exist) then push the changes in order to complete the project.</description>
+    </item>
     <item>
       <title>Linux</title>
       <link>https://imlauerjobs.github.io/linux/</link>

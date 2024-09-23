@@ -13,7 +13,7 @@
       <link>https://imlauerjobs.github.io/deploy_to_github/</link>
       <pubDate>Thu, 19 Sep 2024 07:50:59 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/deploy_to_github/</guid>
-      <description>https://www.upwork.com/jobs/Deploy-Github-Repository_~021836696424477715807/?referrer_url_path=find_work_home&#xA;Buscamos a alguien para implementar este repositorio de GitHub en nuestro servidor:&#xA;https://github.com/VoytekBereza/medical-clinical-governance&#xA;Hitos:&#xA;Descargue y pruebe localmente para ver si funciona. Subir a nuestro servidor. Configurar la base de datos. Entra en funcionamiento para finalizar la prueba. </description>
+      <description>https://www.upwork.com/jobs/Deploy-Github-Repository_~021836696424477715807/?referrer_url_path=find_work_home&#xA;Buscamos a alguien para implementar este repositorio de GitHub en nuestro servidor:&#xA;https://github.com/VoytekBereza/medical-clinical-governance&#xA;Hitos:&#xA;Descargue y pruebe localmente para ver si funciona. Subir a nuestro servidor. Configurar la base de datos. Entra en funcionamiento para finalizar la prueba. Que hice&#xA;Cambie el HTTP_HOST de applicacion/config/constrans.php, agregué .htaccess al adminV sino no funcionaba cambie el https por http. cambiá production a testing que está en index.php de adminV.&#xA;cambie la captcha sitekey a</description>
     </item>
   </channel>
 </rss>

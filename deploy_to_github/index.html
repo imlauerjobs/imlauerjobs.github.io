@@ -50,6 +50,18 @@
 <li>Configurar la base de datos.</li>
 <li>Entra en funcionamiento para finalizar la prueba.</li>
 </ol>
+<hr>
+<p>Que hice</p>
+<p>Cambie el HTTP_HOST de applicacion/config/constrans.php, agregué .htaccess al adminV sino no funcionaba
+cambie el https por http. cambiá production a testing que está en index.php de adminV.</p>
+<p>cambie la captcha sitekey a</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">Site Key: <span class="sb">`</span>6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI<span class="sb">`</span>
+</span></span><span class="line"><span class="cl">Secret Key: <span class="sb">`</span>6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe<span class="sb">`</span>
+</span></span></code></pre></div><p>habilité la migracion
+en adminV en vez de poner <code>HTTP_HOST = '/adminV'</code> le puse que sea igual a &lsquo;/&rsquo; porque me daba error 404 al loguearme.</p>
+<p>HTTPSPORTAL</p>
+<p><a href="https://josejuansanchez.org/iaw/practica-https-docker/index.html">https://josejuansanchez.org/iaw/practica-https-docker/index.html</a></p>
+<p><a href="https://github.com/jjcosgrove/docker-apache-php/tree/master">https://github.com/jjcosgrove/docker-apache-php/tree/master</a></p>
 </div></div><footer>
     <hr>
     <div class="footer-text">

@@ -6,8 +6,22 @@
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Fri, 20 Sep 2024 20:27:47 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 10:36:35 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>https://imlauerjobs.github.io/ai/</link>
+      <pubDate>Mon, 23 Sep 2024 10:36:35 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/ai/</guid>
+      <description>write this more formally: Regarding the previous work, the first time I started vmware installation it asked me for the license. Then I closed the VMware installation and ran the command that adds the license (/usr/lib/vmware/bin/vmware-vmx-debug &amp;ndash;new-sn ZZ352-2UZDQ-48EUZ-9WW7Z-WCKYD) I re-ran VMware and VMWare stopped asking for the license so it worked, the last command I always throw segmenetation fault fails and it is a useless (/usr/lib/vmware/bin/v mware-enter-serial) anyway the installation was done correctly.</description>
+    </item>
+    <item>
+      <title>Server transfer</title>
+      <link>https://imlauerjobs.github.io/server_transfer/</link>
+      <pubDate>Sat, 21 Sep 2024 18:56:39 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/server_transfer/</guid>
+      <description>Looking for someone who can transfer the codes used from a previous website to a new server. Codes are in github and can be downloaded. There may however be some slight issues with the database, as the only one available is an old backup. This means we may have to upload the database along with some older versions of the codee (which exist) then push the changes in order to complete the project.</description>
+    </item>
     <item>
       <title>Data analyst sql</title>
       <link>https://imlauerjobs.github.io/data_analyst_sql/</link>
@@ -62,7 +76,7 @@
       <link>https://imlauerjobs.github.io/deploy_to_github/</link>
       <pubDate>Thu, 19 Sep 2024 07:50:59 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/deploy_to_github/</guid>
-      <description>https://www.upwork.com/jobs/Deploy-Github-Repository_~021836696424477715807/?referrer_url_path=find_work_home&#xA;Buscamos a alguien para implementar este repositorio de GitHub en nuestro servidor:&#xA;https://github.com/VoytekBereza/medical-clinical-governance&#xA;Hitos:&#xA;Descargue y pruebe localmente para ver si funciona. Subir a nuestro servidor. Configurar la base de datos. Entra en funcionamiento para finalizar la prueba. </description>
+      <description>https://www.upwork.com/jobs/Deploy-Github-Repository_~021836696424477715807/?referrer_url_path=find_work_home&#xA;Buscamos a alguien para implementar este repositorio de GitHub en nuestro servidor:&#xA;https://github.com/VoytekBereza/medical-clinical-governance&#xA;Hitos:&#xA;Descargue y pruebe localmente para ver si funciona. Subir a nuestro servidor. Configurar la base de datos. Entra en funcionamiento para finalizar la prueba. Que hice&#xA;Cambie el HTTP_HOST de applicacion/config/constrans.php, agregué .htaccess al adminV sino no funcionaba cambie el https por http. cambiá production a testing que está en index.php de adminV.&#xA;cambie la captcha sitekey a</description>
     </item>
     <item>
       <title>Mysql database optimization wordpress</title>
