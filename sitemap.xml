@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://imlauerjobs.github.io/escuelarobotica/</loc>
+    <lastmod>2024-10-12T04:37:39-03:00</lastmod>
+  </url><url>
     <loc>https://imlauerjobs.github.io/</loc>
+    <lastmod>2024-10-12T04:37:39-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/@robotica/</loc>
+    <lastmod>2024-10-12T04:37:39-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/tags/</loc>
     <lastmod>2024-10-12T04:37:39-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/tecnocompro/</loc>
     <lastmod>2024-10-12T04:28:13-03:00</lastmod>
   </url><url>
-    <loc>https://imlauerjobs.github.io/@default/</loc>
-    <lastmod>2024-10-12T04:28:13-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/tags/</loc>
+    <loc>https://imlauerjobs.github.io/@tc/</loc>
     <lastmod>2024-10-12T04:28:13-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/domain_transfer_email_migration_google_drive_cleanup/</loc>
