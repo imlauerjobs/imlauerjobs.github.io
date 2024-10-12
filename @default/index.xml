@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Default on Index</title>
+    <link>https://imlauerjobs.github.io/@default/</link>
+    <description>Recent content in Default on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Sat, 12 Oct 2024 04:28:13 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@default/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuración de cámaras: TC</title>
+      <link>https://imlauerjobs.github.io/tecnocompro/</link>
+      <pubDate>Sat, 12 Oct 2024 04:28:13 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/tecnocompro/</guid>
+      <description>Hay que resetear un router y necesito más información sobre la configuración actual. Necesito que me pasen un archivo para cargarlo. Necesito la tabla de redirecionamiento de puertos y si hay alguna otra configuración que les hicieron, por ejemplo cuando yo conecté dos routers en mi casa en el 2do desactivé el DHCP. Quiero estar seguro de que cuando reseteo el router a la configuración por defecto internet siga funcionando y los puertos queden expuestos.</description>
+    </item>
+  </channel>
+</rss>

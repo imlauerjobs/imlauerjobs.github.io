@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://imlauerjobs.github.io/</loc>
+    <lastmod>2024-10-12T04:37:39-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/tecnocompro/</loc>
+    <lastmod>2024-10-12T04:28:13-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/@default/</loc>
+    <lastmod>2024-10-12T04:28:13-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/tags/</loc>
+    <lastmod>2024-10-12T04:28:13-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/domain_transfer_email_migration_google_drive_cleanup/</loc>
+    <lastmod>2024-10-07T04:33:22-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/@drive/</loc>
+    <lastmod>2024-10-07T04:33:22-03:00</lastmod>
+  </url><url>
+    <loc>https://imlauerjobs.github.io/@email/</loc>
+    <lastmod>2024-10-07T04:33:22-03:00</lastmod>
+  </url><url>
     <loc>https://imlauerjobs.github.io/auto_deployment_gitlab/</loc>
     <lastmod>2024-09-23T20:35:21-03:00</lastmod>
   </url><url>
@@ -9,12 +30,6 @@
     <lastmod>2024-09-23T20:35:21-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/@gitlab/</loc>
-    <lastmod>2024-09-23T20:35:21-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/</loc>
-    <lastmod>2024-09-23T20:35:21-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/tags/</loc>
     <lastmod>2024-09-23T20:35:21-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/@ai/</loc>
@@ -49,9 +64,6 @@
   </url><url>
     <loc>https://imlauerjobs.github.io/@subdomain/</loc>
     <lastmod>2024-09-20T17:07:27-03:00</lastmod>
-  </url><url>
-    <loc>https://imlauerjobs.github.io/@email/</loc>
-    <lastmod>2024-09-19T21:08:23-03:00</lastmod>
   </url><url>
     <loc>https://imlauerjobs.github.io/email_server_setup_for_password_reset_solutions/</loc>
     <lastmod>2024-09-19T21:08:23-03:00</lastmod>

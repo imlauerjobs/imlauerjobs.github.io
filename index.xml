@@ -6,8 +6,22 @@
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Mon, 23 Sep 2024 20:35:21 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 04:28:13 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuración de cámaras: TC</title>
+      <link>https://imlauerjobs.github.io/tecnocompro/</link>
+      <pubDate>Sat, 12 Oct 2024 04:28:13 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/tecnocompro/</guid>
+      <description>Hay que resetear un router y necesito más información sobre la configuración actual. Necesito que me pasen un archivo para cargarlo. Necesito la tabla de redirecionamiento de puertos y si hay alguna otra configuración que les hicieron, por ejemplo cuando yo conecté dos routers en mi casa en el 2do desactivé el DHCP. Quiero estar seguro de que cuando reseteo el router a la configuración por defecto internet siga funcionando y los puertos queden expuestos.</description>
+    </item>
+    <item>
+      <title>Domain Transfer Email migration Google Drive Cleanup</title>
+      <link>https://imlauerjobs.github.io/domain_transfer_email_migration_google_drive_cleanup/</link>
+      <pubDate>Mon, 07 Oct 2024 04:33:22 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/domain_transfer_email_migration_google_drive_cleanup/</guid>
+      <description>I have a web domain currently hosted by Google and I&amp;rsquo;m looking to transfer it to a private hosting service. As part of this process, I need assistance with migrating all email messages to ensure no data is lost.&#xA;Additionally, I need help reviewing my Google Drive to delete unnecessary files, organize the needed data into folders, and save it securely to my computer.&#xA;The ideal candidate will have experience with Google Workspace, including Gmail and Google Drive, and should be skilled in email migration, domain transfers, and data organization.</description>
+    </item>
     <item>
       <title>Auto Deployment - Using Gitlab ( Ubuntu based Target server)</title>
       <link>https://imlauerjobs.github.io/auto_deployment_gitlab/</link>
