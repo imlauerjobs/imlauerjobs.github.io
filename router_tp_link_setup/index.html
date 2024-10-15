@@ -76,26 +76,17 @@
 </ol>
 <p>Ó puede ser porque no configuraron los servidores de DNS (eso decía en la FAQ de arriba), pero yo desactivaría el DHCP y listo, podés usar 8.8.8.8 y 8.8.4.4 si querés poner los servidores de DNS de google.</p>
 <p>En resumen: <strong>DESACTIVÁ EL DHCP en el router http://192.168.1.1</strong></p>
+<h3 id="no-desactivé-el-dhcp-y-no-le-cargué-las-dns-y-funcionó">(NO DESACTIVÉ EL DHCP Y NO LE CARGUÉ LAS DNS Y FUNCIONÓ)</h3>
 <ol start="7">
 <li>Ahora ya debería funcionar internet poné la contraseña admin otus2018  <br>
 Andá a system tools &gt; password:</li>
 </ol>
-<p>admin    <br>
-admin     <br>
-Nuevo usuario:    <br>
-admin    <br>
-otus2018</p>
-<ol start="7">
-<li></li>
-</ol>
-<h4 id="acá-sentí-el-terror">Acá sentí el terror</h4>
-<p>Cuando intenté agregar el virtual server me puteaba me decía que yo no puedo agregar un virtual server de otra interfaz (192.168.1.1) y yo estaba usando la (192.168.0.1)</p>
-<p>Entonces para solucionar este problema me fui al menú de <code>Red &gt; LAN</code> y ahí la cambié 192.168.1.1</p>
-<p>El error que me salió al intentar cargar la cámara (virtual server)</p>
-<p><img src="/img/tc/IMG_20241015_125658942.jpg" alt="TC"></p>
-<p>Lo arreglé de la siguiente manera:</p>
-<p><img src="/img/tc/IMG_20241015_141830842.jpg" alt="TC"></p>
-<ol start="8">
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">admin       
+</span></span><span class="line"><span class="cl">admin        
+</span></span><span class="line"><span class="cl">Nuevo usuario:       
+</span></span><span class="line"><span class="cl">admin       
+</span></span><span class="line"><span class="cl">otus2018       
+</span></span></code></pre></div><ol start="8">
 <li>Agregá virtual servers:</li>
 </ol>
 <p>Redireccionamiento o (forwarding) &gt; virutal server o servidores virtuales:</p>
@@ -105,6 +96,13 @@ Primero el puerto externo, 2do puerto interno, 3ero IP de la cámara y dale a gu
 8888 88 y la IP de la FOSCAM     <br>
 5555 ¿? y la IP de la genérica      <br>
 8554 554 y la IP de la HikCam</p>
+<h4 id="acá-sentí-el-terror">Acá sentí el terror</h4>
+<p>Cuando intenté agregar el virtual server me puteaba me decía que yo no puedo agregar un virtual server de otra interfaz (192.168.1.1) y yo estaba usando la (192.168.0.1)</p>
+<p>Entonces para solucionar este problema me fui al menú de <code>Red &gt; LAN</code> y ahí la cambié 192.168.1.1</p>
+<p>El error que me salió al intentar cargar la cámara (virtual server)</p>
+<p><img src="/img/tc/IMG_20241015_125658942.jpg" alt="TC"></p>
+<p>Lo arreglé de la siguiente manera:</p>
+<p><img src="/img/tc/IMG_20241015_141830842.jpg" alt="TC"></p>
 <ol start="9">
 <li>
 <p>Tenés que agregar la IP: <code>181.117.197.18</code> como administrador remoto en el puerto 9999 en la barra lateral izquierda (Seguridad) &gt; Remote managment (la última).</p>
