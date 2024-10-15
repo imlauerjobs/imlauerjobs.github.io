@@ -13,7 +13,7 @@
       <link>https://imlauerjobs.github.io/tecnocompro/</link>
       <pubDate>Sat, 12 Oct 2024 04:28:13 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/tecnocompro/</guid>
-      <description>PRIMERO UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE JUNIN&#xA;andá al local de junin sacale foto a toda la configuración de ese router, llevá la compu. fijate la dhcp y el ddns&#xA;Ahora en el local de bolivar.&#xA;Primero fijate que ips son las cámaras y sus puertos internos.&#xA;192.168.1.64 554 hikcam&#xA;Fijate cual es la foscam y la &amp;ldquo;genérica&amp;rdquo;&#xA;Hacele un escaneo con nmap:&#xA;nmap -sS -v -v -Pn Ahora cuando tengas los puertos de cada una de las cámaras, reseteá el router, rápidamente volvé a colocar la contraseña de wifi que estaba antes.</description>
+      <description>PRIMERO FIJATE LA CONTRASEÑA WPS DEL ROUTER WIFI PORQUE NECESITÁS ESA CONTRASEÑA PARA CONECTARTE SACALE FOTO.&#xA;UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE BOLIVAR 1911 y JUNIN&#xA;andá al local de junin sacale foto a toda la configuración de ese router, llevá la compu. fijate la dhcp y el ddns&#xA;Ahora en el local de bolivar.&#xA;buscá las otras puertas de enlace.&#xA;Primero fijate que ips son las cámaras y sus puertos internos.</description>
     </item>
   </channel>
 </rss>

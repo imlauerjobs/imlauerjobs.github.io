@@ -13,7 +13,7 @@
       <link>https://imlauerjobs.github.io/configuracion/</link>
       <pubDate>Mon, 14 Oct 2024 17:13:26 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/configuracion/</guid>
-      <description>sudo systemctl start docker sudo systemctl start mysql docker-compose up </description>
+      <description>sudo systemctl start docker sudo systemctl start mysql docker-compose up cp .env.example .env Configurá smtp</description>
     </item>
   </channel>
 </rss>
