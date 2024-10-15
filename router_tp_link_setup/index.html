@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Router tp link setup | Index</title>
+<meta name="robots" content='index, follow'>
+<meta name="description" content="">
+<meta name="generator" content="hugo-index">
+<link crossorigin="anonymous" href="https://imlauerjobs.github.io/assets/stylesheet.css" rel="preload stylesheet" as="style">
+<script crossorigin="anonymous" src="https://imlauerjobs.github.io/assets/quicklink.js" rel="preload" as="script"></script>
+<script>
+    window.addEventListener('load', () => {
+        quicklink.listen();
+    });
+</script>
+
+  </head>
+  <body><header>
+  <h1>
+    <a href="https://imlauerjobs.github.io/">
+      <img src="https://imlauerjobs.github.io/index.png" alt="Index">
+      <span>Index</span>
+    </a>
+    <span class="hl">/</span>
+    <a href="https://imlauerjobs.github.io/router_tp_link_setup/">
+      <span>Router tp link setup</span>
+    </a>
+  </h1>
+  <p class="desc"></p>
+</header>
+<div class="main">
+
+<ul class="tagsList single">
+  
+  <li><a href="https://imlauerjobs.github.io/@router/">Router</a></li>
+  
+</ul>
+
+<div class="content"><p>FAQ de ese router: <br>
+<a href="https://www.tp-link.com/us/user-guides/tl-wr841n_v14/faq#ug-sub-title-1">https://www.tp-link.com/us/user-guides/tl-wr841n_v14/faq#ug-sub-title-1</a></p>
+<h5 id="pasos">Pasos:</h5>
+<ol>
+<li>SACALE FOTO A LA CONTRASEÑA WPS o CONTRASEÑA POR DEFECTO DEL ROUTER WIFI PORQUE NECESITÁS ESA CONTRASEÑA PARA CONECTARTE LUEGO DE FORMATEAR EL ROUTER WIFI (O LLEVÁ UN CABLE ETHERNET).</li>
+<li>UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE BOLIVAR 1911 y JUNIN por si las dudas, NO SÉ SI EL BACKUP ES COMPATIBLE PORQUE ES DE OTRO MODELO (<code>projects/tp_link_backup</code>)</li>
+<li>Fijate que IPs son las cámaras y sus puertos internos:</li>
+</ol>
+<p>192.168.1.64 (puerto interno: 554) es la HikCam (quizás cambie la IP si desactivaste el DHCP)</p>
+<h5 id="no-sé-cual-es-estas-ips-es-la-foscam-tiene-que-tener-el-puerto-88-y-si-ingresás-a-la-página-de-la-ip-te-aparece-foscam">No sé cual es estas ips es la FOSCAM (tiene que tener el puerto 88 y si ingresás a la página de la IP te aparece FOSCAM)</h5>
+<p>Posibles ips internas de las cámaras :    <br>
+192.168.1.100 creo que es la otra cámara          <br>
+192.168.1.166           <br>
+192.168.1.102</p>
+<p>Lista de dispositivos conectados:     <br>
+<img src="/img/tc/IMG-20241010-WA0024.jpeg" alt="IPs"></p>
+<p>Hacele un escaneo a cada una de esas IPS con nmap:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">nmap -sS -v -v -Pn        
+</span></span></code></pre></div><h4 id="son-3-cámaras">son 3 cámaras.</h4>
+<p>8888 es la FOSCAM, se relaciona al puerto interno 88. <br>
+8854 es la HikCam, y se relaciona al puerto interno 554.        <br>
+5555 es la genérica pero a qué puerto interno se relaciona?</p>
+<ol start="4">
+<li>Anotá las IPs y sus puertos internos.</li>
+</ol>
+<hr>
+<h4 id="acá-empieza-la-acción">Acá empieza la acción</h4>
+<ol start="5">
+<li>Cuando tengas los puertos de cada una de las cámaras, <strong>reseteá el router apretá con una birome 10 segundos</strong>, rápidamente volvé conectate a la wifi que se llamará algo así como <code>TP-Link_algo</code> <strong>usando la contraseña que dice en el ROUTER</strong>  y colocá la contraseña de WiFi que estaba antes: la puerta de enlace es 192.168.1.1 (admin admin) para que puedan tener rápido internet luego configurá cámaras.</li>
+</ol>
+<p>Luego de ingresar: Andá a Inalámbrico &gt; seguridad inalámbrica, debajo de WPS y cargá:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">Tecno_CB56           
+</span></span><span class="line"><span class="cl"><span class="m">20211215</span>           
+</span></span></code></pre></div><ol start="6">
+<li>El punto de acceso que levanta el WiFi del router tiene que funcionar internet porque usan ese, así que tenés que desactivar el DHCP, luego para conectarte al router (quizás) vas a tener que usar IP fija con la puerta de enlace del TP-LINK. En los dos otros locales el punto de acceso que levanta el ROUTER NO Tiene wifi porque dejan el DHCP activado.</li>
+</ol>
+<p>Ó puede ser porque no configuraron los servidores de DNS (eso decía en la FAQ de arriba), pero yo desactivaría el DHCP y listo, podés usar 8.8.8.8 y 8.8.4.4 si querés poner los servidores de DNS de google.</p>
+<p>En resumen: <strong>DESACTIVÁ EL DHCP en el router http://192.168.1.1</strong></p>
+<ol start="7">
+<li>Ahora ya debería funcionar internet poné la contraseña admin otus2018  <br>
+Andá a system tools &gt; password:</li>
+</ol>
+<p>admin    <br>
+admin     <br>
+Nuevo usuario:    <br>
+admin    <br>
+otus2018</p>
+<ol start="8">
+<li>Agregá virtual servers:</li>
+</ol>
+<p>Redireccionamiento o (forwarding) &gt; virutal server o servidores virtuales:</p>
+<p>Agregar nuevo &gt;     <br>
+Ahí poné lo que anotaste en el paso 4.    <br>
+Primero el puerto externo, 2do puerto interno, 3ero IP de la cámara y dale a guardar.    <br>
+8888 88 y la IP de la FOSCAM     <br>
+5555 ¿? y la IP de la genérica      <br>
+8554 554 y la IP de la HikCam</p>
+<ol start="9">
+<li>
+<p>Tenés que agregar la IP: <code>181.117.197.18</code> como administrador remoto en el puerto 9999 en la barra lateral izquierda (Seguridad) &gt; Remote managment (la última).</p>
+</li>
+<li>
+<p>Ahora en la barra lateral izquierda Dinamic Ddns o servidor dns dinámico: escribí:</p>
+</li>
+</ol>
+<p>tecnoposadas3.ddns.net</p>
+<p>classsic <br>
+otus2018</p>
+<p>Dale a habilitar DDNS y iniciar sesión.</p>
+<p><strong>Creo que eso es todo</strong></p>
+<h2 id="fin">FIN</h2>
+</div></div><footer>
+    <hr>
+    <div class="footer-text">
+        <div>© 2024 Index</div>
+        <div>Powered by <a href="https://gohugo.io/">Hugo</a> & <a
+                href="https://github.com/adityatelange/hugo-index/">Index</a></div>
+    </div>
+</footer>
+</body>
+</html>
