@@ -13,7 +13,7 @@
       <link>https://imlauerjobs.github.io/tecnocompro/</link>
       <pubDate>Sat, 12 Oct 2024 04:28:13 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/tecnocompro/</guid>
-      <description>PRIMERO FIJATE LA CONTRASEÑA WPS DEL ROUTER WIFI PORQUE NECESITÁS ESA CONTRASEÑA PARA CONECTARTE SACALE FOTO.&#xA;UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE BOLIVAR 1911 y JUNIN&#xA;andá al local de junin sacale foto a toda la configuración de ese router, llevá la compu. fijate la dhcp y el ddns&#xA;Ahora en el local de bolivar.&#xA;buscá las otras puertas de enlace.&#xA;Primero fijate que ips son las cámaras y sus puertos internos.</description>
+      <description>FAQ de ese router: https://www.tp-link.com/us/user-guides/tl-wr841n_v14/faq#ug-sub-title-1&#xA;Pasos: SACALE FOTO A LA CONTRASEÑA WPS o CONTRASEÑA POR DEFECTO DEL ROUTER WIFI PORQUE NECESITÁS ESA CONTRASEÑA PARA CONECTARTE LUEGO DE FORMATEAR EL ROUTER WIFI (O LLEVÁ UN CABLE ETHERNET). UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE BOLIVAR 1911 y JUNIN por si las dudas, NO SÉ SI EL BACKUP ES COMPATIBLE PORQUE ES DE OTRO MODELO (projects/tp_link_backup) Fijate que IPs son las cámaras y sus puertos internos: 192.</description>
     </item>
   </channel>
 </rss>

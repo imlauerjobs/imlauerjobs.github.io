@@ -38,9 +38,70 @@
   
 </ul>
 
-<div class="content"><p>PRIMERO FIJATE LA CONTRASEÑA WPS DEL ROUTER WIFI PORQUE NECESITÁS ESA CONTRASEÑA PARA CONECTARTE SACALE FOTO.</p>
-<p>UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE BOLIVAR 1911 y JUNIN</p>
-<p>andá al local de junin sacale foto a toda la configuración de ese router, llevá la compu.
+<div class="content"><p>FAQ de ese router:
+<a href="https://www.tp-link.com/us/user-guides/tl-wr841n_v14/faq#ug-sub-title-1">https://www.tp-link.com/us/user-guides/tl-wr841n_v14/faq#ug-sub-title-1</a></p>
+<h5 id="pasos">Pasos:</h5>
+<ol>
+<li>SACALE FOTO A LA CONTRASEÑA WPS o CONTRASEÑA POR DEFECTO DEL ROUTER WIFI PORQUE NECESITÁS ESA CONTRASEÑA PARA CONECTARTE LUEGO DE FORMATEAR EL ROUTER WIFI (O LLEVÁ UN CABLE ETHERNET).</li>
+<li>UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE BOLIVAR 1911 y JUNIN por si las dudas, NO SÉ SI EL BACKUP ES COMPATIBLE PORQUE ES DE OTRO MODELO (<code>projects/tp_link_backup</code>)</li>
+<li>Fijate que IPs son las cámaras y sus puertos internos:</li>
+</ol>
+<p>192.168.1.64 (puerto interno: 554) es la HikCam (quizás cambie la IP si desactivaste el DHCP)</p>
+<h5 id="no-sé-cual-es-estas-ips-es-la-foscam-tiene-que-tener-el-puerto-88-y-si-ingresás-a-la-página-de-la-ip-te-aparece-foscam">No sé cual es estas ips es la FOSCAM (tiene que tener el puerto 88 y si ingresás a la página de la IP te aparece FOSCAM)</h5>
+<p>Posibles ips internas de las cámaras :<br>
+192.168.1.100 creo que es la otra cámara      <br>
+192.168.1.166       <br>
+192.168.1.102</p>
+<p>Lista de dispositivos conectados: <br>
+<img src="/img/tc/IMG-20241010-WA0024.jpeg" alt="IPs"></p>
+<p>Hacele un escaneo a cada una de esas IPS con nmap:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">nmap -sS -v -v -Pn    
+</span></span></code></pre></div><h4 id="son-3-cámaras">son 3 cámaras.</h4>
+<p>8888 es la FOSCAM, se relaciona al puerto interno 88.
+8854 es la HikCam, y se relaciona al puerto interno 554.    <br>
+5555 es la genérica pero a qué puerto interno se relaciona?</p>
+<ol start="4">
+<li>Anotá las IPs y sus puertos internos.</li>
+</ol>
+<hr>
+<h4 id="acá-empieza-la-acción">Acá empieza la acción</h4>
+<ol start="5">
+<li>Cuando tengas los puertos de cada una de las cámaras, <strong>reseteá el router apretá con una birome 10 segundos</strong>, rápidamente volvé conectate a la wifi que se llamará algo así como <code>TP-Link_algo</code> <strong>usando la contraseña que dice en el ROUTER</strong>  y colocá la contraseña de WiFi que estaba antes: la puerta de enlace es 192.168.1.1 (admin admin) para que puedan tener rápido internet luego configurá cámaras.</li>
+</ol>
+<p>Luego de ingresar: Andá a Inalámbrico &gt; seguridad inalámbrica, debajo de WPS y cargá:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">Tecno_CB56       
+</span></span><span class="line"><span class="cl"><span class="m">20211215</span>       
+</span></span></code></pre></div><ol start="6">
+<li>El punto de acceso que levanta el WiFi del router tiene que funcionar internet porque usan ese, así que tenés que desactivar el DHCP, luego para conectarte al router (quizás) vas a tener que usar IP fija con la puerta de enlace del TP-LINK. En los dos otros locales el punto de acceso que levanta el ROUTER NO Tiene wifi porque dejan el DHCP activado.</li>
+</ol>
+<p>Ó puede ser porque no configuraron los servidores de DNS (eso decía en la FAQ de arriba), pero yo desactivaría el DHCP y listo, podés usar 8.8.8.8 y 8.8.4.4 si querés poner los servidores de DNS de google.</p>
+<p>En resumen: <strong>DESACTIVÁ EL DHCP en el router http://192.168.1.1</strong></p>
+<ol start="7">
+<li>Ahora ya debería funcionar internet poné la contraseña admin otus2018
+Andá a system tools &gt; password:</li>
+</ol>
+<p>admin<br>
+admin <br>
+Nuevo usuario:<br>
+admin<br>
+otus2018</p>
+<ol start="8">
+<li>Agregá virtual servers:</li>
+</ol>
+<p>Redireccionamiento o (forwarding) &gt; virutal server o servidores virtuales:</p>
+<p>Agregar nuevo &gt; <br>
+Ahí poné lo que anotaste en el paso 4.<br>
+Primero el puerto externo, 2do puerto interno, 3ero IP de la cámara y dale a guardar.<br>
+8888 88 y la IP de la FOSCAM <br>
+5555 ¿? y la IP de la genérica  <br>
+8554 554 y la IP de la HikCam</p>
+<ol start="9">
+<li></li>
+<li>
+<p>Tenés que agregar la IP: <code>181.117.197.18</code> como administrador remoto en el puerto 9999 en la barra lateral izquierda (Seguridad) &gt; Remote managment (la última).</p>
+</li>
+</ol>
+<p>andá al local de junin sacale foto a toda la configuración de ese router, llevá la compu. <br>
 fijate la dhcp y el ddns</p>
 <p>Ahora en el local de bolivar.</p>
 <p>buscá las otras puertas de enlace.</p>
@@ -48,228 +109,229 @@ fijate la dhcp y el ddns</p>
 <p>192.168.1.64 554 hikcam</p>
 <p>El puerto interno de la foscam es 88</p>
 <h4 id="no-sé-cual-es-estas-es-la-foscam">No sé cual es estas es la foscam</h4>
-<p>192.168.1.100 creo que es la otra cámara<br>
-192.168.1.166 <br>
+<p>192.168.1.100 creo que es la otra cámara    <br>
+192.168.1.166     <br>
 192.168.1.102</p>
-<p>Me tienen que pasar la tabla de los puertos.
-8888 es la foscam, pero a qué puerto interno se relaciona?
-8854 es la hikcam, y se relaciona al puerto 554.
+<p>Me tienen que pasar la tabla de los puertos. <br>
+8888 es la foscam, pero a qué puerto interno se relaciona? <br>
+8854 es la hikcam, y se relaciona al puerto 554. <br>
 5555 es la genérica pero a qué puerto se relaciona?</p>
-<p>Fijate cual es la foscam y la &ldquo;genérica&rdquo;<br>
+<p>Fijate cual es la foscam y la &ldquo;genérica&rdquo;   <br>
 Hacele un escaneo con nmap:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">nmap -sS -v -v -Pn
-</span></span></code></pre></div><p>Ahora cuando tengas los puertos de cada una de las cámaras, reseteá el router, rápidamente volvé a colocar la contraseña de wifi que estaba antes. 192.168.1.1 admin admin</p>
-<p>Accedé al router admin admin contraseña
-192.168.1.1
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">nmap -sS -v -v -Pn    
+</span></span></code></pre></div><p>Tenés que agregar la IP: 181.117.197.18 como administrador remoto en el puerto 9999.</p>
+<p>Ahora cuando tengas los puertos de cada una de las cámaras, reseteá el router, rápidamente volvé a colocar la contraseña de wifi que estaba antes. 192.168.1.1 admin admin</p>
+<p>Accedé al router admin admin contraseña  <br>
+192.168.1.1 <br>
 wireless &gt; wireless security &gt; wireless password &gt; ahí cambiá tu contraseña y dale a guardar.</p>
-<p>Tecno_CB56<br>
+<p>Tecno_CB56    <br>
 20211215</p>
 <p><a href="https://youtube.com/watch?v=GPZYCcP8w4s">https://youtube.com/watch?v=GPZYCcP8w4s</a></p>
 <p>Esta es la ddns tecnoposadas3.ddns.net la contraseña del ddns es otus2018 el usuario classsic</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">curl -i -s -k -X GET -H <span class="s2">&#34;Referer: http://181.168.254.58:9999/mainFrame.htm&#34;</span> /use rRpm/VirtualServerRpm.htm?ExPort<span class="o">=</span>8554<span class="p">&amp;</span><span class="nv">InPort</span><span class="o">=</span>554<span class="p">&amp;</span><span class="nv">Ip</span><span class="o">=</span>192.168.1.64<span class="p">&amp;</span><span class="nv">Protocol</span><span class="o">=</span>1<span class="p">&amp;</span><span class="nv">State</span><span class="o">=</span>1<span class="p">&amp;</span> <span class="nv">Commonport</span><span class="o">=</span>0<span class="p">&amp;</span><span class="nv">Changed</span><span class="o">=</span>0<span class="p">&amp;</span><span class="nv">SelIndex</span><span class="o">=</span>0<span class="p">&amp;</span><span class="nv">Page</span><span class="o">=</span>1<span class="p">&amp;</span><span class="nv">Save</span><span class="o">=</span>Save
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">curl -i -s -k -X GET -H <span class="s2">&#34;Referer: http://181.168.254.58:9999/mainFrame.htm&#34;</span> <span class="s2">&#34;http://181.168.254.58:9999/userRpm/VirtualServerRpm.htm?ExPort=8554&amp;InPort=554&amp;Ip=192.168.1.64&amp;Protocol=1&amp;State=1&amp;Commonport=0&amp;Changed=0&amp;SelIndex=0&amp;Page=1&amp;Save=Save&#34;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">curl -i -s -k -X GET -H <span class="s2">&#34;Referer: http://192.168.1.1/mainFrame.htm&#34;</span> <span class="s2">&#34;http://181.168.1.1/userRpm/VirtualServerRpm.htm?ExPort=8554&amp;InPort=554&amp;Ip=192.168.1.64&amp;Protocol=1&amp;State=1&amp;Commonport=0&amp;Changed=0&amp;SelIndex=0&amp;Page=1&amp;Save=Save&#34;</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">curl -i -s -k -X GET -H <span class="s2">&#34;Referer: http://181.168.254.58:9999/mainFrame.htm&#34;</span> /use rRpm/VirtualServerRpm.htm?ExPort<span class="o">=</span>8554<span class="p">&amp;</span><span class="nv">InPort</span><span class="o">=</span>554<span class="p">&amp;</span><span class="nv">Ip</span><span class="o">=</span>192.168.1.64<span class="p">&amp;</span><span class="nv">Protocol</span><span class="o">=</span>1<span class="p">&amp;</span><span class="nv">State</span><span class="o">=</span>1<span class="p">&amp;</span> <span class="nv">Commonport</span><span class="o">=</span>0<span class="p">&amp;</span><span class="nv">Changed</span><span class="o">=</span>0<span class="p">&amp;</span><span class="nv">SelIndex</span><span class="o">=</span>0<span class="p">&amp;</span><span class="nv">Page</span><span class="o">=</span>1<span class="p">&amp;</span><span class="nv">Save</span><span class="o">=</span>Save    
+</span></span><span class="line"><span class="cl">    
+</span></span><span class="line"><span class="cl">    
+</span></span><span class="line"><span class="cl">    
+</span></span><span class="line"><span class="cl">curl -i -s -k -X GET -H <span class="s2">&#34;Referer: http://181.168.254.58:9999/mainFrame.htm&#34;</span> <span class="s2">&#34;http://181.168.254.58:9999/userRpm/VirtualServerRpm.htm?ExPort=8554&amp;InPort=554&amp;Ip=192.168.1.64&amp;Protocol=1&amp;State=1&amp;Commonport=0&amp;Changed=0&amp;SelIndex=0&amp;Page=1&amp;Save=Save&#34;</span>    
+</span></span><span class="line"><span class="cl">    
+</span></span><span class="line"><span class="cl">curl -i -s -k -X GET -H <span class="s2">&#34;Referer: http://192.168.1.1/mainFrame.htm&#34;</span> <span class="s2">&#34;http://181.168.1.1/userRpm/VirtualServerRpm.htm?ExPort=8554&amp;InPort=554&amp;Ip=192.168.1.64&amp;Protocol=1&amp;State=1&amp;Commonport=0&amp;Changed=0&amp;SelIndex=0&amp;Page=1&amp;Save=Save&#34;</span>    
 </span></span></code></pre></div><p><a href="https://www.exploit-db.com/exploits/44781">https://www.exploit-db.com/exploits/44781</a></p>
 <p><a href="https://emulator.tp-link.com/TL-WR841ND_V8/Index.htm">https://emulator.tp-link.com/TL-WR841ND_V8/Index.htm</a></p>
 <p>admin admin es la contraseña por defecto</p>
-<p>Contraseña a usar:
+<p>Contraseña a usar: <br>
 <a href="https://imlauerjobs.github.io/img/tc/IMG-20241010-WA0029.jpeg">https://imlauerjobs.github.io/img/tc/IMG-20241010-WA0029.jpeg</a></p>
 <p>Cambiar contraseña:</p>
 <p><a href="https://m.youtube.com/watch?v=2JA1h4l0L_c">https://m.youtube.com/watch?v=2JA1h4l0L_c</a></p>
-<p>Accedé al router admin admin contraseña
-192.168.1.1
+<p>Accedé al router admin admin contraseña  <br>
+192.168.1.1 <br>
 wireless &gt; wireless security &gt; wireless password &gt; ahí cambiá tu contraseña y dale a guardar.</p>
-<p>Tecno_CB56<br>
+<p>Tecno_CB56    <br>
 20211215</p>
-<p>Port forwarding o virtual servers:
+<p>Port forwarding o virtual servers:  <br>
 192.168.1.64 hikvision (8854:554)</p>
-<p>Hay que resetear un router y necesito más información sobre la configuración actual. Necesito que me pasen un archivo para cargarlo. Necesito la tabla de redirecionamiento de puertos y si hay alguna otra configuración que les hicieron, por ejemplo cuando yo conecté dos routers en mi casa en el 2do desactivé el DHCP.
-Quiero estar seguro de que cuando reseteo el router a la configuración por defecto internet siga funcionando y los puertos queden expuestos. La información que me pasaste no es suficiente, puedo copiar la configuración del otro local.
+<p>Hay que resetear un router y necesito más información sobre la configuración actual. Necesito que me pasen un archivo para cargarlo. Necesito la tabla de redirecionamiento de puertos y si hay alguna otra configuración que les hicieron, por ejemplo cuando yo conecté dos routers en mi casa en el 2do desactivé el DHCP. <br>
+Quiero estar seguro de que cuando reseteo el router a la configuración por defecto internet siga funcionando y los puertos queden expuestos. La información que me pasaste no es suficiente, puedo copiar la configuración del otro local. <br>
 El local bolivar 2099 tiene un modem, un router wifi y un router TP link, es similar al bolivar 1911 así que puedo exportar la configuración del otro y pasarlo a este, pero de todos modos necesito la tabla completa de redirecionamiento de puertos porque voy a perder toda la información que tiene.</p>
 <p>Lo mejor sería que me pases un archivo así reseteo y cargo la configuración directa del archivo, si no tenés eso tendré que hacerlo como lo mencioné anteriormente.</p>
 <p>El router es un TP Link WR841N, tenés simuladores online en donde podés cargar la configuración y generar el archivo pasamelo y lo cargo, desde <code>System tools -&gt; backup &amp; restore -&gt; recover</code></p>
 <p>Yo no quiero resetearlo porque no sé que otra configuración adicional a el (en realidad es virtual server) port-forwarding tienen cargado, por eso es más seguro que ustedes me pasen un archivo de recuperación a que yo meta mano, si no tienen ese archivo copiaré el archivo del otro local que tiene un setup similar y cambiaré el (virtual server en realidad) port-forwarding.</p>
-<p>Me tienen que pasar la tabla de los puertos.
-8888 es la foscam, pero a qué puerto interno se relaciona?
-8854 es la hikcam, y se relaciona al puerto 554.
+<p>Me tienen que pasar la tabla de los puertos. <br>
+8888 es la foscam, pero a qué puerto interno se relaciona? <br>
+8854 es la hikcam, y se relaciona al puerto 554. <br>
 5555 es la genérica pero a qué puerto se relaciona?</p>
 <p>Los otros puertos andan pero cuando reinicie voy a peder toda la configuración y no puedo ingresar al router porque la contraseña que me das es INCORRECTA.</p>
 <p>Acá tenés el simulador:  <a href="https://www.tp-link.com/ar/support/emulator/">https://www.tp-link.com/ar/support/emulator/</a></p>
-<p>Qué tienen configurado en ese router? SÓLO EL REDIRECIONAMIENTO DE PUERTOS???
+<p>Qué tienen configurado en ese router? SÓLO EL REDIRECIONAMIENTO DE PUERTOS??? <br>
 Si no están seguros entonces copio la configuración del otro.</p>
-<p>Backup: System tools &gt; backup &amp; restore &gt; backup &gt; guardalo en un pen.
+<p>Backup: System tools &gt; backup &amp; restore &gt; backup &gt; guardalo en un pen. <br>
 <a href="https://m.youtube.com/watch?v=Z71XUp43dl4">https://m.youtube.com/watch?v=Z71XUp43dl4</a></p>
 <p>Después cargalo en el otro</p>
 <p>Ojalá que no tenga que hacer nada de esto, primero voy a probar bien como están conectados los cables y si levantan los leds, pero por lo que veo en el nmap el puerto 8854 no está abierto en el router.</p>
-<p><img src="/img/tc/IMG_20241010_175042742.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_175045766.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_175048612.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_175125625.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_175129398.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_175158990.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_180708460.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_180712689.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_180715990.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_180945603.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_180948957.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_184635478.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_184642069.jpg" alt="TC">
-<img src="/img/tc/IMG_20241010_184643253.jpg" alt="TC">
-<img src="/img/tc/20240607_110222.jpg" alt="TC">
-<img src="/img/tc/20240607_110219.jpg" alt="TC">
-<img src="/img/tc/20240607_110037.jpg" alt="TC">
-<img src="/img/tc/20240607_105858.jpg" alt="TC">
-<img src="/img/tc/20240607_105856.jpg" alt="TC">
-<img src="/img/tc/20240607_104028.jpg" alt="TC">
-<img src="/img/tc/20240607_104026.jpg" alt="TC">
-<img src="/img/tc/20240607_104024.jpg" alt="TC">
-<img src="/img/tc/20240607_103137.jpg" alt="TC">
-<img src="/img/tc/20240607_103135.jpg" alt="TC">
-<img src="/img/tc/20240607_102746.jpg" alt="TC">
-<img src="/img/tc/20240607_102743.jpg" alt="TC">
-<img src="/img/tc/20240607_102257.jpg" alt="TC">
-<img src="/img/tc/20240607_102246.jpg" alt="TC">
-<img src="/img/tc/20240607_102243.jpg" alt="TC">
-<img src="/img/tc/20240607_102232.jpg" alt="TC">
-<img src="/img/tc/20240607_102227.jpg" alt="TC">
-<img src="/img/tc/20240607_102224.jpg" alt="TC">
-<img src="/img/tc/20240607_102220.jpg" alt="TC">
-<img src="/img/tc/20240607_101043.jpg" alt="TC">
-<img src="/img/tc/20240607_101041.jpg" alt="TC">
-<img src="/img/tc/20240607_100758.jpg" alt="TC">
-<img src="/img/tc/20240607_100754.jpg" alt="TC">
-<img src="/img/tc/20240607_100751.jpg" alt="TC">
-<img src="/img/tc/20240607_100748.jpg" alt="TC">
-<img src="/img/tc/20240607_100612.jpg" alt="TC">
-<img src="/img/tc/20240607_100609.jpg" alt="TC">
-<img src="/img/tc/20240607_100606.jpg" alt="TC">
-<img src="/img/tc/20240607_095809.jpg" alt="TC">
-<img src="/img/tc/20240607_095547.jpg" alt="TC">
-<img src="/img/tc/20240607_095545.jpg" alt="TC">
-<img src="/img/tc/20240606_181713.jpg" alt="TC">
-<img src="/img/tc/20240606_181710.jpg" alt="TC">
-<img src="/img/tc/20240606_181706.jpg" alt="TC">
-<img src="/img/tc/20240606_181012.jpg" alt="TC">
-<img src="/img/tc/20240606_181008.jpg" alt="TC">
-<img src="/img/tc/20240606_181000.jpg" alt="TC">
-<img src="/img/tc/20240606_180942.jpg" alt="TC">
-<img src="/img/tc/20240606_180902.jpg" alt="TC">
-<img src="/img/tc/20240606_180758.jpg" alt="TC">
-<img src="/img/tc/20240606_180755.jpg" alt="TC">
-<img src="/img/tc/20240606_180739.jpg" alt="TC">
-<img src="/img/tc/20240606_180537.jpg" alt="TC">
-<img src="/img/tc/20240606_180535.jpg" alt="TC">
-<img src="/img/tc/20240606_180221.jpg" alt="TC">
-<img src="/img/tc/20240606_180218.jpg" alt="TC">
-<img src="/img/tc/20240606_180138.jpg" alt="TC">
-<img src="/img/tc/20240606_180105.jpg" alt="TC">
-<img src="/img/tc/20240606_180103.jpg" alt="TC">
-<img src="/img/tc/20240606_173648.jpg" alt="TC">
-<img src="/img/tc/20240606_173643.jpg" alt="TC">
-<img src="/img/tc/20240606_173628.jpg" alt="TC">
-<img src="/img/tc/20240606_173350.jpg" alt="TC">
-<img src="/img/tc/20240606_173335.jpg" alt="TC">
-<img src="/img/tc/20240606_173219.jpg" alt="TC">
-<img src="/img/tc/20240606_173216.jpg" alt="TC">
-<img src="/img/tc/20240606_173134.jpg" alt="TC">
-<img src="/img/tc/20240606_173133.jpg" alt="TC">
-<img src="/img/tc/20240606_173126.jpg" alt="TC">
-<img src="/img/tc/20240606_173124.jpg" alt="TC">
-<img src="/img/tc/20240606_172953.jpg" alt="TC">
-<img src="/img/tc/20240606_172951.jpg" alt="TC">
-<img src="/img/tc/20240606_172757.jpg" alt="TC">
-<img src="/img/tc/20240606_172755.jpg" alt="TC">
-<img src="/img/tc/20240606_170842.jpg" alt="TC">
-<img src="/img/tc/20240606_170839.jpg" alt="TC">
-<img src="/img/tc/20240606_170755.jpg" alt="TC">
-<img src="/img/tc/20240606_170753.jpg" alt="TC">
-<img src="/img/tc/20240606_170555.jpg" alt="TC">
-<img src="/img/tc/20240606_170554.jpg" alt="TC">
-<img src="/img/tc/20240606_170548.jpg" alt="TC">
-<img src="/img/tc/20240606_170546.jpg" alt="TC">
-<img src="/img/tc/20240606_170545.jpg" alt="TC">
-<img src="/img/tc/20240606_165611.jpg" alt="TC">
-<img src="/img/tc/20240606_165438.jpg" alt="TC">
-<img src="/img/tc/20240606_165409.jpg" alt="TC">
-<img src="/img/tc/20240606_165407.jpg" alt="TC">
-<img src="/img/tc/20240606_165404.jpg" alt="TC">
-<img src="/img/tc/20240606_165401.jpg" alt="TC">
-<img src="/img/tc/20240606_133122.jpg" alt="TC">
-<img src="/img/tc/20240606_133121.jpg" alt="TC">
-<img src="/img/tc/20240606_132356.jpg" alt="TC">
-<img src="/img/tc/20240606_132351.jpg" alt="TC">
-<img src="/img/tc/20240606_130904.jpg" alt="TC">
-<img src="/img/tc/20240606_130852.jpg" alt="TC">
-<img src="/img/tc/20240606_130848.jpg" alt="TC">
-<img src="/img/tc/20240606_130831.jpg" alt="TC">
-<img src="/img/tc/20240606_130804.jpg" alt="TC">
-<img src="/img/tc/20240606_130756.jpg" alt="TC">
-<img src="/img/tc/20240606_130743.jpg" alt="TC">
-<img src="/img/tc/20240606_123842.jpg" alt="TC">
-<img src="/img/tc/20240606_123702.jpg" alt="TC">
-<img src="/img/tc/20240606_123654.jpg" alt="TC">
-<img src="/img/tc/20240606_123207.jpg" alt="TC">
-<img src="/img/tc/IMG-20241010-WA0029.jpeg" alt="TC">
-<img src="/img/tc/IMG-20241010-WA0024.jpeg" alt="TC">
-<img src="/img/tc/IMG-20241010-WA0022.jpeg" alt="TC">
-<img src="/img/tc/IMG-20241010-WA0020.jpeg" alt="TC">
-<img src="/img/tc/IMG-20241010-WA0018.jpeg" alt="TC">
-<img src="/img/tc/IMG-20241010-WA0018.jpeg" alt="TC">
-<img src="/img/tc/IMG_20241012_103200556_HDR.jpg" alt="TC">
-<img src="/img/tc/IMG_20241012_103012986_HDR.jpg" alt="TC">
-<img src="/img/tc/IMG_20241012_103002936_HDR.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190106284.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190101925.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190100930.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190044722.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190041671.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190038390.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190032638.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190027220_HDR.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190004607.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_190002543.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185956199.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185953826.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185950410.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185947497.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185943268.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185931456.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185929213.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185926299.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185923222.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185919524.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185917190.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185914651.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185910756.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185856891.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185852323.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185847350.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185843407.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185832702.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185829587.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185822913.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185820171.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185816715.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185811465.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185448274.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185437059.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185404129.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185355476.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185344684_BURST000_COVER_TOP.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185341317.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185335124_BURST000_COVER_TOP.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185305984.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_185212150.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_184809100.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_184707272.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_184700251.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_184014743.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_184009498.jpg" alt="TC">
-<img src="/img/tc/IMG_20241014_184002179.jpg" alt="TC">
+<p><img src="/img/tc/IMG_20241010_175042742.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_175045766.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_175048612.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_175125625.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_175129398.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_175158990.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_180708460.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_180712689.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_180715990.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_180945603.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_180948957.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_184635478.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_184642069.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241010_184643253.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_110222.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_110219.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_110037.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_105858.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_105856.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_104028.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_104026.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_104024.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_103137.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_103135.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_102746.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_102743.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_102257.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_102246.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_102243.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_102232.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_102227.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_102224.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_102220.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_101043.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_101041.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_100758.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_100754.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_100751.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_100748.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_100612.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_100609.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_100606.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_095809.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_095547.jpg" alt="TC"> <br>
+<img src="/img/tc/20240607_095545.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_181713.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_181710.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_181706.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_181012.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_181008.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_181000.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180942.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180902.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180758.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180755.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180739.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180537.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180535.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180221.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180218.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180138.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180105.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_180103.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173648.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173643.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173628.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173350.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173335.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173219.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173216.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173134.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173133.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173126.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_173124.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_172953.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_172951.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_172757.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_172755.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_170842.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_170839.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_170755.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_170753.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_170555.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_170554.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_170548.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_170546.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_170545.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_165611.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_165438.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_165409.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_165407.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_165404.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_165401.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_133122.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_133121.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_132356.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_132351.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_130904.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_130852.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_130848.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_130831.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_130804.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_130756.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_130743.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_123842.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_123702.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_123654.jpg" alt="TC"> <br>
+<img src="/img/tc/20240606_123207.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG-20241010-WA0029.jpeg" alt="TC"> <br>
+<img src="/img/tc/IMG-20241010-WA0024.jpeg" alt="TC"> <br>
+<img src="/img/tc/IMG-20241010-WA0022.jpeg" alt="TC"> <br>
+<img src="/img/tc/IMG-20241010-WA0020.jpeg" alt="TC"> <br>
+<img src="/img/tc/IMG-20241010-WA0018.jpeg" alt="TC"> <br>
+<img src="/img/tc/IMG-20241010-WA0018.jpeg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241012_103200556_HDR.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241012_103012986_HDR.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241012_103002936_HDR.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190106284.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190101925.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190100930.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190044722.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190041671.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190038390.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190032638.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190027220_HDR.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190004607.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_190002543.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185956199.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185953826.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185950410.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185947497.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185943268.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185931456.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185929213.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185926299.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185923222.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185919524.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185917190.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185914651.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185910756.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185856891.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185852323.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185847350.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185843407.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185832702.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185829587.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185822913.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185820171.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185816715.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185811465.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185448274.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185437059.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185404129.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185355476.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185344684_BURST000_COVER_TOP.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185341317.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185335124_BURST000_COVER_TOP.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185305984.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_185212150.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_184809100.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_184707272.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_184700251.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_184014743.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_184009498.jpg" alt="TC"> <br>
+<img src="/img/tc/IMG_20241014_184002179.jpg" alt="TC"> <br>
 <img src="/img/tc/IMG_20241014_183950439.jpg" alt="TC"></p>
 </div></div><footer>
     <hr>
