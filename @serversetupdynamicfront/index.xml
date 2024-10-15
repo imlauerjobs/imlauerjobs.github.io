@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serversetup&#39;,dynamicfront on Index</title>
-    <link>https://imlauerjobs.github.io/@serversetupdynamicfront/</link>
+    <link>http://localhost:1313/@serversetupdynamicfront/</link>
     <description>Recent content in Serversetup&#39;,dynamicfront on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Wed, 18 Sep 2024 08:09:07 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@serversetupdynamicfront/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@serversetupdynamicfront/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python_web_mongoDB_serversetup_dynamicfront</title>
-      <link>https://imlauerjobs.github.io/python_web_mongodb_serversetup_dynamicfront/</link>
+      <link>http://localhost:1313/python_web_mongodb_serversetup_dynamicfront/</link>
       <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/python_web_mongodb_serversetup_dynamicfront/</guid>
+      <guid>http://localhost:1313/python_web_mongodb_serversetup_dynamicfront/</guid>
       <description>https://www.upwork.com/jobs/Python-web-mango-server-setup-dynamic-front-Full-tack-development_~021836046873113850258/?referrer_url_path=find_work_home&#xA;Full stack remote employee for large project with Full stack development</description>
     </item>
   </channel>

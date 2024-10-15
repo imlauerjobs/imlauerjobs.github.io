@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bamboo on Index</title>
-    <link>https://imlauerjobs.github.io/@bamboo/</link>
+    <link>http://localhost:1313/@bamboo/</link>
     <description>Recent content in Bamboo on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 19:31:21 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@bamboo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@bamboo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sshkeygen_configuration_bamboo_cloud_rhel9</title>
-      <link>https://imlauerjobs.github.io/sshkeygen_configuration_bamboo_cloud_rhel9/</link>
+      <link>http://localhost:1313/sshkeygen_configuration_bamboo_cloud_rhel9/</link>
       <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/sshkeygen_configuration_bamboo_cloud_rhel9/</guid>
+      <guid>http://localhost:1313/sshkeygen_configuration_bamboo_cloud_rhel9/</guid>
       <description>https://www.freelancer.com/projects/linux/SSH-Keygen-Configuration-for-Bamboo/details&#xA;I&amp;rsquo;m seeking a skilled professional to set up ssh-keygen on my RHEL9 Linux server for Bamboo Cloud auto-deploy. The server is accessible with user access and sudo privileges.&#xA;Key Tasks:&#xA;Configure ssh-keygen for secure auto-deploy from Bamboo Cloud. Ensure seamless communication between the server and Bamboo Cloud. Ideal Skills:&#xA;Proficient in Linux, particularly RHEL9. Extensive experience with Bamboo Cloud. Strong knowledge of SSH and SSH Key Generation. Sudo privileges management on Linux systems.</description>
     </item>
   </channel>

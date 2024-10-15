@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apache on Index</title>
-    <link>https://imlauerjobs.github.io/@apache/</link>
+    <link>http://localhost:1313/@apache/</link>
     <description>Recent content in Apache on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Wed, 18 Sep 2024 15:51:59 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@apache/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@apache/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Devops hosting aws</title>
-      <link>https://imlauerjobs.github.io/devops_hosting_aws/</link>
+      <link>http://localhost:1313/devops_hosting_aws/</link>
       <pubDate>Wed, 18 Sep 2024 15:51:59 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/devops_hosting_aws/</guid>
+      <guid>http://localhost:1313/devops_hosting_aws/</guid>
       <description>https://www.upwork.com/jobs/Looking-for-devops-for-apache-linux-server_~021836276972417380754/?referrer_url_path=find_work_home&#xA;Creo que algo anda mal con la configuración del servidor. POR FAVOR AYÚDENOS A RESOLVER ESTE PROBLEMA, EL PRESUPUESTO NO ES UN PROBLEMA. es un sitio web angular. conectemos lo antes posible. El alojamiento es AWS</description>
     </item>
   </channel>

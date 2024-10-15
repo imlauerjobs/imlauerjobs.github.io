@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Developer on Index</title>
-    <link>https://imlauerjobs.github.io/@developer/</link>
+    <link>http://localhost:1313/@developer/</link>
     <description>Recent content in Developer on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 18:47:40 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@developer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@developer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Servicenow_developer_basic_system_configuration</title>
-      <link>https://imlauerjobs.github.io/servicenow_developer_basic_system_configuration/</link>
+      <link>http://localhost:1313/servicenow_developer_basic_system_configuration/</link>
       <pubDate>Tue, 17 Sep 2024 18:47:40 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/servicenow_developer_basic_system_configuration/</guid>
+      <guid>http://localhost:1313/servicenow_developer_basic_system_configuration/</guid>
       <description>https://www.freelancer.com/projects/servicenow/ServiceNow-Developer-for-Basic-System/details&#xA;Estoy buscando un profesional de ServiceNow para ayudar con la configuración del sistema, enfocándome particularmente en la integración de ServiceNow con varias herramientas de administración de TI.&#xA;Habilidades ideales:&#xA;Certificación de Administrador de sistemas certificado (CSA) de ServiceNow o voluntad de obtener la certificación. Experiencia integrando ServiceNow con herramientas de gestión de TI. Conocimientos básicos de herramientas de gestión de TI. I&amp;rsquo;m seeking a ServiceNow professional to assist with system configuration, particularly focusing on integrating ServiceNow with various IT management tools.</description>
     </item>
   </channel>

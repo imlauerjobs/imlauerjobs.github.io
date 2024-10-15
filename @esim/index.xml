@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Esim on Index</title>
-    <link>https://imlauerjobs.github.io/@esim/</link>
+    <link>http://localhost:1313/@esim/</link>
     <description>Recent content in Esim on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Wed, 18 Sep 2024 09:26:13 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@esim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@esim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>103esim</title>
-      <link>https://imlauerjobs.github.io/103esim/</link>
+      <link>http://localhost:1313/103esim/</link>
       <pubDate>Wed, 18 Sep 2024 09:26:13 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/103esim/</guid>
+      <guid>http://localhost:1313/103esim/</guid>
       <description>https://www.upwork.com/jobs/Create-custom-esim-with-custom-profile-name-and-custom-carrier-name_~021836018711770061225/?referrer_url_path=find_work_home&#xA;https://103esim.com/103-global-esim/&#xA;I created a custom esim called 103esim, it is showing the custom profile name as you can see in the attached screnshot, i want you to make it show custom carreir name instead of Carrier as its currnely displaying&#xA;Creé un esim personalizado llamado 103esim, muestra el nombre del perfil personalizado como puede ver en la captura de pantalla adjunta, quiero que muestre el nombre de la carrera personalizada en lugar del operador como se muestra actualmente.</description>
     </item>
   </channel>

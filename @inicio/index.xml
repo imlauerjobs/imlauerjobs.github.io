@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inicio on Index</title>
-    <link>https://imlauerjobs.github.io/@inicio/</link>
+    <link>http://localhost:1313/@inicio/</link>
     <description>Recent content in Inicio on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 16:41:28 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@inicio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@inicio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pagina_registro_session</title>
-      <link>https://imlauerjobs.github.io/pagina_registro_session/</link>
+      <link>http://localhost:1313/pagina_registro_session/</link>
       <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/pagina_registro_session/</guid>
+      <guid>http://localhost:1313/pagina_registro_session/</guid>
       <description>https://www.freelancer.com/projects/html/pagina-registro-inicio-sesi/details&#xA;necesito un proyecto de inicio de sesión donde solo el administrador pueda dar de alta nuevos usuarios, los usuarios puedan iniciar sesión y entren a un sitio restringido</description>
     </item>
   </channel>

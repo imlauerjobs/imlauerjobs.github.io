@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jekyll on Index</title>
-    <link>https://imlauerjobs.github.io/@jekyll/</link>
+    <link>http://localhost:1313/@jekyll/</link>
     <description>Recent content in Jekyll on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Mon, 16 Sep 2024 16:10:37 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@jekyll/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@jekyll/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modern_ecommerse_site_development_jekyll</title>
-      <link>https://imlauerjobs.github.io/modern_ecommerse_site_development_jekyll/</link>
+      <link>http://localhost:1313/modern_ecommerse_site_development_jekyll/</link>
       <pubDate>Mon, 16 Sep 2024 16:10:37 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/modern_ecommerse_site_development_jekyll/</guid>
+      <guid>http://localhost:1313/modern_ecommerse_site_development_jekyll/</guid>
       <description>https://www.freelancer.com/projects/html/Modern-commerce-Site-Development-with/details&#xA;Trabajo: Contrato a largo plazo&#xA;Nuestro socio integrador federal líder está buscando un desarrollador Jekyll de nivel medio para respaldar su contrato gubernamental activo. Como desarrollador Jekyll de nivel medio, será responsable de desarrollar, mantener y mejorar sitios web estáticos utilizando Jekyll. Trabajará en estrecha colaboración con nuestros equipos de diseño y contenido para crear páginas web visualmente atractivas y altamente funcionales. Su función implicará convertir diseños en HTML/CSS responsivo, optimizar el rendimiento del sitio y garantizar una experiencia de usuario perfecta.</description>
     </item>
   </channel>

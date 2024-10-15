@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotica on Index</title>
-    <link>https://imlauerjobs.github.io/@robotica/</link>
+    <link>http://localhost:1313/@robotica/</link>
     <description>Recent content in Robotica on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Sat, 12 Oct 2024 04:37:39 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@robotica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@robotica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Escuelarobotica</title>
-      <link>https://imlauerjobs.github.io/escuelarobotica/</link>
+      <link>http://localhost:1313/escuelarobotica/</link>
       <pubDate>Sat, 12 Oct 2024 04:37:39 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/escuelarobotica/</guid>
+      <guid>http://localhost:1313/escuelarobotica/</guid>
       <description>Audio en vocaroo https://vocaroo.com/13vlwFGiB4r0</description>
     </item>
   </channel>

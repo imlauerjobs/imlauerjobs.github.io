@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webapp on Index</title>
-    <link>https://imlauerjobs.github.io/@webapp/</link>
+    <link>http://localhost:1313/@webapp/</link>
     <description>Recent content in Webapp on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Wed, 18 Sep 2024 08:53:09 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@webapp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@webapp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Php script editing web app</title>
-      <link>https://imlauerjobs.github.io/php_script_editing_web_app/</link>
+      <link>http://localhost:1313/php_script_editing_web_app/</link>
       <pubDate>Wed, 18 Sep 2024 08:53:09 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/php_script_editing_web_app/</guid>
+      <guid>http://localhost:1313/php_script_editing_web_app/</guid>
       <description>https://www.upwork.com/jobs/PHP-Script-Editing-for-Web-Application_~021836323208307535770/?referrer_url_path=find_work_home&#xA;We are seeking a skilled PHP developer to edit an existing script for our web application. The ideal candidate should have a strong understanding of PHP and experience in web application development. The project requires making modifications to enhance functionality and ensure optimal performance. If you are detail-oriented and can work independently, we would love to hear from you. Please provide examples of previous PHP projects you&amp;rsquo;ve worked on.</description>
     </item>
   </channel>

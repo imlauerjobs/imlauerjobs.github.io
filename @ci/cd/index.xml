@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ci/Cd on Index</title>
-    <link>https://imlauerjobs.github.io/@ci/cd/</link>
+    <link>http://localhost:1313/@ci/cd/</link>
     <description>Recent content in Ci/Cd on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Wed, 18 Sep 2024 22:10:21 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@ci/cd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setup_ci_cd_github_wordpress</title>
-      <link>https://imlauerjobs.github.io/setup_ci_cd_github_wordpress/</link>
+      <link>http://localhost:1313/setup_ci_cd_github_wordpress/</link>
       <pubDate>Wed, 18 Sep 2024 22:10:21 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/setup_ci_cd_github_wordpress/</guid>
+      <guid>http://localhost:1313/setup_ci_cd_github_wordpress/</guid>
       <description>https://www.youtube.com/watch?v=xsfq8q-xdOo</description>
     </item>
   </channel>

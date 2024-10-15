@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Index</title>
-    <link>https://imlauerjobs.github.io/@linux/</link>
+    <link>http://localhost:1313/@linux/</link>
     <description>Recent content in Linux on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Sat, 21 Sep 2024 18:56:39 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Server transfer</title>
-      <link>https://imlauerjobs.github.io/server_transfer/</link>
+      <link>http://localhost:1313/server_transfer/</link>
       <pubDate>Sat, 21 Sep 2024 18:56:39 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/server_transfer/</guid>
+      <guid>http://localhost:1313/server_transfer/</guid>
       <description>Looking for someone who can transfer the codes used from a previous website to a new server. Codes are in github and can be downloaded. There may however be some slight issues with the database, as the only one available is an old backup. This means we may have to upload the database along with some older versions of the codee (which exist) then push the changes in order to complete the project.</description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://imlauerjobs.github.io/linux/</link>
+      <link>http://localhost:1313/linux/</link>
       <pubDate>Thu, 19 Sep 2024 08:58:20 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/linux/</guid>
+      <guid>http://localhost:1313/linux/</guid>
       <description>https://www.upwork.com/nx/proposals/1836524665256833025&#xA;Searches hereby for knowledge within Linux Administration. You will make some overview of how to use commands, and also do some test installations. It will be a few hours now and then (sporadic need), on a long term contract.&#xA;Indicate your interest, and we&amp;rsquo;ll take it from there.&#xA;OFERTA DE CONTRATO: Se le enviará un contrato después de enviarme los comentarios deseados sobre estos términos. Será un contrato de &amp;ldquo;horas de trabajo por semana&amp;rdquo;, pero este contrato funcionará más o menos como una oferta para cada tarea.</description>
     </item>
     <item>
       <title>Linux_server_optimization</title>
-      <link>https://imlauerjobs.github.io/linux_server_optimization/</link>
+      <link>http://localhost:1313/linux_server_optimization/</link>
       <pubDate>Wed, 18 Sep 2024 18:22:43 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/linux_server_optimization/</guid>
+      <guid>http://localhost:1313/linux_server_optimization/</guid>
       <description>https://www.upwork.com/jobs/Linux-Server-Optimization-for-AlmaLinux-cPanel-WHM_~021836396845365604841/?referrer_url_path=find_work_home&#xA;Especialista en optimización del sistema operativo Linux para el servidor AlmaLinux 9.4.0 (cPanel/WHM) Ubicación: Remota Experiencia: más de 3 años en administración de sistemas Linux y optimización de servidores. Tipo de proyecto: Proyecto único con potencial para soporte continuo.&#xA;Buscamos un experto en optimización de servidores Linux para una tarea única en un servidor AlmaLinux 9.4.0 administrado a través de cPanel/WHM. El servidor ha estado experimentando un tiempo de inactividad debido al consumo excesivo de recursos y necesitamos que alguien resuelva este problema.</description>
     </item>
     <item>
       <title>Curl_timeout_issue_linux</title>
-      <link>https://imlauerjobs.github.io/curl_timeout_issue_linux/</link>
+      <link>http://localhost:1313/curl_timeout_issue_linux/</link>
       <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/curl_timeout_issue_linux/</guid>
+      <guid>http://localhost:1313/curl_timeout_issue_linux/</guid>
       <description>https://www.freelancer.com/projects/linux/Fix-Curl-Timeout-Issue-Linux&#xA;Necesito ayuda para resolver un error de tiempo de espera de &amp;ldquo;curl&amp;rdquo; en mi servidor Linux dedicado.&#xA;Problema: El comando &amp;lsquo;curl&amp;rsquo; está agotando el tiempo de espera, lo que impide conexiones exitosas. Entorno: Esto sucede en un servidor dedicado Linux. El autónomo ideal para esta tarea debería tener:&#xA;Amplia experiencia con servidores Linux. Conocimiento competente de los comandos &amp;lsquo;curl&amp;rsquo; y la resolución de problemas. Capacidad para diagnosticar y resolver problemas relacionados con el servidor con prontitud.</description>
     </item>
     <item>
       <title>Dedicated server setup config</title>
-      <link>https://imlauerjobs.github.io/dedicated_server_setup_config/</link>
+      <link>http://localhost:1313/dedicated_server_setup_config/</link>
       <pubDate>Mon, 16 Sep 2024 18:43:59 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/dedicated_server_setup_config/</guid>
+      <guid>http://localhost:1313/dedicated_server_setup_config/</guid>
       <description>https://www.freelancer.com/projects/linux/Dedicated-Server-Setup-Configuration/details&#xA;primera parte del proyecto camino rocoso linux 9.4 se ha instalado en el servidor dedicado | Servidores bare metal |servidor ovh Necesito ayuda con mi servidor dedicado. Las tareas incluyen:&#xA;Investigar el problema del usuario root y crear uno si es necesario. Instalando cPanel (ya tengo licencia para esta IP). Instalación de WordPress en el servidor. Instalar un certificado SSL (que proporcionaré) para mi dominio. El servidor ejecuta un sistema operativo Linux, específicamente la distribución Rocky Road.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Router on Index</title>
-    <link>https://imlauerjobs.github.io/@router/</link>
+    <link>http://localhost:1313/@router/</link>
     <description>Recent content in Router on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 15 Oct 2024 11:19:05 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@router/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@router/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Router tp link setup</title>
-      <link>https://imlauerjobs.github.io/router_tp_link_setup/</link>
+      <link>http://localhost:1313/router_tp_link_setup/</link>
       <pubDate>Tue, 15 Oct 2024 11:19:05 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/router_tp_link_setup/</guid>
+      <guid>http://localhost:1313/router_tp_link_setup/</guid>
       <description>FAQ de ese router: https://www.tp-link.com/us/user-guides/tl-wr841n_v14/faq#ug-sub-title-1&#xA;Pasos: SACALE FOTO A LA CONTRASEÑA WPS o CONTRASEÑA POR DEFECTO DEL ROUTER WIFI PORQUE NECESITÁS ESA CONTRASEÑA PARA CONECTARTE LUEGO DE FORMATEAR EL ROUTER WIFI (O LLEVÁ UN CABLE ETHERNET). UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE BOLIVAR 1911 y JUNIN por si las dudas, NO SÉ SI EL BACKUP ES COMPATIBLE PORQUE ES DE OTRO MODELO (projects/tp_link_backup) Fijate que IPs son las cámaras y sus puertos internos: 192.</description>
     </item>
   </channel>

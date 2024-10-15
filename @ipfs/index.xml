@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ipfs on Index</title>
-    <link>https://imlauerjobs.github.io/@ipfs/</link>
+    <link>http://localhost:1313/@ipfs/</link>
     <description>Recent content in Ipfs on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Wed, 18 Sep 2024 10:55:41 -0300</lastBuildDate>
-    <atom:link href="https://imlauerjobs.github.io/@ipfs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/@ipfs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ipfs</title>
-      <link>https://imlauerjobs.github.io/ipfs/</link>
+      <link>http://localhost:1313/ipfs/</link>
       <pubDate>Wed, 18 Sep 2024 10:55:41 -0300</pubDate>
-      <guid>https://imlauerjobs.github.io/ipfs/</guid>
+      <guid>http://localhost:1313/ipfs/</guid>
       <description>https://www.upwork.com/jobs/Design-and-convert-wordpress-site-static-HTML-site-that-will-run-IPFS_~021836210554631570850/?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2F&#xA;Diseñe y convierta un sitio de WordPress en un sitio HTML estático que se ejecutará en IPFS.&#xA;Diseñe y convierta un sitio de WordPress en un sitio HTML estático que se ejecutará en IPFS.&#xA;No es necesario ejecutar WordPress en un servidor. De hecho, puedes ejecutarlo localmente en tu máquina y desarrollar tu sitio sin necesidad de alojamiento web. localwp es un programa gratuito que se ejecuta en Windows, Mac y Linux y le permitirá desarrollar su sitio para prepararlo para exportarlo a un sitio HTML estático y cargarlo en IPFS.</description>
     </item>
   </channel>
