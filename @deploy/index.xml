@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deploy on Index</title>
-    <link>http://localhost:1313/@deploy/</link>
+    <link>https://imlauerjobs.github.io/@deploy/</link>
     <description>Recent content in Deploy on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Thu, 19 Sep 2024 07:50:59 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/@deploy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/@deploy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploy_to_github</title>
-      <link>http://localhost:1313/deploy_to_github/</link>
+      <link>https://imlauerjobs.github.io/deploy_to_github/</link>
       <pubDate>Thu, 19 Sep 2024 07:50:59 -0300</pubDate>
-      <guid>http://localhost:1313/deploy_to_github/</guid>
+      <guid>https://imlauerjobs.github.io/deploy_to_github/</guid>
       <description>https://www.upwork.com/jobs/Deploy-Github-Repository_~021836696424477715807/?referrer_url_path=find_work_home&#xA;Buscamos a alguien para implementar este repositorio de GitHub en nuestro servidor:&#xA;https://github.com/VoytekBereza/medical-clinical-governance&#xA;Hitos:&#xA;Descargue y pruebe localmente para ver si funciona. Subir a nuestro servidor. Configurar la base de datos. Entra en funcionamiento para finalizar la prueba. Que hice&#xA;Cambie el HTTP_HOST de applicacion/config/constrans.php, agregué .htaccess al adminV sino no funcionaba cambie el https por http. cambiá production a testing que está en index.php de adminV.&#xA;cambie la captcha sitekey a</description>
     </item>
   </channel>

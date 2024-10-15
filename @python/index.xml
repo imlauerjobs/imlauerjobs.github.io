@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Index</title>
-    <link>http://localhost:1313/@python/</link>
+    <link>https://imlauerjobs.github.io/@python/</link>
     <description>Recent content in Python on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Wed, 18 Sep 2024 08:09:07 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/@python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/@python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python_web_mongoDB_serversetup_dynamicfront</title>
-      <link>http://localhost:1313/python_web_mongodb_serversetup_dynamicfront/</link>
+      <link>https://imlauerjobs.github.io/python_web_mongodb_serversetup_dynamicfront/</link>
       <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
-      <guid>http://localhost:1313/python_web_mongodb_serversetup_dynamicfront/</guid>
+      <guid>https://imlauerjobs.github.io/python_web_mongodb_serversetup_dynamicfront/</guid>
       <description>https://www.upwork.com/jobs/Python-web-mango-server-setup-dynamic-front-Full-tack-development_~021836046873113850258/?referrer_url_path=find_work_home&#xA;Full stack remote employee for large project with Full stack development</description>
     </item>
     <item>
       <title>Python_desktop_app_multiprocessing</title>
-      <link>http://localhost:1313/python_desktop_app_multiprocessing/</link>
+      <link>https://imlauerjobs.github.io/python_desktop_app_multiprocessing/</link>
       <pubDate>Wed, 18 Sep 2024 07:50:42 -0300</pubDate>
-      <guid>http://localhost:1313/python_desktop_app_multiprocessing/</guid>
+      <guid>https://imlauerjobs.github.io/python_desktop_app_multiprocessing/</guid>
       <description>https://www.upwork.com/jobs/Help-Build-Python-Desktop-App-With-Multiprocessing_~021836236984419768745/?referrer_url_path=find_work_home&#xA;Ayuda para corregir un error en un script personal de Python. El código del script tiene aproximadamente 1,1 K líneas hasta el momento. El script utiliza actualmente un puñado de hilos. Todo funciona excepto este error.&#xA;Primero, corrija un error que impide que el usuario pueda modificar algunos datos tabulares en una GUI de PandasTable, mediante: adaptar el script de Python para usar una base de datos PostgreSQL en lugar de Pandas para el almacenamiento de datos y usar multiprocesamiento o patetismo en lugar de subprocesos.</description>
     </item>
   </channel>

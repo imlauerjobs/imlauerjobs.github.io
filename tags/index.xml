@@ -2,598 +2,598 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Index</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://imlauerjobs.github.io/tags/</link>
     <description>Recent content in Tags on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 15 Oct 2024 11:19:05 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Router</title>
-      <link>http://localhost:1313/@router/</link>
+      <link>https://imlauerjobs.github.io/@router/</link>
       <pubDate>Tue, 15 Oct 2024 11:19:05 -0300</pubDate>
-      <guid>http://localhost:1313/@router/</guid>
+      <guid>https://imlauerjobs.github.io/@router/</guid>
       <description></description>
     </item>
     <item>
       <title>Servidor</title>
-      <link>http://localhost:1313/@servidor/</link>
+      <link>https://imlauerjobs.github.io/@servidor/</link>
       <pubDate>Mon, 14 Oct 2024 17:13:26 -0300</pubDate>
-      <guid>http://localhost:1313/@servidor/</guid>
+      <guid>https://imlauerjobs.github.io/@servidor/</guid>
       <description></description>
     </item>
     <item>
       <title>Robotica</title>
-      <link>http://localhost:1313/@robotica/</link>
+      <link>https://imlauerjobs.github.io/@robotica/</link>
       <pubDate>Sat, 12 Oct 2024 04:37:39 -0300</pubDate>
-      <guid>http://localhost:1313/@robotica/</guid>
+      <guid>https://imlauerjobs.github.io/@robotica/</guid>
       <description></description>
     </item>
     <item>
       <title>Tc</title>
-      <link>http://localhost:1313/@tc/</link>
+      <link>https://imlauerjobs.github.io/@tc/</link>
       <pubDate>Sat, 12 Oct 2024 04:28:13 -0300</pubDate>
-      <guid>http://localhost:1313/@tc/</guid>
+      <guid>https://imlauerjobs.github.io/@tc/</guid>
       <description></description>
     </item>
     <item>
       <title>Drive</title>
-      <link>http://localhost:1313/@drive/</link>
+      <link>https://imlauerjobs.github.io/@drive/</link>
       <pubDate>Mon, 07 Oct 2024 04:33:22 -0300</pubDate>
-      <guid>http://localhost:1313/@drive/</guid>
+      <guid>https://imlauerjobs.github.io/@drive/</guid>
       <description></description>
     </item>
     <item>
       <title>Email</title>
-      <link>http://localhost:1313/@email/</link>
+      <link>https://imlauerjobs.github.io/@email/</link>
       <pubDate>Mon, 07 Oct 2024 04:33:22 -0300</pubDate>
-      <guid>http://localhost:1313/@email/</guid>
+      <guid>https://imlauerjobs.github.io/@email/</guid>
       <description></description>
     </item>
     <item>
       <title>Deployment</title>
-      <link>http://localhost:1313/@deployment/</link>
+      <link>https://imlauerjobs.github.io/@deployment/</link>
       <pubDate>Mon, 23 Sep 2024 20:35:21 -0300</pubDate>
-      <guid>http://localhost:1313/@deployment/</guid>
+      <guid>https://imlauerjobs.github.io/@deployment/</guid>
       <description></description>
     </item>
     <item>
       <title>Gitlab</title>
-      <link>http://localhost:1313/@gitlab/</link>
+      <link>https://imlauerjobs.github.io/@gitlab/</link>
       <pubDate>Mon, 23 Sep 2024 20:35:21 -0300</pubDate>
-      <guid>http://localhost:1313/@gitlab/</guid>
+      <guid>https://imlauerjobs.github.io/@gitlab/</guid>
       <description></description>
     </item>
     <item>
       <title>Ai</title>
-      <link>http://localhost:1313/@ai/</link>
+      <link>https://imlauerjobs.github.io/@ai/</link>
       <pubDate>Mon, 23 Sep 2024 10:36:35 -0300</pubDate>
-      <guid>http://localhost:1313/@ai/</guid>
+      <guid>https://imlauerjobs.github.io/@ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/@linux/</link>
+      <link>https://imlauerjobs.github.io/@linux/</link>
       <pubDate>Sat, 21 Sep 2024 18:56:39 -0300</pubDate>
-      <guid>http://localhost:1313/@linux/</guid>
+      <guid>https://imlauerjobs.github.io/@linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>http://localhost:1313/@server/</link>
+      <link>https://imlauerjobs.github.io/@server/</link>
       <pubDate>Sat, 21 Sep 2024 18:56:39 -0300</pubDate>
-      <guid>http://localhost:1313/@server/</guid>
+      <guid>https://imlauerjobs.github.io/@server/</guid>
       <description></description>
     </item>
     <item>
       <title>Analyst</title>
-      <link>http://localhost:1313/@analyst/</link>
+      <link>https://imlauerjobs.github.io/@analyst/</link>
       <pubDate>Fri, 20 Sep 2024 20:27:47 -0300</pubDate>
-      <guid>http://localhost:1313/@analyst/</guid>
+      <guid>https://imlauerjobs.github.io/@analyst/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>http://localhost:1313/@data/</link>
+      <link>https://imlauerjobs.github.io/@data/</link>
       <pubDate>Fri, 20 Sep 2024 20:27:47 -0300</pubDate>
-      <guid>http://localhost:1313/@data/</guid>
+      <guid>https://imlauerjobs.github.io/@data/</guid>
       <description></description>
     </item>
     <item>
       <title>Sql</title>
-      <link>http://localhost:1313/@sql/</link>
+      <link>https://imlauerjobs.github.io/@sql/</link>
       <pubDate>Fri, 20 Sep 2024 20:27:47 -0300</pubDate>
-      <guid>http://localhost:1313/@sql/</guid>
+      <guid>https://imlauerjobs.github.io/@sql/</guid>
       <description></description>
     </item>
     <item>
       <title>Subdomain</title>
-      <link>http://localhost:1313/@subdomain/</link>
+      <link>https://imlauerjobs.github.io/@subdomain/</link>
       <pubDate>Fri, 20 Sep 2024 17:07:27 -0300</pubDate>
-      <guid>http://localhost:1313/@subdomain/</guid>
+      <guid>https://imlauerjobs.github.io/@subdomain/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/@docker/</link>
+      <link>https://imlauerjobs.github.io/@docker/</link>
       <pubDate>Thu, 19 Sep 2024 20:30:16 -0300</pubDate>
-      <guid>http://localhost:1313/@docker/</guid>
+      <guid>https://imlauerjobs.github.io/@docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Mitmproxy</title>
-      <link>http://localhost:1313/@mitmproxy/</link>
+      <link>https://imlauerjobs.github.io/@mitmproxy/</link>
       <pubDate>Thu, 19 Sep 2024 20:30:16 -0300</pubDate>
-      <guid>http://localhost:1313/@mitmproxy/</guid>
+      <guid>https://imlauerjobs.github.io/@mitmproxy/</guid>
       <description></description>
     </item>
     <item>
       <title>Cdn</title>
-      <link>http://localhost:1313/@cdn/</link>
+      <link>https://imlauerjobs.github.io/@cdn/</link>
       <pubDate>Thu, 19 Sep 2024 09:35:18 -0300</pubDate>
-      <guid>http://localhost:1313/@cdn/</guid>
+      <guid>https://imlauerjobs.github.io/@cdn/</guid>
       <description></description>
     </item>
     <item>
       <title>S3</title>
-      <link>http://localhost:1313/@s3/</link>
+      <link>https://imlauerjobs.github.io/@s3/</link>
       <pubDate>Thu, 19 Sep 2024 09:35:18 -0300</pubDate>
-      <guid>http://localhost:1313/@s3/</guid>
+      <guid>https://imlauerjobs.github.io/@s3/</guid>
       <description></description>
     </item>
     <item>
       <title>Admin</title>
-      <link>http://localhost:1313/@admin/</link>
+      <link>https://imlauerjobs.github.io/@admin/</link>
       <pubDate>Thu, 19 Sep 2024 08:58:20 -0300</pubDate>
-      <guid>http://localhost:1313/@admin/</guid>
+      <guid>https://imlauerjobs.github.io/@admin/</guid>
       <description></description>
     </item>
     <item>
       <title>Deploy</title>
-      <link>http://localhost:1313/@deploy/</link>
+      <link>https://imlauerjobs.github.io/@deploy/</link>
       <pubDate>Thu, 19 Sep 2024 07:50:59 -0300</pubDate>
-      <guid>http://localhost:1313/@deploy/</guid>
+      <guid>https://imlauerjobs.github.io/@deploy/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
-      <link>http://localhost:1313/@github/</link>
+      <link>https://imlauerjobs.github.io/@github/</link>
       <pubDate>Thu, 19 Sep 2024 07:50:59 -0300</pubDate>
-      <guid>http://localhost:1313/@github/</guid>
+      <guid>https://imlauerjobs.github.io/@github/</guid>
       <description></description>
     </item>
     <item>
       <title>Wordpress</title>
-      <link>http://localhost:1313/@wordpress/</link>
+      <link>https://imlauerjobs.github.io/@wordpress/</link>
       <pubDate>Thu, 19 Sep 2024 07:35:57 -0300</pubDate>
-      <guid>http://localhost:1313/@wordpress/</guid>
+      <guid>https://imlauerjobs.github.io/@wordpress/</guid>
       <description></description>
     </item>
     <item>
       <title>Ci/Cd</title>
-      <link>http://localhost:1313/@ci/cd/</link>
+      <link>https://imlauerjobs.github.io/@ci/cd/</link>
       <pubDate>Wed, 18 Sep 2024 22:10:21 -0300</pubDate>
-      <guid>http://localhost:1313/@ci/cd/</guid>
+      <guid>https://imlauerjobs.github.io/@ci/cd/</guid>
       <description></description>
     </item>
     <item>
       <title>Sftp</title>
-      <link>http://localhost:1313/@sftp/</link>
+      <link>https://imlauerjobs.github.io/@sftp/</link>
       <pubDate>Wed, 18 Sep 2024 20:54:25 -0300</pubDate>
-      <guid>http://localhost:1313/@sftp/</guid>
+      <guid>https://imlauerjobs.github.io/@sftp/</guid>
       <description></description>
     </item>
     <item>
       <title>Runner</title>
-      <link>http://localhost:1313/@runner/</link>
+      <link>https://imlauerjobs.github.io/@runner/</link>
       <pubDate>Wed, 18 Sep 2024 19:37:39 -0300</pubDate>
-      <guid>http://localhost:1313/@runner/</guid>
+      <guid>https://imlauerjobs.github.io/@runner/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
-      <link>http://localhost:1313/@optimization/</link>
+      <link>https://imlauerjobs.github.io/@optimization/</link>
       <pubDate>Wed, 18 Sep 2024 18:22:43 -0300</pubDate>
-      <guid>http://localhost:1313/@optimization/</guid>
+      <guid>https://imlauerjobs.github.io/@optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Freelancer</title>
-      <link>http://localhost:1313/@freelancer/</link>
+      <link>https://imlauerjobs.github.io/@freelancer/</link>
       <pubDate>Wed, 18 Sep 2024 18:03:13 -0300</pubDate>
-      <guid>http://localhost:1313/@freelancer/</guid>
+      <guid>https://imlauerjobs.github.io/@freelancer/</guid>
       <description></description>
     </item>
     <item>
       <title>Engineer</title>
-      <link>http://localhost:1313/@engineer/</link>
+      <link>https://imlauerjobs.github.io/@engineer/</link>
       <pubDate>Wed, 18 Sep 2024 17:48:56 -0300</pubDate>
-      <guid>http://localhost:1313/@engineer/</guid>
+      <guid>https://imlauerjobs.github.io/@engineer/</guid>
       <description></description>
     </item>
     <item>
       <title>Pki</title>
-      <link>http://localhost:1313/@pki/</link>
+      <link>https://imlauerjobs.github.io/@pki/</link>
       <pubDate>Wed, 18 Sep 2024 17:48:56 -0300</pubDate>
-      <guid>http://localhost:1313/@pki/</guid>
+      <guid>https://imlauerjobs.github.io/@pki/</guid>
       <description></description>
     </item>
     <item>
       <title>Trust</title>
-      <link>http://localhost:1313/@trust/</link>
+      <link>https://imlauerjobs.github.io/@trust/</link>
       <pubDate>Wed, 18 Sep 2024 17:48:56 -0300</pubDate>
-      <guid>http://localhost:1313/@trust/</guid>
+      <guid>https://imlauerjobs.github.io/@trust/</guid>
       <description></description>
     </item>
     <item>
       <title>Localmachines</title>
-      <link>http://localhost:1313/@localmachines/</link>
+      <link>https://imlauerjobs.github.io/@localmachines/</link>
       <pubDate>Wed, 18 Sep 2024 16:14:47 -0300</pubDate>
-      <guid>http://localhost:1313/@localmachines/</guid>
+      <guid>https://imlauerjobs.github.io/@localmachines/</guid>
       <description></description>
     </item>
     <item>
       <title>Remote</title>
-      <link>http://localhost:1313/@remote/</link>
+      <link>https://imlauerjobs.github.io/@remote/</link>
       <pubDate>Wed, 18 Sep 2024 16:14:47 -0300</pubDate>
-      <guid>http://localhost:1313/@remote/</guid>
+      <guid>https://imlauerjobs.github.io/@remote/</guid>
       <description></description>
     </item>
     <item>
       <title>Setup</title>
-      <link>http://localhost:1313/@setup/</link>
+      <link>https://imlauerjobs.github.io/@setup/</link>
       <pubDate>Wed, 18 Sep 2024 16:14:47 -0300</pubDate>
-      <guid>http://localhost:1313/@setup/</guid>
+      <guid>https://imlauerjobs.github.io/@setup/</guid>
       <description></description>
     </item>
     <item>
       <title>Apache</title>
-      <link>http://localhost:1313/@apache/</link>
+      <link>https://imlauerjobs.github.io/@apache/</link>
       <pubDate>Wed, 18 Sep 2024 15:51:59 -0300</pubDate>
-      <guid>http://localhost:1313/@apache/</guid>
+      <guid>https://imlauerjobs.github.io/@apache/</guid>
       <description></description>
     </item>
     <item>
       <title>Aws</title>
-      <link>http://localhost:1313/@aws/</link>
+      <link>https://imlauerjobs.github.io/@aws/</link>
       <pubDate>Wed, 18 Sep 2024 15:51:59 -0300</pubDate>
-      <guid>http://localhost:1313/@aws/</guid>
+      <guid>https://imlauerjobs.github.io/@aws/</guid>
       <description></description>
     </item>
     <item>
       <title>Csharp</title>
-      <link>http://localhost:1313/@csharp/</link>
+      <link>https://imlauerjobs.github.io/@csharp/</link>
       <pubDate>Wed, 18 Sep 2024 15:20:42 -0300</pubDate>
-      <guid>http://localhost:1313/@csharp/</guid>
+      <guid>https://imlauerjobs.github.io/@csharp/</guid>
       <description></description>
     </item>
     <item>
       <title>Https</title>
-      <link>http://localhost:1313/@https/</link>
+      <link>https://imlauerjobs.github.io/@https/</link>
       <pubDate>Wed, 18 Sep 2024 15:20:42 -0300</pubDate>
-      <guid>http://localhost:1313/@https/</guid>
+      <guid>https://imlauerjobs.github.io/@https/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>http://localhost:1313/@website/</link>
+      <link>https://imlauerjobs.github.io/@website/</link>
       <pubDate>Wed, 18 Sep 2024 15:20:42 -0300</pubDate>
-      <guid>http://localhost:1313/@website/</guid>
+      <guid>https://imlauerjobs.github.io/@website/</guid>
       <description></description>
     </item>
     <item>
       <title>Antiwordpress</title>
-      <link>http://localhost:1313/@antiwordpress/</link>
+      <link>https://imlauerjobs.github.io/@antiwordpress/</link>
       <pubDate>Wed, 18 Sep 2024 10:55:41 -0300</pubDate>
-      <guid>http://localhost:1313/@antiwordpress/</guid>
+      <guid>https://imlauerjobs.github.io/@antiwordpress/</guid>
       <description></description>
     </item>
     <item>
       <title>Ipfs</title>
-      <link>http://localhost:1313/@ipfs/</link>
+      <link>https://imlauerjobs.github.io/@ipfs/</link>
       <pubDate>Wed, 18 Sep 2024 10:55:41 -0300</pubDate>
-      <guid>http://localhost:1313/@ipfs/</guid>
+      <guid>https://imlauerjobs.github.io/@ipfs/</guid>
       <description></description>
     </item>
     <item>
       <title>Firewall</title>
-      <link>http://localhost:1313/@firewall/</link>
+      <link>https://imlauerjobs.github.io/@firewall/</link>
       <pubDate>Wed, 18 Sep 2024 10:45:45 -0300</pubDate>
-      <guid>http://localhost:1313/@firewall/</guid>
+      <guid>https://imlauerjobs.github.io/@firewall/</guid>
       <description></description>
     </item>
     <item>
       <title>Whatsapp</title>
-      <link>http://localhost:1313/@whatsapp/</link>
+      <link>https://imlauerjobs.github.io/@whatsapp/</link>
       <pubDate>Wed, 18 Sep 2024 10:36:46 -0300</pubDate>
-      <guid>http://localhost:1313/@whatsapp/</guid>
+      <guid>https://imlauerjobs.github.io/@whatsapp/</guid>
       <description></description>
     </item>
     <item>
       <title>Electronjs</title>
-      <link>http://localhost:1313/@electronjs/</link>
+      <link>https://imlauerjobs.github.io/@electronjs/</link>
       <pubDate>Wed, 18 Sep 2024 09:57:05 -0300</pubDate>
-      <guid>http://localhost:1313/@electronjs/</guid>
+      <guid>https://imlauerjobs.github.io/@electronjs/</guid>
       <description></description>
     </item>
     <item>
       <title>Structuralengineering</title>
-      <link>http://localhost:1313/@structuralengineering/</link>
+      <link>https://imlauerjobs.github.io/@structuralengineering/</link>
       <pubDate>Wed, 18 Sep 2024 09:57:05 -0300</pubDate>
-      <guid>http://localhost:1313/@structuralengineering/</guid>
+      <guid>https://imlauerjobs.github.io/@structuralengineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Esim</title>
-      <link>http://localhost:1313/@esim/</link>
+      <link>https://imlauerjobs.github.io/@esim/</link>
       <pubDate>Wed, 18 Sep 2024 09:26:13 -0300</pubDate>
-      <guid>http://localhost:1313/@esim/</guid>
+      <guid>https://imlauerjobs.github.io/@esim/</guid>
       <description></description>
     </item>
     <item>
       <title>Php</title>
-      <link>http://localhost:1313/@php/</link>
+      <link>https://imlauerjobs.github.io/@php/</link>
       <pubDate>Wed, 18 Sep 2024 08:53:09 -0300</pubDate>
-      <guid>http://localhost:1313/@php/</guid>
+      <guid>https://imlauerjobs.github.io/@php/</guid>
       <description></description>
     </item>
     <item>
       <title>Webapp</title>
-      <link>http://localhost:1313/@webapp/</link>
+      <link>https://imlauerjobs.github.io/@webapp/</link>
       <pubDate>Wed, 18 Sep 2024 08:53:09 -0300</pubDate>
-      <guid>http://localhost:1313/@webapp/</guid>
+      <guid>https://imlauerjobs.github.io/@webapp/</guid>
       <description></description>
     </item>
     <item>
       <title>Digitalocean</title>
-      <link>http://localhost:1313/@digitalocean/</link>
+      <link>https://imlauerjobs.github.io/@digitalocean/</link>
       <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
-      <guid>http://localhost:1313/@digitalocean/</guid>
+      <guid>https://imlauerjobs.github.io/@digitalocean/</guid>
       <description></description>
     </item>
     <item>
       <title>Headers</title>
-      <link>http://localhost:1313/@headers/</link>
+      <link>https://imlauerjobs.github.io/@headers/</link>
       <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
-      <guid>http://localhost:1313/@headers/</guid>
+      <guid>https://imlauerjobs.github.io/@headers/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>http://localhost:1313/@security/</link>
+      <link>https://imlauerjobs.github.io/@security/</link>
       <pubDate>Wed, 18 Sep 2024 08:46:52 -0300</pubDate>
-      <guid>http://localhost:1313/@security/</guid>
+      <guid>https://imlauerjobs.github.io/@security/</guid>
       <description></description>
     </item>
     <item>
       <title>Soap</title>
-      <link>http://localhost:1313/@soap/</link>
+      <link>https://imlauerjobs.github.io/@soap/</link>
       <pubDate>Wed, 18 Sep 2024 08:11:40 -0300</pubDate>
-      <guid>http://localhost:1313/@soap/</guid>
+      <guid>https://imlauerjobs.github.io/@soap/</guid>
       <description></description>
     </item>
     <item>
       <title>Wss</title>
-      <link>http://localhost:1313/@wss/</link>
+      <link>https://imlauerjobs.github.io/@wss/</link>
       <pubDate>Wed, 18 Sep 2024 08:11:40 -0300</pubDate>
-      <guid>http://localhost:1313/@wss/</guid>
+      <guid>https://imlauerjobs.github.io/@wss/</guid>
       <description></description>
     </item>
     <item>
       <title>Mongodb</title>
-      <link>http://localhost:1313/@mongodb/</link>
+      <link>https://imlauerjobs.github.io/@mongodb/</link>
       <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
-      <guid>http://localhost:1313/@mongodb/</guid>
+      <guid>https://imlauerjobs.github.io/@mongodb/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/@python/</link>
+      <link>https://imlauerjobs.github.io/@python/</link>
       <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
-      <guid>http://localhost:1313/@python/</guid>
+      <guid>https://imlauerjobs.github.io/@python/</guid>
       <description></description>
     </item>
     <item>
       <title>Serversetup&#39;,dynamicfront</title>
-      <link>http://localhost:1313/@serversetupdynamicfront/</link>
+      <link>https://imlauerjobs.github.io/@serversetupdynamicfront/</link>
       <pubDate>Wed, 18 Sep 2024 08:09:07 -0300</pubDate>
-      <guid>http://localhost:1313/@serversetupdynamicfront/</guid>
+      <guid>https://imlauerjobs.github.io/@serversetupdynamicfront/</guid>
       <description></description>
     </item>
     <item>
       <title>Multiprocessing</title>
-      <link>http://localhost:1313/@multiprocessing/</link>
+      <link>https://imlauerjobs.github.io/@multiprocessing/</link>
       <pubDate>Wed, 18 Sep 2024 07:50:42 -0300</pubDate>
-      <guid>http://localhost:1313/@multiprocessing/</guid>
+      <guid>https://imlauerjobs.github.io/@multiprocessing/</guid>
       <description></description>
     </item>
     <item>
       <title>Telegram</title>
-      <link>http://localhost:1313/@telegram/</link>
+      <link>https://imlauerjobs.github.io/@telegram/</link>
       <pubDate>Wed, 18 Sep 2024 07:23:28 -0300</pubDate>
-      <guid>http://localhost:1313/@telegram/</guid>
+      <guid>https://imlauerjobs.github.io/@telegram/</guid>
       <description></description>
     </item>
     <item>
       <title>Ispconfig</title>
-      <link>http://localhost:1313/@ispconfig/</link>
+      <link>https://imlauerjobs.github.io/@ispconfig/</link>
       <pubDate>Tue, 17 Sep 2024 21:22:18 -0300</pubDate>
-      <guid>http://localhost:1313/@ispconfig/</guid>
+      <guid>https://imlauerjobs.github.io/@ispconfig/</guid>
       <description></description>
     </item>
     <item>
       <title>Bamboo</title>
-      <link>http://localhost:1313/@bamboo/</link>
+      <link>https://imlauerjobs.github.io/@bamboo/</link>
       <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>http://localhost:1313/@bamboo/</guid>
+      <guid>https://imlauerjobs.github.io/@bamboo/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud</title>
-      <link>http://localhost:1313/@cloud/</link>
+      <link>https://imlauerjobs.github.io/@cloud/</link>
       <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>http://localhost:1313/@cloud/</guid>
+      <guid>https://imlauerjobs.github.io/@cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Keygen</title>
-      <link>http://localhost:1313/@keygen/</link>
+      <link>https://imlauerjobs.github.io/@keygen/</link>
       <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>http://localhost:1313/@keygen/</guid>
+      <guid>https://imlauerjobs.github.io/@keygen/</guid>
       <description></description>
     </item>
     <item>
       <title>Rhel9</title>
-      <link>http://localhost:1313/@rhel9/</link>
+      <link>https://imlauerjobs.github.io/@rhel9/</link>
       <pubDate>Tue, 17 Sep 2024 19:31:21 -0300</pubDate>
-      <guid>http://localhost:1313/@rhel9/</guid>
+      <guid>https://imlauerjobs.github.io/@rhel9/</guid>
       <description></description>
     </item>
     <item>
       <title>Entry</title>
-      <link>http://localhost:1313/@entry/</link>
+      <link>https://imlauerjobs.github.io/@entry/</link>
       <pubDate>Tue, 17 Sep 2024 19:25:44 -0300</pubDate>
-      <guid>http://localhost:1313/@entry/</guid>
+      <guid>https://imlauerjobs.github.io/@entry/</guid>
       <description></description>
     </item>
     <item>
       <title>Temperatura</title>
-      <link>http://localhost:1313/@temperatura/</link>
+      <link>https://imlauerjobs.github.io/@temperatura/</link>
       <pubDate>Tue, 17 Sep 2024 18:50:59 -0300</pubDate>
-      <guid>http://localhost:1313/@temperatura/</guid>
+      <guid>https://imlauerjobs.github.io/@temperatura/</guid>
       <description></description>
     </item>
     <item>
       <title>Developer</title>
-      <link>http://localhost:1313/@developer/</link>
+      <link>https://imlauerjobs.github.io/@developer/</link>
       <pubDate>Tue, 17 Sep 2024 18:47:40 -0300</pubDate>
-      <guid>http://localhost:1313/@developer/</guid>
+      <guid>https://imlauerjobs.github.io/@developer/</guid>
       <description></description>
     </item>
     <item>
       <title>Servicenow</title>
-      <link>http://localhost:1313/@servicenow/</link>
+      <link>https://imlauerjobs.github.io/@servicenow/</link>
       <pubDate>Tue, 17 Sep 2024 18:47:40 -0300</pubDate>
-      <guid>http://localhost:1313/@servicenow/</guid>
+      <guid>https://imlauerjobs.github.io/@servicenow/</guid>
       <description></description>
     </item>
     <item>
       <title>Discord</title>
-      <link>http://localhost:1313/@discord/</link>
+      <link>https://imlauerjobs.github.io/@discord/</link>
       <pubDate>Tue, 17 Sep 2024 18:40:59 -0300</pubDate>
-      <guid>http://localhost:1313/@discord/</guid>
+      <guid>https://imlauerjobs.github.io/@discord/</guid>
       <description></description>
     </item>
     <item>
       <title>Goldsvet</title>
-      <link>http://localhost:1313/@goldsvet/</link>
+      <link>https://imlauerjobs.github.io/@goldsvet/</link>
       <pubDate>Tue, 17 Sep 2024 17:10:44 -0300</pubDate>
-      <guid>http://localhost:1313/@goldsvet/</guid>
+      <guid>https://imlauerjobs.github.io/@goldsvet/</guid>
       <description></description>
     </item>
     <item>
       <title>Inicio</title>
-      <link>http://localhost:1313/@inicio/</link>
+      <link>https://imlauerjobs.github.io/@inicio/</link>
       <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
-      <guid>http://localhost:1313/@inicio/</guid>
+      <guid>https://imlauerjobs.github.io/@inicio/</guid>
       <description></description>
     </item>
     <item>
       <title>Pagina</title>
-      <link>http://localhost:1313/@pagina/</link>
+      <link>https://imlauerjobs.github.io/@pagina/</link>
       <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
-      <guid>http://localhost:1313/@pagina/</guid>
+      <guid>https://imlauerjobs.github.io/@pagina/</guid>
       <description></description>
     </item>
     <item>
       <title>Session</title>
-      <link>http://localhost:1313/@session/</link>
+      <link>https://imlauerjobs.github.io/@session/</link>
       <pubDate>Tue, 17 Sep 2024 16:41:28 -0300</pubDate>
-      <guid>http://localhost:1313/@session/</guid>
+      <guid>https://imlauerjobs.github.io/@session/</guid>
       <description></description>
     </item>
     <item>
       <title>Magento</title>
-      <link>http://localhost:1313/@magento/</link>
+      <link>https://imlauerjobs.github.io/@magento/</link>
       <pubDate>Tue, 17 Sep 2024 16:24:25 -0300</pubDate>
-      <guid>http://localhost:1313/@magento/</guid>
+      <guid>https://imlauerjobs.github.io/@magento/</guid>
       <description></description>
     </item>
     <item>
       <title>Android</title>
-      <link>http://localhost:1313/@android/</link>
+      <link>https://imlauerjobs.github.io/@android/</link>
       <pubDate>Tue, 17 Sep 2024 13:50:08 -0300</pubDate>
-      <guid>http://localhost:1313/@android/</guid>
+      <guid>https://imlauerjobs.github.io/@android/</guid>
       <description></description>
     </item>
     <item>
       <title>Reversing</title>
-      <link>http://localhost:1313/@reversing/</link>
+      <link>https://imlauerjobs.github.io/@reversing/</link>
       <pubDate>Tue, 17 Sep 2024 13:50:08 -0300</pubDate>
-      <guid>http://localhost:1313/@reversing/</guid>
+      <guid>https://imlauerjobs.github.io/@reversing/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/@blog/</link>
+      <link>https://imlauerjobs.github.io/@blog/</link>
       <pubDate>Tue, 17 Sep 2024 13:17:17 -0300</pubDate>
-      <guid>http://localhost:1313/@blog/</guid>
+      <guid>https://imlauerjobs.github.io/@blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Curl</title>
-      <link>http://localhost:1313/@curl/</link>
+      <link>https://imlauerjobs.github.io/@curl/</link>
       <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
-      <guid>http://localhost:1313/@curl/</guid>
+      <guid>https://imlauerjobs.github.io/@curl/</guid>
       <description></description>
     </item>
     <item>
       <title>Timeout</title>
-      <link>http://localhost:1313/@timeout/</link>
+      <link>https://imlauerjobs.github.io/@timeout/</link>
       <pubDate>Tue, 17 Sep 2024 12:25:11 -0300</pubDate>
-      <guid>http://localhost:1313/@timeout/</guid>
+      <guid>https://imlauerjobs.github.io/@timeout/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash</title>
-      <link>http://localhost:1313/@bash/</link>
+      <link>https://imlauerjobs.github.io/@bash/</link>
       <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
-      <guid>http://localhost:1313/@bash/</guid>
+      <guid>https://imlauerjobs.github.io/@bash/</guid>
       <description></description>
     </item>
     <item>
       <title>Librecad</title>
-      <link>http://localhost:1313/@librecad/</link>
+      <link>https://imlauerjobs.github.io/@librecad/</link>
       <pubDate>Tue, 17 Sep 2024 11:49:54 -0300</pubDate>
-      <guid>http://localhost:1313/@librecad/</guid>
+      <guid>https://imlauerjobs.github.io/@librecad/</guid>
       <description></description>
     </item>
     <item>
       <title>Vpn</title>
-      <link>http://localhost:1313/@vpn/</link>
+      <link>https://imlauerjobs.github.io/@vpn/</link>
       <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
-      <guid>http://localhost:1313/@vpn/</guid>
+      <guid>https://imlauerjobs.github.io/@vpn/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/@windows/</link>
+      <link>https://imlauerjobs.github.io/@windows/</link>
       <pubDate>Mon, 16 Sep 2024 19:58:34 -0300</pubDate>
-      <guid>http://localhost:1313/@windows/</guid>
+      <guid>https://imlauerjobs.github.io/@windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Seo</title>
-      <link>http://localhost:1313/@seo/</link>
+      <link>https://imlauerjobs.github.io/@seo/</link>
       <pubDate>Mon, 16 Sep 2024 19:49:07 -0300</pubDate>
-      <guid>http://localhost:1313/@seo/</guid>
+      <guid>https://imlauerjobs.github.io/@seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Jekyll</title>
-      <link>http://localhost:1313/@jekyll/</link>
+      <link>https://imlauerjobs.github.io/@jekyll/</link>
       <pubDate>Mon, 16 Sep 2024 16:10:37 -0300</pubDate>
-      <guid>http://localhost:1313/@jekyll/</guid>
+      <guid>https://imlauerjobs.github.io/@jekyll/</guid>
       <description></description>
     </item>
   </channel>

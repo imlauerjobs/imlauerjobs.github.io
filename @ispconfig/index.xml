@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ispconfig on Index</title>
-    <link>http://localhost:1313/@ispconfig/</link>
+    <link>https://imlauerjobs.github.io/@ispconfig/</link>
     <description>Recent content in Ispconfig on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Tue, 17 Sep 2024 21:22:18 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/@ispconfig/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/@ispconfig/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>un servidor propio de dns con panel ISPCONFIG</title>
-      <link>http://localhost:1313/ispconfig/</link>
+      <link>https://imlauerjobs.github.io/ispconfig/</link>
       <pubDate>Tue, 17 Sep 2024 21:22:18 -0300</pubDate>
-      <guid>http://localhost:1313/ispconfig/</guid>
+      <guid>https://imlauerjobs.github.io/ispconfig/</guid>
       <description>https://www.freelancer.com/projects/linux/Necesito-que-configurar-servidor-propio/details&#xA;estoy necesitando una configuracion de servidor de nombres (dns) propios, todo en el panel de ispconfig instalado en un servidor dedicado propio.</description>
     </item>
   </channel>

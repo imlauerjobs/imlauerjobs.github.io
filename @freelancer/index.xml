@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Freelancer on Index</title>
-    <link>http://localhost:1313/@freelancer/</link>
+    <link>https://imlauerjobs.github.io/@freelancer/</link>
     <description>Recent content in Freelancer on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Wed, 18 Sep 2024 18:03:13 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/@freelancer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/@freelancer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Freelancer</title>
-      <link>http://localhost:1313/freelancer/</link>
+      <link>https://imlauerjobs.github.io/freelancer/</link>
       <pubDate>Wed, 18 Sep 2024 18:03:13 -0300</pubDate>
-      <guid>http://localhost:1313/freelancer/</guid>
+      <guid>https://imlauerjobs.github.io/freelancer/</guid>
       <description>Buscar proyectos de algún tema en específico:&#xA;https://www.freelancer.com/search/projects?q=linux&#xA;https://www.freelancer.com/jobs/devops?w=f&amp;amp;redirect-times=1&amp;amp;ngsw-bypass=&#xA;https://www.freelancer.com/jobs/unix?w=f&amp;amp;redirect-times=1&amp;amp;ngsw-bypass=&#xA;https://www.freelancer.com/jobs/linux/1/?w=f&amp;amp;redirect-times=1&amp;amp;ngsw-bypass=&#xA;https://www.freelancer.com/jobs/data_entry&#xA;https://www.upwork.com/jobs</description>
     </item>
   </channel>

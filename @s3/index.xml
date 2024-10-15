@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S3 on Index</title>
-    <link>http://localhost:1313/@s3/</link>
+    <link>https://imlauerjobs.github.io/@s3/</link>
     <description>Recent content in S3 on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Thu, 19 Sep 2024 09:35:18 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/@s3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://imlauerjobs.github.io/@s3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Facing_issue_with_S3_and_CDN_config</title>
-      <link>http://localhost:1313/facing_issue_with_s3_and_cdn_config/</link>
+      <link>https://imlauerjobs.github.io/facing_issue_with_s3_and_cdn_config/</link>
       <pubDate>Thu, 19 Sep 2024 09:35:18 -0300</pubDate>
-      <guid>http://localhost:1313/facing_issue_with_s3_and_cdn_config/</guid>
+      <guid>https://imlauerjobs.github.io/facing_issue_with_s3_and_cdn_config/</guid>
       <description>https://www.upwork.com/jobs/Facing-issue-with-and-CDN-config_~021836646185238621535/?referrer_url_path=find_work_home&#xA;Need someone who can help me resolve the issues that we are facing in our AWS s3 and CDN and also check everything security related.</description>
     </item>
   </channel>
