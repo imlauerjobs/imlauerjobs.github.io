@@ -13,7 +13,7 @@
       <link>https://imlauerjobs.github.io/configuracion/</link>
       <pubDate>Mon, 14 Oct 2024 17:13:26 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/configuracion/</guid>
-      <description>sudo systemctl start docker sudo systemctl start mysql docker-compose up cp .env.example .env Configurá smtp&#xA;Si te tira error de algo, ejecutá:&#xA;docker-compose down Cada vez que hacés un cambio en el .env tenés que reconstruir tu imágen y borrá la interior:&#xA;docker images docker rmi &amp;lt;id_de_la_imagen&amp;gt; #### Reconstruí la imágen docker build . -t my-web-app -f Dockerfile docker-compose up </description>
+      <description>sudo systemctl start docker sudo systemctl start mysql docker-compose up cp .env.example .env Configurá smtp&#xA;Si te tira error de KeyError: &#39;ContainerConfig&#39; , ejecutá:&#xA;docker-compose down Cada vez que hacés un cambio en el .env tenés que reconstruir tu imágen y borrá la interior:&#xA;docker images docker rmi &amp;lt;id_de_la_imagen&amp;gt; #### Reconstruí la imágen docker build . -t my-web-app -f Dockerfile docker-compose up https://stackoverflow.com/questions/77153147/laravel-signature-validation-failing-on-ec2-due-to-http-https-inconsistency&#xA;https://old.reddit.com/r/laravel/comments/ps82ot/load_balancing_my_app_on_aws/&#xA;https://medium.com/@harrisrafto/securing-your-laravel-app-behind-load-balancers-mastering-the-trustproxies-middleware-5fd8c411b2d4&#xA;└─$ docker-compose config Compartir el .</description>
     </item>
   </channel>
 </rss>

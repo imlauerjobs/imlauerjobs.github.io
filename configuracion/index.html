@@ -43,7 +43,7 @@
 </span></span><span class="line"><span class="cl">docker-compose up
 </span></span><span class="line"><span class="cl">cp .env.example .env
 </span></span></code></pre></div><p>Configurá smtp</p>
-<p>Si te tira error de algo, ejecutá:</p>
+<p>Si te tira error de <code>KeyError: 'ContainerConfig'</code> , ejecutá:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">docker-compose down
 </span></span></code></pre></div><p>Cada vez que hacés un cambio en el <code>.env</code> tenés que reconstruir tu imágen y borrá la interior:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">docker images
@@ -53,6 +53,24 @@
 </span></span><span class="line"><span class="cl">docker build . -t my-web-app -f Dockerfile
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">docker-compose up
+</span></span></code></pre></div><p><a href="https://stackoverflow.com/questions/77153147/laravel-signature-validation-failing-on-ec2-due-to-http-https-inconsistency">https://stackoverflow.com/questions/77153147/laravel-signature-validation-failing-on-ec2-due-to-http-https-inconsistency</a></p>
+<p><a href="https://old.reddit.com/r/laravel/comments/ps82ot/load_balancing_my_app_on_aws/">https://old.reddit.com/r/laravel/comments/ps82ot/load_balancing_my_app_on_aws/</a></p>
+<p><a href="https://medium.com/@harrisrafto/securing-your-laravel-app-behind-load-balancers-mastering-the-trustproxies-middleware-5fd8c411b2d4">https://medium.com/@harrisrafto/securing-your-laravel-app-behind-load-balancers-mastering-the-trustproxies-middleware-5fd8c411b2d4</a></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">└─$ docker-compose config
+</span></span></code></pre></div><h3 id="compartir-el-env-entre-el-host-y-el-guest">Compartir el <code>.env</code> entre el host y el guest</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">version: &#39;3.8&#39;
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">services:
+</span></span><span class="line"><span class="cl">  app:
+</span></span><span class="line"><span class="cl">    image: tu-imagen
+</span></span><span class="line"><span class="cl">    env_file:
+</span></span><span class="line"><span class="cl">      - .env # Esto es opcional si montas el .env directamente
+</span></span><span class="line"><span class="cl">    volumes:
+</span></span><span class="line"><span class="cl">      - .:/app # Monta todo el directorio actual
+</span></span><span class="line"><span class="cl">      - ./tu_archivo.env:/app/.env # Monta el archivo .env específico
+</span></span><span class="line"><span class="cl">    ports:
+</span></span><span class="line"><span class="cl">      - &#34;8000:8000&#34;
+</span></span><span class="line"><span class="cl">    # Otras configuraciones...
 </span></span></code></pre></div></div></div><footer>
     <hr>
     <div class="footer-text">
