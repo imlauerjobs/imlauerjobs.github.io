@@ -72,6 +72,19 @@
 </span></span><span class="line"><span class="cl">      - &#34;8000:8000&#34;
 </span></span><span class="line"><span class="cl">    # Otras configuraciones...
 </span></span></code></pre></div><p><a href="https://old.reddit.com/r/symfony/comments/wkfeyl/forcing_urlgenerator_to_always_return_https_not/">https://old.reddit.com/r/symfony/comments/wkfeyl/forcing_urlgenerator_to_always_return_https_not/</a></p>
+<p><a href="https://stackoverflow.com/questions/57239213/how-to-enable-https-on-aws-ec2-running-an-nginx-docker-container">https://stackoverflow.com/questions/57239213/how-to-enable-https-on-aws-ec2-running-an-nginx-docker-container</a></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">Easiest way would be to setup a ALB and use it <span class="k">for</span> HTTPS.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">1. Create ALB
+</span></span><span class="line"><span class="cl">2. Add <span class="m">443</span> Listener to ALB
+</span></span><span class="line"><span class="cl">3. Generate Certificate using AWS Certificate Manager
+</span></span><span class="line"><span class="cl">4. Set the Certificate to the default cert <span class="k">for</span> the load balancer
+</span></span><span class="line"><span class="cl">5. Create Target Group
+</span></span><span class="line"><span class="cl">6. Add your EC2 Instance to the Target Group
+</span></span><span class="line"><span class="cl">7. Point the ALB to the Target Group
+</span></span><span class="line"><span class="cl">8. Requests will be served using the ALB with https
+</span></span></code></pre></div><p>This worked for me, too, with an Application Load Balancer serving to an ECS cluster which (currently) has only one EC2 instance. One gotcha to watch out for / cool trick: Set your Nginx to listen only on port 80, set your load balancer listeners (ports 80 &amp; 443) to point to a target group, then on your target group, ONLY set a target for port 80 (so, NO target for 443). That&rsquo;ll deliver SSL traffic to Nginx on port 80, so you don&rsquo;t need to configure an SSL cert in Nginx - it&rsquo;s handled by the AWS Cert at the Load Balancer</p>
+<p>Esto también funcionó para mí, con un balanceador de carga de aplicaciones que sirve a un clúster ECS que (actualmente) tiene solo una instancia EC2. Un truco a tener en cuenta / genial: configure su Nginx para que escuche solo en el puerto 80, configure los oyentes del balanceador de carga (puertos 80 y 443) para que apunten a un grupo objetivo, luego, en su grupo objetivo, SÓLO establezca un objetivo para el puerto 80 (por lo tanto, NO hay objetivo para 443). Esto entregará tráfico SSL a Nginx en el puerto 80, por lo que no necesita configurar un certificado SSL en Nginx; lo maneja AWS Cert en Load Balancer.</p>
 </div></div><footer>
     <hr>
     <div class="footer-text">
