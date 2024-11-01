@@ -13,7 +13,7 @@
       <link>https://imlauerjobs.github.io/auto_deployment_gitlab/</link>
       <pubDate>Mon, 23 Sep 2024 20:35:21 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/auto_deployment_gitlab/</guid>
-      <description>Need CI/CD pipeline to deploy the code on merge request approval on target server. The Target sever is running Ubuntu. On every deployment the code need to be updated on the server , npm update , PM2 restart the node or start after purging the existing logs.&#xA;configure the GIT to send email on pipeline success.&#xA;NOTE: Git branch are specific to a server ( DEV or QA ) Etc.</description>
+      <description>&lt;p&gt;Need CI/CD pipeline to deploy the code on merge request approval on target server. The Target sever is running Ubuntu. On every deployment the code need to be updated on the server , npm update , PM2 restart the node or start after purging the existing logs.&lt;/p&gt;&#xA;&lt;p&gt;configure the GIT to send email on pipeline success.&lt;/p&gt;&#xA;&lt;p&gt;NOTE: Git branch are specific to a server ( DEV or QA ) Etc.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

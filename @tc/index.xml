@@ -13,7 +13,7 @@
       <link>https://imlauerjobs.github.io/tecnocompro/</link>
       <pubDate>Sat, 12 Oct 2024 04:28:13 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/tecnocompro/</guid>
-      <description>FAQ de ese router: https://www.tp-link.com/us/user-guides/tl-wr841n_v14/faq#ug-sub-title-1&#xA;Pasos: SACALE FOTO A LA CONTRASEÑA WPS o CONTRASEÑA POR DEFECTO DEL ROUTER WIFI PORQUE NECESITÁS ESA CONTRASEÑA PARA CONECTARTE LUEGO DE FORMATEAR EL ROUTER WIFI (O LLEVÁ UN CABLE ETHERNET). UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE BOLIVAR 1911 y JUNIN por si las dudas, NO SÉ SI EL BACKUP ES COMPATIBLE PORQUE ES DE OTRO MODELO (projects/tp_link_backup) Fijate que IPs son las cámaras y sus puertos internos: 192.</description>
+      <description>&lt;p&gt;FAQ de ese router: &lt;br&gt;&#xA;&lt;a href=&#34;https://www.tp-link.com/us/user-guides/tl-wr841n_v14/faq#ug-sub-title-1&#34;&gt;https://www.tp-link.com/us/user-guides/tl-wr841n_v14/faq#ug-sub-title-1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;pasos&#34;&gt;Pasos:&lt;/h5&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;SACALE FOTO A LA CONTRASEÑA WPS o CONTRASEÑA POR DEFECTO DEL ROUTER WIFI PORQUE NECESITÁS ESA CONTRASEÑA PARA CONECTARTE LUEGO DE FORMATEAR EL ROUTER WIFI (O LLEVÁ UN CABLE ETHERNET).&lt;/li&gt;&#xA;&lt;li&gt;UBICÁ EL BACKUP QUE HICISTE EN EL LOCAL DE BOLIVAR 1911 y JUNIN por si las dudas, NO SÉ SI EL BACKUP ES COMPATIBLE PORQUE ES DE OTRO MODELO (&lt;code&gt;projects/tp_link_backup&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Fijate que IPs son las cámaras y sus puertos internos:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;192.168.1.64 (puerto interno: 554) es la HikCam (quizás cambie la IP si desactivaste el DHCP)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

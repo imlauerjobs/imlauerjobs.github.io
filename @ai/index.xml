@@ -13,7 +13,7 @@
       <link>https://imlauerjobs.github.io/ai/</link>
       <pubDate>Mon, 23 Sep 2024 10:36:35 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/ai/</guid>
-      <description>write this more formally: Regarding the previous work, the first time I started vmware installation it asked me for the license. Then I closed the VMware installation and ran the command that adds the license (/usr/lib/vmware/bin/vmware-vmx-debug &amp;ndash;new-sn ZZ352-2UZDQ-48EUZ-9WW7Z-WCKYD) I re-ran VMware and VMWare stopped asking for the license so it worked, the last command I always throw segmenetation fault fails and it is a useless (/usr/lib/vmware/bin/v mware-enter-serial) anyway the installation was done correctly.</description>
+      <description>&lt;p&gt;write this more formally: Regarding the previous work, the first time I started vmware installation it asked me for the license. Then I closed the VMware installation and ran the command that adds the license (/usr/lib/vmware/bin/vmware-vmx-debug &amp;ndash;new-sn ZZ352-2UZDQ-48EUZ-9WW7Z-WCKYD) I re-ran VMware and VMWare stopped asking for the license so it worked, the last command I always throw segmenetation fault fails and it is a useless (/usr/lib/vmware/bin/v mware-enter-serial) anyway the installation was done correctly.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

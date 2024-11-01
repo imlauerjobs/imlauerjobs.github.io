@@ -13,7 +13,7 @@
       <link>https://imlauerjobs.github.io/sftp_ionos/</link>
       <pubDate>Wed, 18 Sep 2024 20:54:25 -0300</pubDate>
       <guid>https://imlauerjobs.github.io/sftp_ionos/</guid>
-      <description>Buscamos un consultor experimentado que nos oriente sobre la configuración y gestión de SFTP en nuestro servidor IONOS. El candidato ideal tendrá un sólido conocimiento de los protocolos de transferencia segura de archivos y las configuraciones específicas requeridas para los servidores IONOS. Nos ayudará a optimizar nuestra configuración SFTP para mayor seguridad y eficiencia. Su experiencia ayudará a garantizar una implementación fluida y una gestión continua.&#xA;EL PROBLEMA: es necesario proporcionar acceso a la carpeta SFTP para un subdominio específico.</description>
+      <description>&lt;p&gt;Buscamos un consultor experimentado que nos oriente sobre la configuración y gestión de SFTP en nuestro servidor IONOS. El candidato ideal tendrá un sólido conocimiento de los protocolos de transferencia segura de archivos y las configuraciones específicas requeridas para los servidores IONOS. Nos ayudará a optimizar nuestra configuración SFTP para mayor seguridad y eficiencia. Su experiencia ayudará a garantizar una implementación fluida y una gestión continua.&lt;/p&gt;&#xA;&lt;p&gt;EL PROBLEMA: es necesario proporcionar acceso a la carpeta SFTP para un subdominio específico. Al alcanzar la cima del acceso, todos los dominios y archivos son visibles. En cambio, solo quiero que esté disponible lo que está depositado en el archivo y no lo que tengo en el servidor.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
