@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Endpoints on Index</title>
+    <link>https://imlauerjobs.github.io/@endpoints/</link>
+    <description>Recent content in Endpoints on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Fri, 08 Nov 2024 05:14:42 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@endpoints/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endpoints</title>
+      <link>https://imlauerjobs.github.io/endpoints/</link>
+      <pubDate>Fri, 08 Nov 2024 05:14:42 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/endpoints/</guid>
+      <description>&lt;p&gt;Con AI podés construir fácilmente aplicaciones CLI pasandole los endpoints de la backend.&lt;br&gt;&#xA;Le puse haceme un script en python que use este endpoint y mostrame los resultados.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
