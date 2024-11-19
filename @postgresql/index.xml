@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postgresql on Index</title>
+    <link>https://imlauerjobs.github.io/@postgresql/</link>
+    <description>Recent content in Postgresql on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Fri, 08 Nov 2024 08:30:39 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install configure postgresql cluster</title>
+      <link>https://imlauerjobs.github.io/install_configure_postgresql_cluster/</link>
+      <pubDate>Fri, 08 Nov 2024 08:30:39 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/install_configure_postgresql_cluster/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

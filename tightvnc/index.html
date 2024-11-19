@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Tightvnc | Index</title>
+<meta name="robots" content='index, follow'>
+<meta name="description" content="">
+<meta name="generator" content="hugo-index">
+<link crossorigin="anonymous" href="https://imlauerjobs.github.io/assets/stylesheet.css" rel="preload stylesheet" as="style">
+<script crossorigin="anonymous" src="https://imlauerjobs.github.io/assets/quicklink.js" rel="preload" as="script"></script>
+<script>
+    window.addEventListener('load', () => {
+        quicklink.listen();
+    });
+</script>
+
+  </head>
+  <body><header>
+  <h1>
+    <a href="https://imlauerjobs.github.io/">
+      <img src="https://imlauerjobs.github.io/index.png" alt="Index">
+      <span>Index</span>
+    </a>
+    <span class="hl">/</span>
+    <a href="https://imlauerjobs.github.io/tightvnc/">
+      <span>Tightvnc</span>
+    </a>
+  </h1>
+  <p class="desc"></p>
+</header>
+<div class="main">
+
+<ul class="tagsList single">
+  
+  <li><a href="https://imlauerjobs.github.io/@tightvnc/">Tightvnc</a></li>
+  
+</ul>
+
+<div class="content"><p>Do you have time to log in through AnyDesk, and check what’s lacking in the configuration done?</p>
+<h4 id="debian">Debian</h4>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lsb_release -cd <span class="p">;</span> getconf LONG_BIT<span class="p">;</span> hostname <span class="p">;</span> hostname -I <span class="o">&amp;&amp;</span> sudo apt install -y build-essential net-tools curl git software-properties-common
+</span></span><span class="line"><span class="cl">sudo apt install -y tightvnc
+</span></span></code></pre></div><h4 id="arch">Arch</h4>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo pacman -S tightvncserver
+</span></span></code></pre></div><hr>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">vncserver
+</span></span><span class="line"><span class="cl">vncserver -kill :1
+</span></span><span class="line"><span class="cl">mv ~/.vnc/xstartup ~/.vnc/xstartup.bak
+</span></span><span class="line"><span class="cl">vim ~/.vnc/xstartup
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#!/bin/bash</span>
+</span></span><span class="line"><span class="cl">xrdb <span class="nv">$HOME</span>/.Xresources
+</span></span><span class="line"><span class="cl">gnome-session
+</span></span></code></pre></div><hr>
+<p>Damos permisos de ejecución al script, ejecutamos vncserver y verificamos si están abiertos los puertos:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">chmod +x ~/.vnc/xstartup
+</span></span><span class="line"><span class="cl">vncserver
+</span></span><span class="line"><span class="cl">ifconfig
+</span></span><span class="line"><span class="cl">netstat -tlnp
+</span></span></code></pre></div><p>Luego desde UltraVNC Viewer nos conectamos con la contraseña.</p>
+</div></div><footer>
+    <hr>
+    <div class="footer-text">
+        <div>© 2024 Index</div>
+        <div>Powered by <a href="https://gohugo.io/">Hugo</a> & <a
+                href="https://github.com/adityatelange/hugo-index/">Index</a></div>
+    </div>
+</footer>
+</body>
+</html>

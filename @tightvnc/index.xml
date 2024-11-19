@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tightvnc on Index</title>
+    <link>https://imlauerjobs.github.io/@tightvnc/</link>
+    <description>Recent content in Tightvnc on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Fri, 08 Nov 2024 08:35:56 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@tightvnc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tightvnc</title>
+      <link>https://imlauerjobs.github.io/tightvnc/</link>
+      <pubDate>Fri, 08 Nov 2024 08:35:56 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/tightvnc/</guid>
+      <description>&lt;p&gt;Do you have time to log in through AnyDesk, and check what’s lacking in the configuration done?&lt;/p&gt;&#xA;&lt;h4 id=&#34;debian&#34;&gt;Debian&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;lsb_release -cd &lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; getconf LONG_BIT&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; hostname &lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; hostname -I &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo apt install -y build-essential net-tools curl git software-properties-common&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt install -y tightvnc&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;arch&#34;&gt;Arch&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S tightvncserver&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;vncserver&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;vncserver -kill :1&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mv ~/.vnc/xstartup ~/.vnc/xstartup.bak&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;vim ~/.vnc/xstartup&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#!/bin/bash&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;xrdb &lt;span class=&#34;nv&#34;&gt;$HOME&lt;/span&gt;/.Xresources&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;gnome-session&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;&#xA;&lt;p&gt;Damos permisos de ejecución al script, ejecutamos vncserver y verificamos si están abiertos los puertos:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
