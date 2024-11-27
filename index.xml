@@ -6,8 +6,50 @@
     <description>Recent content on Index</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
-    <lastBuildDate>Tue, 19 Nov 2024 09:10:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 10:17:45 -0300</lastBuildDate>
     <atom:link href="https://imlauerjobs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live video streaming</title>
+      <link>https://imlauerjobs.github.io/live_video_streaming/</link>
+      <pubDate>Tue, 26 Nov 2024 10:17:45 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/live_video_streaming/</guid>
+      <description>&lt;p&gt;Basado en el PDF que describe en general como será la plataforma streaming, grabar y reproducirlok, deberías crear un Dockerfile + Docker Compose setup que facilite este setup.&lt;/p&gt;&#xA;&lt;p&gt;Necesitás leer todo el PDF (no es mucho) y sugerirme que componentes usar para cada servidor/servicio cuando ofertás a este proyecto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Website migration</title>
+      <link>https://imlauerjobs.github.io/website_migration/</link>
+      <pubDate>Tue, 26 Nov 2024 10:00:54 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/website_migration/</guid>
+      <description>&lt;p&gt;13 connects.&lt;/p&gt;&#xA;&lt;p&gt;Tengo un servicio de VPS en Contabo y tmb tengo 3 sitios, necesito instalar cpanel, pack up la versión odoo, dividir el VPS y luego hacer una partición e instalar y mover el sitio de bluehost.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Migración del sitio a Contabo.&lt;/li&gt;&#xA;&lt;li&gt;Instalar servicio de administración de corre.&lt;/li&gt;&#xA;&lt;li&gt;Soluciones de backup y seguridad.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Linux whm mantenimiento redis instalacion asistencia</title>
+      <link>https://imlauerjobs.github.io/linux_whm_mantenimiento_redis_instalacion_asistencia/</link>
+      <pubDate>Mon, 25 Nov 2024 09:00:02 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/linux_whm_mantenimiento_redis_instalacion_asistencia/</guid>
+      <description>&lt;p&gt;Connects: 15&lt;/p&gt;&#xA;&lt;p&gt;Estamos buscando por un freelancer habilidoso para ayudarnos con tareas de mantenimiento de Linux/WHM a través de soporte remoto de escritorio. Vos me vas a guiar mientras yo escribo comandos en la consola de comandos, asegurándote un fluidas operaciones y proceso de instalación. La tarea principal en tus manos es instalar Redis y cualquier problema relacionado. Los candidatos ideales deben tener un &lt;strong&gt;sólido entendimiento de sistemas Linux y configuraciones WHM&lt;/strong&gt;. Tu soporte será crucial en ayudar a mantener el rendimiento y la fiabilidad del sistema.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Server admin windows linux environments</title>
+      <link>https://imlauerjobs.github.io/server_admin_windows_linux_environments/</link>
+      <pubDate>Sun, 24 Nov 2024 22:07:00 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/server_admin_windows_linux_environments/</guid>
+      <description>&lt;p&gt;Necesitamos un experimentado administrador de servidores para administrar el hosting de varios sitios web y sistemas desarrollados por nuestro desarrollador web.&lt;/p&gt;&#xA;&lt;p&gt;Requisitos:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Disponible para tareas durante horas EST y 24/7 para emergencias.&lt;/li&gt;&#xA;&lt;li&gt;Estar canchero trabajando con servidores Windows y Linux.&lt;/li&gt;&#xA;&lt;li&gt;Experiencia con servidores OVH, setups cloud, y DigitalOcean droplets.&lt;/li&gt;&#xA;&lt;li&gt;Experiencia en hosting WordPress, sitios con PHP, sitios .NET , setups Dockerized y entornos sin Docker.&lt;/li&gt;&#xA;&lt;li&gt;Estamos buscando por alguien confiable, responsable y bien instruido manejar un amplio rango de entornos de hosting.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu fix hestia certificate issue domain finish wordpress migration</title>
+      <link>https://imlauerjobs.github.io/ubuntu_fix_hestia_certificate_issue_domain_finish_wordpress_migration/</link>
+      <pubDate>Sun, 24 Nov 2024 17:54:52 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/ubuntu_fix_hestia_certificate_issue_domain_finish_wordpress_migration/</guid>
+      <description>&lt;p&gt;Migrar sitio de wordpress de hostnoc a mi servidor personal de Ubuntu.&lt;/p&gt;&#xA;&lt;p&gt;Ya copié los archivos &lt;code&gt;public_html&lt;/code&gt; y la base de datos.&lt;/p&gt;&#xA;&lt;p&gt;Queda arreglar el problema del certificado para el dominio (Hestia está teniendo dificultades en generarlo con LetsEncrypt) y linkear todo así el sitio funciona.&lt;/p&gt;&#xA;&lt;h4 id=&#34;hestia&#34;&gt;Hestia:&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;Open-source web server control panel&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;Fast, reliable, open-source. The control panel you’ve always wanted is just a command away.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Cupones mercadolibre y ofertas de todo tipo</title>
+      <link>https://imlauerjobs.github.io/cupones_mercadolibre/</link>
+      <pubDate>Tue, 19 Nov 2024 13:52:30 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/cupones_mercadolibre/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.mercadolibre.com.ar/l/promociones&#34;&gt;https://www.mercadolibre.com.ar/l/promociones&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://foros.3dgames.com.ar/threads/1001521-cupones-y-codigos-para-todo-no-pedidosya/page891&#34;&gt;https://foros.3dgames.com.ar/threads/1001521-cupones-y-codigos-para-todo-no-pedidosya/page891&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://foros.3dgames.com.ar/threads/1001521-cupones-y-codigos-para-todo-no-pedidosya/page891&#34;&gt;https://foros.3dgames.com.ar/threads/942062-ofertas-online-argentina&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Carbones</title>
       <link>https://imlauerjobs.github.io/carbones/</link>

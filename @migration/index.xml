@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Migration on Index</title>
+    <link>https://imlauerjobs.github.io/@migration/</link>
+    <description>Recent content in Migration on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Tue, 26 Nov 2024 10:00:54 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website migration</title>
+      <link>https://imlauerjobs.github.io/website_migration/</link>
+      <pubDate>Tue, 26 Nov 2024 10:00:54 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/website_migration/</guid>
+      <description>&lt;p&gt;13 connects.&lt;/p&gt;&#xA;&lt;p&gt;Tengo un servicio de VPS en Contabo y tmb tengo 3 sitios, necesito instalar cpanel, pack up la versión odoo, dividir el VPS y luego hacer una partición e instalar y mover el sitio de bluehost.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Migración del sitio a Contabo.&lt;/li&gt;&#xA;&lt;li&gt;Instalar servicio de administración de corre.&lt;/li&gt;&#xA;&lt;li&gt;Soluciones de backup y seguridad.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

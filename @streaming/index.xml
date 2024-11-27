@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streaming on Index</title>
+    <link>https://imlauerjobs.github.io/@streaming/</link>
+    <description>Recent content in Streaming on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Tue, 26 Nov 2024 10:17:45 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@streaming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live video streaming</title>
+      <link>https://imlauerjobs.github.io/live_video_streaming/</link>
+      <pubDate>Tue, 26 Nov 2024 10:17:45 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/live_video_streaming/</guid>
+      <description>&lt;p&gt;Basado en el PDF que describe en general como será la plataforma streaming, grabar y reproducirlok, deberías crear un Dockerfile + Docker Compose setup que facilite este setup.&lt;/p&gt;&#xA;&lt;p&gt;Necesitás leer todo el PDF (no es mucho) y sugerirme que componentes usar para cada servidor/servicio cuando ofertás a este proyecto.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

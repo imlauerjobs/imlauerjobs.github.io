@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certificate on Index</title>
+    <link>https://imlauerjobs.github.io/@certificate/</link>
+    <description>Recent content in Certificate on Index</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Sun, 24 Nov 2024 17:54:52 -0300</lastBuildDate>
+    <atom:link href="https://imlauerjobs.github.io/@certificate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu fix hestia certificate issue domain finish wordpress migration</title>
+      <link>https://imlauerjobs.github.io/ubuntu_fix_hestia_certificate_issue_domain_finish_wordpress_migration/</link>
+      <pubDate>Sun, 24 Nov 2024 17:54:52 -0300</pubDate>
+      <guid>https://imlauerjobs.github.io/ubuntu_fix_hestia_certificate_issue_domain_finish_wordpress_migration/</guid>
+      <description>&lt;p&gt;Migrar sitio de wordpress de hostnoc a mi servidor personal de Ubuntu.&lt;/p&gt;&#xA;&lt;p&gt;Ya copié los archivos &lt;code&gt;public_html&lt;/code&gt; y la base de datos.&lt;/p&gt;&#xA;&lt;p&gt;Queda arreglar el problema del certificado para el dominio (Hestia está teniendo dificultades en generarlo con LetsEncrypt) y linkear todo así el sitio funciona.&lt;/p&gt;&#xA;&lt;h4 id=&#34;hestia&#34;&gt;Hestia:&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;Open-source web server control panel&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;Fast, reliable, open-source. The control panel you’ve always wanted is just a command away.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
